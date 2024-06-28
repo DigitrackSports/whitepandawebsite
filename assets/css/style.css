@@ -1,4 +1,3 @@
-
 /*==============================================
 Template Name: Toptech - Toptech It Solutions HTML5 Template 
 Author:  https://themeforest.net/user/dreamit-solution
@@ -67,18 +66,22 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     margin-right: 35px;
 }
 
-.header-menu ul li a {
+.header-area .header-menu ul li a {
     display: inline-block;
     font-weight: 600;
     font-size: 17px;
-    padding: 40px 0;
+    padding: 30px 0;
     text-transform: capitalize;
     color: #fff;
     transition: 0.5s;
 }
 
-.header-menu ul li a:hover{
-    color:#0c5adb;
+.header-area.sticky .header-menu ul li a {
+    padding: 18px 0;
+}
+
+.header-menu ul li a:hover {
+    color: #0c5adb;
 }
 
 .header-button {
@@ -86,7 +89,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 }
 
 .header-button a {
-    padding: 14px 34px;
+    padding: 4px 30px;
     color: #fff;
     background: #0c5adb;
     border: 1px solid #0c5adb;
@@ -99,9 +102,9 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     font-weight: 600;
 }
 
-.header-button a:hover{
-    color:#0c5adb;
-    background:#fff;
+.header-button a:hover {
+    color: #0c5adb;
+    background: #fff;
 }
 
 .header-menu ul li i {
@@ -114,8 +117,8 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 }
 
 
-.header-menu ul li a:hover i{
-    color:#0c5adb;
+.header-menu ul li a:hover i {
+    color: #0c5adb;
 }
 
 .header-search-icon i {
@@ -124,7 +127,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transition: 0.5s;
 }
 
-.header-search-icon i:hover{
+.header-search-icon i:hover {
     color: #0c5adb;
 }
 
@@ -149,7 +152,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     border-radius: 3px 3px 0 0;
 }
 
-.header-menu ul li:hover .sub-menu{
+.header-menu ul li:hover .sub-menu {
     opacity: 1;
     top: 100%;
     visibility: visible;
@@ -168,24 +171,24 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     z-index: 1;
 }
 
-.header-menu ul li .sub-menu li a:hover{
+.header-menu ul li .sub-menu li a:hover {
     color: #fff !important;
 }
 
-.header-menu ul li .sub-menu li a:before{
+.header-menu ul li .sub-menu li a:before {
     position: absolute;
     content: "";
     width: 100%;
     height: 0;
     left: 0;
     bottom: 0;
-    background:#0c5adb;
+    background: #0c5adb;
     z-index: -1;
     transition: 0.5s;
 }
 
-.header-menu ul li .sub-menu li a:hover:before{
-    height:100%;
+.header-menu ul li .sub-menu li a:hover:before {
+    height: 100%;
     top: 0;
 }
 
@@ -214,22 +217,24 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    height: 945px;
+    /* height: 945px; */
+    height: 100vh;
+    padding-top: 100px;
 }
 
 .style-one .hero-content h4 {
     font-size: 25px;
     font-weight: 600;
     color: #fff;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     margin: 0 0 21px;
 }
 
 .style-one .hero-content h1 {
-    font-size: 74px;
+    font-size: 34px;
     color: #fff;
     font-weight: 700;
-    line-height: 66px;
+    line-height: 30px;
     text-transform: uppercase;
 }
 
@@ -241,7 +246,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     margin: 26px 0 0;
 }
 
-.style-one.hero-button{
+.style-one.hero-button {
     margin-top: 49px;
 }
 
@@ -257,9 +262,9 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transition: 0.5s;
 }
 
-.style-one .hero-button.style-one a:hover{
-  background: transparent;
-  border: 1px solid #ffffff6e;
+.style-one .hero-button.style-one a:hover {
+    background: transparent;
+    border: 1px solid #ffffff6e;
 }
 
 .style-one a.button-two {
@@ -269,10 +274,10 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transition: 0.5s;
 }
 
-.style-one a.button-two:hover{
-  background:#0c5adb !important;
-  color:#fff;
- border: 1px solid #0c5adb !important;
+.style-one a.button-two:hover {
+    background: #0c5adb !important;
+    color: #fff;
+    border: 1px solid #0c5adb !important;
 }
 
 
@@ -304,22 +309,23 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 }
 
 .style-one .flip-box:hover .flip-box-inner {
-  transform: rotateY(180deg);
+    transform: rotateY(180deg);
 }
 
-.style-one .flip-box-front, .flip-box-back {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  -webkit-backface-visibility: hidden;
-  backface-visibility: hidden;
+.style-one .flip-box-front,
+.flip-box-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
 }
 
 .style-one .flip-box-front {
     padding: 36px 25px 0;
     border-radius: 5px;
     background-color: #fff;
-    box-shadow: 0 0 3px rgba(0,0,0,0.20);
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.20);
 }
 
 .style-one .flip-box-content h4 {
@@ -351,7 +357,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 }
 
 .style-one .flip-box-back {
-    background-color:#0C5ADB;
+    background-color: #0C5ADB;
     transform: rotateY(180deg);
     padding: 34px 24px 0;
     border-radius: 5px;
@@ -374,16 +380,16 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     z-index: -1;
 }
 
-.style-one .flip-box-back .flip-box-thumb img{
+.style-one .flip-box-back .flip-box-thumb img {
     filter: brightness(0) invert(1);
 }
 
 .style-one .flip-box-back .flip-box-button a,
 .style-one .flip-box-back .flip-box-button i,
 .style-one .flip-box-back .flip-box-content p,
-.style-one .flip-box-back .flip-box-content h4{
-    color:#fff !important;
-} 
+.style-one .flip-box-back .flip-box-content h4 {
+    color: #fff !important;
+}
 
 
 /*---=====================================================
@@ -501,8 +507,8 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     line-height: 1;
 }
 
-.style-one.section-title span{
-    color:#0c5adb;
+.style-one.section-title span {
+    color: #0c5adb;
 }
 
 .style-one.section-title p {
@@ -528,14 +534,14 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transition: 0.5s;
 }
 
-.style-one.toptech-button a:hover{
-    color:#0c5adb;
+.style-one.toptech-button a:hover {
+    color: #0c5adb;
 }
 
-.style-one.toptech-button a:before{
+.style-one.toptech-button a:before {
     position: absolute;
     content: "";
-    width:0;
+    width: 0;
     height: 100%;
     right: 0;
     top: 0;
@@ -544,9 +550,9 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transition: 0.5s;
 }
 
-.style-one.toptech-button a:hover:before{
-  width: 100%;
-  left: 0;
+.style-one.toptech-button a:hover:before {
+    width: 100%;
+    left: 0;
 }
 
 .style-one.toptech-button i {
@@ -559,8 +565,8 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transition: 0.5s;
 }
 
-.style-one.toptech-button a:hover i{
-    color:#0c5adb;
+.style-one.toptech-button a:hover i {
+    color: #0c5adb;
 }
 
 
@@ -671,7 +677,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
    <!--Toptech Work Process Area Css Style One-->
 =========================================================---*/
 .style-one.work-process-area {
-    padding: 108px 0 89px;
+    padding: 50px 0;
 }
 
 .style-one.work-process-area .section-title.center {
@@ -699,7 +705,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 }
 
 .single-process-box.before-transprant:before {
-   background: transparent !important;
+    background: transparent !important;
 }
 
 .style-one .single-process-box:after {
@@ -714,7 +720,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     z-index: -1;
 }
 
-.single-process-box.after-transprant:after{
+.single-process-box.after-transprant:after {
     background: transparent;
 }
 
@@ -732,16 +738,16 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     position: relative;
 }
 
-.style-one .single-process-box:hover .process-box-thumb{
+.style-one .single-process-box:hover .process-box-thumb {
     border: 2px dashed #0c5adb;
 }
 
-.style-one .process-box-thumb img{
+.style-one .process-box-thumb img {
     transition: 0.5s;
 }
 
-.style-one .single-process-box:hover img{
-    transform:scaleX(-1);
+.style-one .single-process-box:hover img {
+    transform: scaleX(-1);
 }
 
 .style-one .process-content h4 {
@@ -770,7 +776,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
    <!--Toptech Faqs Area Css Style One-->
 =========================================================---*/
 .style-one.faqs-area {
-    padding: 0 0 100px;
+    padding: 50px 0;
 }
 
 .style-one .row.add-faqs-bg {
@@ -805,11 +811,11 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     border-radius: 5px;
 }
 
-.style-one .single-input-box input::placeholder{
-    color:#fff;
+.style-one .single-input-box input::placeholder {
+    color: #fff;
 }
 
-.style-one .single-input-box textarea{
+.style-one .single-input-box textarea {
     background: #3a7ae4;
     border: transparent;
     outline: 0;
@@ -821,8 +827,8 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     border-radius: 5px;
 }
 
-.style-one .single-input-box textarea::placeholder{
-    color:#fff;
+.style-one .single-input-box textarea::placeholder {
+    color: #fff;
 }
 
 .style-one .single-input-box button {
@@ -843,13 +849,13 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     padding-left: 37px;
 }
 
-.faqs-container{
+.faqs-container {
     overflow: hidden;
 }
 
 .faq-singular {
     position: relative;
-    background:#CEDEF7;
+    background: #CEDEF7;
     margin-bottom: 20px;
 }
 
@@ -867,8 +873,8 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     font-family: 'Nunito', sans-serif;
 }
 
-.faq-singular.active .faq-question{
-    border-bottom:1px solid #2222;
+.faq-singular.active .faq-question {
+    border-bottom: 1px solid #2222;
 }
 
 .faq-singular .faq-question:before {
@@ -880,11 +886,11 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     font-size: 30px;
     font-weight: 400;
     transition: 0.5s;
-    color:#0c5adb;
+    color: #0c5adb;
 }
 
 .faq-singular.active .faq-question:before {
-    content:"-";
+    content: "-";
     font-size: 30px;
 }
 
@@ -915,24 +921,24 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     padding: 0 10px;
 }
 
-.style-one .portfolio-thumb{
+.style-one .portfolio-thumb {
     position: relative;
 }
 
-.style-one .portfolio-thumb:before{
+.style-one .portfolio-thumb:before {
     position: absolute;
     content: "";
     width: 0;
     height: 100%;
     left: 50%;
     top: 0;
-    background:#041424;
+    background: #041424;
     opacity: 0.6;
     transition: 0.5s;
     border-radius: 10px;
 }
 
-.style-one .single-portfolio-box:hover .portfolio-thumb:before{
+.style-one .single-portfolio-box:hover .portfolio-thumb:before {
     width: 100%;
     left: 0;
 }
@@ -956,7 +962,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transition: 0.5s;
 }
 
-.style-one .single-portfolio-box:hover .portfolio-content{
+.style-one .single-portfolio-box:hover .portfolio-content {
     transform: translate(0%, 0) rotateX(0deg)
 }
 
@@ -1028,12 +1034,12 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     position: relative;
     margin: auto;
     border-radius: 10px 10px 0 0;
-     transform: perspective(500px) rotateX(90deg);
+    transform: perspective(500px) rotateX(90deg);
     -webkit-transition: all 400ms linear 0ms;
     transition: all 400ms linear 0ms;
 }
 
-.style-one .single-team-box:hover .team-bio{
+.style-one .single-team-box:hover .team-bio {
     transform: perspective(500px) rotateX(0);
 }
 
@@ -1043,7 +1049,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     color: #fff;
 }
 
-.style-one .team-bio p{
+.style-one .team-bio p {
     font-size: 16px;
     color: #fff;
     font-family: 'Rubik', sans-serif;
@@ -1066,7 +1072,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     top: -1px;
 }
 
-.style-one .single-team-box:hover .team-social-icon ul{
+.style-one .single-team-box:hover .team-social-icon ul {
     transform: perspective(500px) rotateX(0);
 }
 
@@ -1166,28 +1172,28 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     display: inline-block;
 }
 
-.style-one.testimonial-area .owl-dot:nth-child(2){
+.style-one.testimonial-area .owl-dot:nth-child(2) {
     background: url(../images/home-1/testi-2.png) !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
     background-position: center center;
 }
 
-.style-one.testimonial-area .owl-dot:nth-child(3){
+.style-one.testimonial-area .owl-dot:nth-child(3) {
     background: url(../images/home-1/testi-3.png) !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
     background-position: center center;
 }
 
-.style-one.testimonial-area .owl-dot:nth-child(4){
+.style-one.testimonial-area .owl-dot:nth-child(4) {
     background: url(../images/home-1/testi-4.png) !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
     background-position: center center;
 }
 
-.style-one.testimonial-area .owl-dot.active{
+.style-one.testimonial-area .owl-dot.active {
     transform: scale(1.1);
     border: 6px solid #0c5adb;
     border-radius: 50%;
@@ -1205,7 +1211,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     width: 60px;
     height: 60px;
     border-radius: 30px;
-    filter: drop-shadow(0px 10px 10px rgba(207,218,235,0.2));
+    filter: drop-shadow(0px 10px 10px rgba(207, 218, 235, 0.2));
     background-color: #ffffff;
     line-height: 60px;
     color: #0c5adb;
@@ -1227,7 +1233,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     width: 60px;
     height: 60px;
     border-radius: 30px;
-    filter: drop-shadow(0px 10px 10px rgba(207,218,235,0.2));
+    filter: drop-shadow(0px 10px 10px rgba(207, 218, 235, 0.2));
     background-color: #ffffff;
     line-height: 65px;
     color: #0c5adb;
@@ -1237,9 +1243,9 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 }
 
 .style-one.testimonial-area .owl-next i,
-.style-one.testimonial-area .owl-prev i:hover{
-    background:#0c5adb;
-    color:#fff;
+.style-one.testimonial-area .owl-prev i:hover {
+    background: #0c5adb;
+    color: #fff;
 }
 
 
@@ -1264,7 +1270,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     padding-bottom: 19px;
 }
 
-.style-one .blog-thumb{
+.style-one .blog-thumb {
     overflow: hidden;
 }
 
@@ -1273,7 +1279,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transition: 0.5s;
 }
 
-.style-one .single-blog-box:hover .blog-thumb img{
+.style-one .single-blog-box:hover .blog-thumb img {
     transform: scale(1.2);
 }
 
@@ -1306,7 +1312,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transition: 0.5s;
 }
 
-.style-one .blog-content a:hover{
+.style-one .blog-content a:hover {
     color: #0c5adb;
 }
 
@@ -1342,7 +1348,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     font-size: 17px;
 }
 
-.style-one .blog-button a:hover{
+.style-one .blog-button a:hover {
     color: #0c5adb !important;
 }
 
@@ -1352,11 +1358,11 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     position: relative;
     top: 2px;
     transition: 0.5s;
-     color: #232323;
+    color: #232323;
 }
 
-.style-one .blog-button a:hover i{
-     color: #0c5adb !important;
+.style-one .blog-button a:hover i {
+    color: #0c5adb !important;
 }
 
 
@@ -1369,7 +1375,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    padding: 119px 0 32px;
+    padding: 50px 0;
 }
 
 .style-one.footer-area.home-three {
@@ -1398,7 +1404,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transition: 0.5s;
 }
 
-.style-one .footer-widget-menu ul li a:hover{
+.style-one .footer-widget-menu ul li a:hover {
     color: #0c5adb;
 }
 
@@ -1444,7 +1450,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 
 .style-one .footer-bottom-area {
     border-top: 1px solid #ffffff21;
-    margin-top: 107px;
+    margin-top: 30px;
     padding-top: 30px;
 }
 
@@ -1474,8 +1480,8 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transition: 0.5s;
 }
 
-.style-one .footer-botton-social-icon ul li i:hover{
-    background:#0C59DB;
+.style-one .footer-botton-social-icon ul li i:hover {
+    background: #0C59DB;
 }
 
 
@@ -1549,8 +1555,8 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transition: 0.5s;
 }
 
-.top-header-social-icon ul li i:hover{
-   color:#0c5adb;
+.top-header-social-icon ul li i:hover {
+    color: #0c5adb;
 }
 
 
@@ -1571,8 +1577,8 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transition: 0.5s;
 }
 
-.style-two .header-search-icon i:hover{
-    color:#0c5adb;
+.style-two .header-search-icon i:hover {
+    color: #0c5adb;
 }
 
 .style-two .header-menu ul li a {
@@ -1584,8 +1590,8 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transition: 0.5s;
 }
 
-.style-two .header-menu ul li a:hover{
-    color:#0c5adb ;
+.style-two .header-menu ul li a:hover {
+    color: #0c5adb;
 }
 
 .style-two .header-button a {
@@ -1604,9 +1610,9 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transition: 0.5s;
 }
 
-.style-two .header-button a:hover{
-   color:#0c5adb;
-   background:#fff;
+.style-two .header-button a:hover {
+    color: #0c5adb;
+    background: #fff;
 }
 
 .style-two .header-menu ul li i {
@@ -1668,7 +1674,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     margin: 11px 0 0;
 }
 
-.style-two .hero-button{
+.style-two .hero-button {
     margin-top: 49px;
 }
 
@@ -1689,24 +1695,24 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transition: 0.5s;
 }
 
-.style-two .hero-button a:hover{
-    color:#0c5adb ;
-} 
+.style-two .hero-button a:hover {
+    color: #0c5adb;
+}
 
-.style-two .hero-button a:before{
-    position:absolute;
+.style-two .hero-button a:before {
+    position: absolute;
     content: "";
     width: 0;
     height: 100%;
     right: 0;
     top: 0;
-    background:#fff;
+    background: #fff;
     z-index: -1;
     border-radius: 5px;
     transition: 0.5s;
 }
 
-.style-two .hero-button a:hover:before{
+.style-two .hero-button a:hover:before {
     width: 100%;
     left: 0;
 }
@@ -1720,11 +1726,11 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transition: 0.5s;
 }
 
-.style-two .hero-button a:hover i{
-    color:#0c5adb ;
-} 
+.style-two .hero-button a:hover i {
+    color: #0c5adb;
+}
 
-.style-two .hero-right{
+.style-two .hero-right {
     position: relative;
 }
 
@@ -1756,7 +1762,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 
 .style-two .single-feature-box {
     text-align: center;
-    filter: drop-shadow(0px 10px 10px rgba(207,218,235,0.2));
+    filter: drop-shadow(0px 10px 10px rgba(207, 218, 235, 0.2));
     background: #fff;
     padding: 56px 42px 33px;
     border-radius: 10px;
@@ -1769,7 +1775,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     position: absolute;
     content: "";
     width: 100%;
-    height:0;
+    height: 0;
     left: 0;
     bottom: 0;
     background: url(../images/home-2/feature-box-shape.png);
@@ -1781,11 +1787,11 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transition: 0.5s;
 }
 
-.style-two .single-feature-box:hover:before{
+.style-two .single-feature-box:hover:before {
     height: 100%;
 }
 
-.style-two .feature-icon{
+.style-two .feature-icon {
     position: relative;
     z-index: 1;
 }
@@ -1805,7 +1811,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     z-index: -1;
 }
 
-.style-two.feature-area .single-feature-box:hover .feature-icon:before{
+.style-two.feature-area .single-feature-box:hover .feature-icon:before {
     background: url(../images/home-2/feature-shape-2.png);
     background-repeat: no-repeat;
     background-position: center;
@@ -1822,7 +1828,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 }
 
 .style-two .single-feature-box:hover .feature-content h4 {
-   color: #fff;
+    color: #fff;
 }
 
 .style-two .feature-content p {
@@ -1830,7 +1836,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transition: 0.5s;
 }
 
-.style-two .single-feature-box:hover .feature-content p{
+.style-two .single-feature-box:hover .feature-content p {
     color: #fff;
 }
 
@@ -1846,8 +1852,8 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     font-weight: 400;
 }
 
-.style-two .single-feature-box:hover .feature-content a{
-   color: #fff;
+.style-two .single-feature-box:hover .feature-content a {
+    color: #fff;
 }
 
 .style-two .feature-content a:after {
@@ -1918,7 +1924,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     z-index: -1;
 }
 
-.style-two .about-counter-title span, 
+.style-two .about-counter-title span,
 .style-two .about-counter-title h4 {
     font-size: 56px;
     color: #ffffff;
@@ -1967,7 +1973,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     height: 66px;
     border-radius: 10px;
     transition: 0.5s;
-    filter: drop-shadow(0px 10px 10px rgba(207,218,235,0.2));
+    filter: drop-shadow(0px 10px 10px rgba(207, 218, 235, 0.2));
     background-color: #ffff;
 }
 
@@ -2024,7 +2030,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    padding: 120px 0 100px;
+    padding: 50px 0;
 }
 
 .style-two.service-area .section-title h1 {
@@ -2044,21 +2050,21 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     position: absolute;
     content: "";
     left: 50%;
-    top:0;
-    width:0;
-    height:100%;
+    top: 0;
+    width: 0;
+    height: 100%;
     background: #0B5ADB;
     transition: .5s;
     z-index: -1;
     border-radius: 5px;
 }
 
-.style-two .single-services-box:hover:before{
+.style-two .single-services-box:hover:before {
     left: 0;
     width: 100%;
 }
 
-.service-icon-thumb{
+.service-icon-thumb {
     position: relative;
 }
 
@@ -2075,15 +2081,15 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     border-radius: 100%;
 }
 
-.style-two .single-services-box:hover .service-icon-thumb:before{
+.style-two .single-services-box:hover .service-icon-thumb:before {
     background: #2F73E0;
 }
 
-.service-icon-thumb img{
+.service-icon-thumb img {
     transition: 0.5s;
 }
 
-.style-two .single-services-box:hover .service-icon-thumb img{
+.style-two .single-services-box:hover .service-icon-thumb img {
     filter: brightness(0) invert(1);
 }
 
@@ -2112,10 +2118,9 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transition: 0.5s;
 }
 
-.style-two .single-services-box:hover 
-.service-content h4,
-.service-content p{
-    color:#fff;
+.style-two .single-services-box:hover .service-content h4,
+.service-content p {
+    color: #fff;
 }
 
 .style-two .service-content p {
@@ -2124,9 +2129,8 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     color: #686868;
 }
 
-.style-two .single-services-box:hover 
-.service-content p{
-    color:#fff;
+.style-two .single-services-box:hover .service-content p {
+    color: #fff;
 }
 
 .style-two .service-content a {
@@ -2139,7 +2143,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     font-family: "Rajdhani";
 }
 
-.style-two .single-services-box:hover .service-content a{
+.style-two .single-services-box:hover .service-content a {
     letter-spacing: 0;
 }
 
@@ -2186,7 +2190,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 
 .style-two .team-content {
     position: relative;
-    filter: drop-shadow(0px 10px 10px rgba(207,218,235,0.2));
+    filter: drop-shadow(0px 10px 10px rgba(207, 218, 235, 0.2));
     background-color: #ffffff;
     text-align: center;
     padding: 24px 0 75px;
@@ -2208,9 +2212,10 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     margin: 0 0 4px;
     transition: 0.5s;
 }
+
 .style-two .single-team-box:hover .team-content p,
-.style-two .single-team-box:hover .team-content h4{
-    color:#fff;
+.style-two .single-team-box:hover .team-content h4 {
+    color: #fff;
 }
 
 .style-two .team-content p {
@@ -2245,9 +2250,9 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     text-align: center;
 }
 
-.style-two .single-team-box.active .team-share{
+.style-two .single-team-box.active .team-share {
     background: #fff;
-    color:#0c5adb;
+    color: #0c5adb;
 }
 
 .style-two .team-social-icon {
@@ -2277,7 +2282,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transform: translateY(0px);
     opacity: 1;
     overflow: hidden;
-    visibility: visible; 
+    visibility: visible;
 }
 
 .style-two .team-social-icon ul li:nth-child(1) a {
@@ -2301,11 +2306,12 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
    <!--Toptech Counter Area Css Style Two-->
 =========================================================---*/
 .style-two.counter-area {
-    background: url(../images/home-2/counter-bg.jpg);
+    /* background: url(../images/home-2/counter-bg.jpg); */
+    background: url(../images/home-3/counter-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    padding: 75px 0 63px;
+    padding: 50px 0;
 }
 
 .style-two .counter-box {
@@ -2367,7 +2373,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     background: #fff;
     position: relative;
     z-index: 1;
-    filter: drop-shadow(0px 10px 10px rgba(207,218,235,0.2));
+    filter: drop-shadow(0px 10px 10px rgba(207, 218, 235, 0.2));
     font-weight: 500;
 }
 
@@ -2418,7 +2424,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     -webkit-text-stroke-color: #DADDDF;
 }
 
-.style-two .single-portfolio-box:hover .portfolio-number h1{
+.style-two .single-portfolio-box:hover .portfolio-number h1 {
     -webkit-text-stroke-color: #0B59D7;
 }
 
@@ -2433,8 +2439,8 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     position: relative;
 }
 
-.style-two .portfolio-title a:hover{
-    color:#0B59D7;
+.style-two .portfolio-title a:hover {
+    color: #0B59D7;
 }
 
 .style-two .portfolio-title a i {
@@ -2453,7 +2459,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transition: 0.5s;
 }
 
-.style-two .single-portfolio-box:hover .portfolio-title a i{
+.style-two .single-portfolio-box:hover .portfolio-title a i {
     opacity: 1;
 }
 
@@ -2497,7 +2503,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     background-repeat: no-repeat;
 }
 
-.style-two .working-process-box.before-transprent:before{
+.style-two .working-process-box.before-transprent:before {
     background: transparent;
 }
 
@@ -2512,7 +2518,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     background-repeat: no-repeat;
 }
 
-.style-two .working-process-box.after-transprent:after{
+.style-two .working-process-box.after-transprent:after {
     background: transparent;
 }
 
@@ -2607,18 +2613,19 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 
 
 @keyframes ripple-blue {
-  0% {
-    -webkit-box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.3),
-      0 0 0 10px rgba(255, 255, 255, 0.3), 0 0 0 20px rgba(255, 255, 255, 0.3);
-    box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.3),
-      0 0 0 10px rgba(255, 255, 255, 0.3), 0 0 0 20px rgba(255, 255, 255, 0.3);
-  }
-  100% {
-    -webkit-box-shadow: 0 0 0 10px rgba(255, 255, 255, 0.3),
-      0 0 0 20px rgba(255, 255, 255, 0.3), 0 0 0 30px rgba(255, 255, 255, 0);
-    box-shadow: 0 0 0 10px rgba(255, 255, 255, 0.3),
-      0 0 0 20px rgba(255, 255, 255, 0.3), 0 0 0 30px rgba(255, 255, 255, 0);
-  }
+    0% {
+        -webkit-box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.3),
+            0 0 0 10px rgba(255, 255, 255, 0.3), 0 0 0 20px rgba(255, 255, 255, 0.3);
+        box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.3),
+            0 0 0 10px rgba(255, 255, 255, 0.3), 0 0 0 20px rgba(255, 255, 255, 0.3);
+    }
+
+    100% {
+        -webkit-box-shadow: 0 0 0 10px rgba(255, 255, 255, 0.3),
+            0 0 0 20px rgba(255, 255, 255, 0.3), 0 0 0 30px rgba(255, 255, 255, 0);
+        box-shadow: 0 0 0 10px rgba(255, 255, 255, 0.3),
+            0 0 0 20px rgba(255, 255, 255, 0.3), 0 0 0 30px rgba(255, 255, 255, 0);
+    }
 }
 
 
@@ -2650,17 +2657,17 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 .style-two .contact-info-box:before {
     position: absolute;
     content: "";
-    width:0;
-    height:100%;
-    left:0;
-    top:0;
-    background:#0B59D7;
+    width: 0;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: #0B59D7;
     border-radius: 5px;
     transition: 0.5s;
     z-index: -1;
 }
 
-.style-two .contact-info-box:hover:before{
+.style-two .contact-info-box:hover:before {
     width: 100%;
 }
 
@@ -2677,7 +2684,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transition: 0.5s;
 }
 
-.style-two .contact-info-box:hover .contact-info-icon i{
+.style-two .contact-info-box:hover .contact-info-icon i {
     color: #fff;
     border: 2px solid #fff;
 }
@@ -2690,8 +2697,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transition: 0.5s;
 }
 
-.style-two .contact-info-box:hover 
-.contact-info-content h4{
+.style-two .contact-info-box:hover .contact-info-content h4 {
     color: #fff;
 }
 
@@ -2705,9 +2711,8 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transition: 0.5s;
 }
 
-.style-two .contact-info-box:hover 
-.contact-info-content p{
-    color:#fff;
+.style-two .contact-info-box:hover .contact-info-content p {
+    color: #fff;
 }
 
 
@@ -2728,7 +2733,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 .style-two .faq-singular.active .faq-question {
     background: #0B59D7;
     color: #ffff;
-   padding: 17px 20px 17px 32px;
+    padding: 17px 20px 17px 32px;
 }
 
 .style-two .faq-singular {
@@ -2869,14 +2874,14 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transition: 0.5s;
 }
 
-.style-two .pricing-title a:hover{
-    background:#fff;
+.style-two .pricing-title a:hover {
+    background: #fff;
     color: #0c5adb;
 }
 
 /*style-two*/
 
-.style-two .single-pricing-box.two{
+.style-two .single-pricing-box.two {
     background: #fff;
 }
 
@@ -2888,7 +2893,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     color: #041424 !important;
 }
 
-.single-pricing-box.two h4.pricing span{
+.single-pricing-box.two h4.pricing span {
     color: #041424;
 }
 
@@ -2901,11 +2906,11 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     color: #0B59D7;
 }
 
-.single-pricing-box.two .pricing-title h4{
+.single-pricing-box.two .pricing-title h4 {
     color: #041424;
 }
 
-.single-pricing-box.two .pricing-title p{
+.single-pricing-box.two .pricing-title p {
     color: #686868;
 }
 
@@ -2915,9 +2920,9 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transition: 0.5s;
 }
 
-.single-pricing-box.two .pricing-title a:hover{
-    background:#0c5adb;
-    color:#fff;
+.single-pricing-box.two .pricing-title a:hover {
+    background: #0c5adb;
+    color: #fff;
 }
 
 
@@ -2950,7 +2955,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    padding: 80px 0 75px;
+    padding: 50px 0;
 }
 
 .style-two .single-brand-box {
@@ -3040,24 +3045,24 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     margin-right: 17px;
 }
 
-.style-three .hero-button a:hover{
-    color:#0c5adb;
+.style-three .hero-button a:hover {
+    color: #0c5adb;
 }
 
-.style-three .hero-button a:before{
-    position:absolute;
+.style-three .hero-button a:before {
+    position: absolute;
     content: "";
     width: 0;
     height: 100%;
     right: 0;
     top: 0;
-    background:#fff;
+    background: #fff;
     z-index: -1;
     border-radius: 5px;
     transition: 0.5s;
 }
 
-.style-three .hero-button a:hover:before{
+.style-three .hero-button a:hover:before {
     width: 100%;
     left: 0;
 }
@@ -3071,8 +3076,8 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transition: 0.5s;
 }
 
-.style-three .hero-button a:hover i{
-    color:#0c5adb;
+.style-three .hero-button a:hover i {
+    color: #0c5adb;
 }
 
 .style-three a.button-two {
@@ -3096,16 +3101,19 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 /*---=====================================================
    <!--Toptech Feature Area Css Inner Style One-->
 =========================================================---*/
+.feature-area.style-three {
+    padding-top: 50px;
+}
 
 .style-three .row.margin-top {
-    margin-top: -133px;
+    /* margin-top: -133px; */
     position: relative;
 }
 
 .style-three .single-feature-box {
     border-radius: 4px;
     background-color: #ffffff;
-    border: 1px solid rgba(4,20,36,0.1);
+    border: 1px solid rgba(4, 20, 36, 0.1);
     padding: 37px 15px 18px;
     text-align: center;
     margin-bottom: 30px;
@@ -3114,33 +3122,33 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transition: 0.5s;
 }
 
-.style-three .single-feature-box:hover{
+.style-three .single-feature-box:hover {
     border: 1px solid #0c5adb;
 }
 
-.style-three .single-feature-box:before{
+.style-three .single-feature-box:before {
     position: absolute;
     content: "";
     width: 0;
     height: 100%;
     left: 50%;
     top: 0;
-    background:#0c5adb;
+    background: #0c5adb;
     z-index: -1;
     transition: 0.5s;
     border-radius: 2px;
 }
 
-.style-three .single-feature-box:hover:before{
+.style-three .single-feature-box:hover:before {
     width: 100%;
     left: 0;
 }
 
-.style-three .feature-icon img{
-  transition: 0.5s;
+.style-three .feature-icon img {
+    transition: 0.5s;
 }
 
-.style-three .single-feature-box:hover .feature-icon img{
+.style-three .single-feature-box:hover .feature-icon img {
     filter: brightness(1) invert(1);
 }
 
@@ -3151,16 +3159,16 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transition: 0.5s;
 }
 
-.style-three .single-feature-box:hover .feature-content h4{
-    color:#fff;
+.style-three .single-feature-box:hover .feature-content h4 {
+    color: #fff;
 }
 
-.style-three .feature-content p{
+.style-three .feature-content p {
     transition: 0.5s;
 }
 
-.style-three .single-feature-box:hover .feature-content p{
-    color:#fff;
+.style-three .single-feature-box:hover .feature-content p {
+    color: #fff;
 }
 
 
@@ -3170,7 +3178,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 =========================================================---*/
 
 .style-three.about-area {
-    padding: 90px 0 121px;
+    padding: 50px 0;
 }
 
 .style-three.about-area .style-two.section-title {
@@ -3259,7 +3267,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     gap: 17px;
     align-items: center;
     width: 51%;
-    padding: 29px 37px;
+    padding: 10px;
     position: absolute;
     right: -22px;
     bottom: 115px;
@@ -3314,7 +3322,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     border-radius: 3px;
 }
 
-.style-three .single-service-box:hover::before{
+.style-three .single-service-box:hover::before {
     width: 100%;
     height: 100%;
 }
@@ -3395,7 +3403,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 =========================================================---*/
 .style-three.portfolio-area {
     background: #00004A;
-    padding: 118px 0 97px;
+    padding: 50px 0;
 }
 
 .style-three.portfolio-area .container-fluid {
@@ -3417,7 +3425,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 
 .style-three .portfolio-content {
     border-radius: 5px;
-    filter: drop-shadow(0px 10px 25px rgba(175,189,199,0.2));
+    filter: drop-shadow(0px 10px 25px rgba(175, 189, 199, 0.2));
     background: #fff;
     padding: 30px 38px 30px;
     width: 84%;
@@ -3444,7 +3452,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transition: 0.5s;
 }
 
-.style-three .portfolio-content a:hover{
+.style-three .portfolio-content a:hover {
     color: #0c5adb;
 }
 
@@ -3465,7 +3473,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transition: 0.5s;
 }
 
-.style-three .single-portfolio-box:hover .portfolio-content a.button{
+.style-three .single-portfolio-box:hover .portfolio-content a.button {
     opacity: 1;
 }
 
@@ -3474,7 +3482,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 =========================================================---*/
 .style-three.teastimonial-area {
     background: #F3F8FC;
-    padding: 120px 0 88px;
+    padding: 50px 0 88px;
 }
 
 .style-three .single-testi-box {
@@ -3557,7 +3565,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     margin: 21px 0 0;
 }
 
-.style-three.contact-area-info .contact-right{
+.style-three.contact-area-info .contact-right {
     position: relative;
 }
 
@@ -3596,13 +3604,15 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     position: relative;
     overflow: hidden;
 }
-.skill > p {
+
+.skill>p {
     font-size: 18px;
     font-weight: 700;
     color: #1a1716;
     margin: 0 0 11px;
     font-family: "Rajdhani";
 }
+
 .skill:before {
     width: 85%;
     height: 7px;
@@ -3612,6 +3622,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     background: #D1DFF9;
     bottom: 0;
 }
+
 .skill-bar {
     width: 74% !important;
     height: 7px;
@@ -3624,6 +3635,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 .skill1 {
     width: 95%;
 }
+
 .skill-bar span {
     position: absolute;
     top: -40px;
@@ -3633,6 +3645,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     font-weight: 500;
     color: #0C59DB;
 }
+
 .skill-bar {
     position: relative;
 }
@@ -3640,6 +3653,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 .skill1 .skill-count1 {
     right: 0;
 }
+
 /* SKILL 2 */
 .skill2 {
     width: 66% !important;
@@ -3697,9 +3711,9 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transition: 1s;
 }
 
-.style-three .pricing-button a:hover{
+.style-three .pricing-button a:hover {
     background: #0c5adb;
-    color:#fff;
+    color: #fff;
 }
 
 .style-three .single-pricing-box.two {
@@ -3707,7 +3721,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 }
 
 .style-three .single-pricing-box.two .pricing-content h4 {
-   color:#fff;
+    color: #fff;
 }
 
 .style-three .single-pricing-box.two .pricing-content p {
@@ -3715,7 +3729,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 }
 
 .style-three .single-pricing-box.two .pricing-content h1 {
-    color:#fff;
+    color: #fff;
 }
 
 .style-three .single-pricing-box.two .pricing-content span {
@@ -3723,18 +3737,18 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 }
 
 .style-three .single-pricing-box.two .pricing-list ul li {
-    color:#fff;
+    color: #fff;
 }
 
 .style-three .single-pricing-box.two .pricing-button a {
     background: #0c5adb;
-    color:#fff;
+    color: #fff;
     transition: 1s;
 }
 
-.style-three .single-pricing-box.two .pricing-button a:hover{
-    background:#E6EEFB;
-    color:#0c5adb;
+.style-three .single-pricing-box.two .pricing-button a:hover {
+    background: #E6EEFB;
+    color: #0c5adb;
 }
 
 /*---=====================================================
@@ -3769,7 +3783,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     outline: 0;
 }
 
-.style-three .single-subscribe-box input::placeholder{
+.style-three .single-subscribe-box input::placeholder {
     color: #fff;
 }
 
@@ -3865,7 +3879,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 }
 
 .style-three .single-input-box input {
-    border: 2px solid rgba(4,20,36,0.1);
+    border: 2px solid rgba(4, 20, 36, 0.1);
     width: 100%;
     height: 60px;
     padding: 0 20px;
@@ -3874,14 +3888,14 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     margin-bottom: 27px;
 }
 
-.style-three .single-input-box input::placeholder{
+.style-three .single-input-box input::placeholder {
     color: #686868;
     font-weight: 300;
     font-family: "Nunito";
 }
 
 .style-three .single-input-box select {
-    border: 2px solid rgba(4,20,36,0.1);
+    border: 2px solid rgba(4, 20, 36, 0.1);
     width: 100%;
     height: 60px;
     padding: 0 20px;
@@ -3890,7 +3904,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 }
 
 .style-three .single-input-box textarea {
-    border: 2px solid rgba(4,20,36,0.1);
+    border: 2px solid rgba(4, 20, 36, 0.1);
     width: 100%;
     height: 160px;
     padding: 17px 20px;
@@ -3899,7 +3913,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     margin-bottom: 27px;
 }
 
-.style-three .single-input-box textarea::placeholder{
+.style-three .single-input-box textarea::placeholder {
     color: #686868;
     font-weight: 300;
     font-family: "Nunito";
@@ -3914,9 +3928,9 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transition: 0.5s;
 }
 
-.style-three .massage-sent-button button:hover{
-    color:#0c5adb;
-    background:#fff;
+.style-three .massage-sent-button button:hover {
+    color: #0c5adb;
+    background: #fff;
 }
 
 .style-three .single-contact-info-box {
@@ -4012,7 +4026,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transition: 0.5s;
 }
 
-.inner-style .header-menu ul li a:hover{
+.inner-style .header-menu ul li a:hover {
     color: #0c5adb;
 }
 
@@ -4031,7 +4045,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transition: 0.5s;
 }
 
-.inner-style .header-button a:hover{
+.inner-style .header-button a:hover {
     background: #fff;
     color: #0c5adb;
 }
@@ -4265,6 +4279,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 .inner-style.section-title.left {
     margin-bottom: 27px;
 }
+
 .inner-style.section-title.left h4 {
     font-size: 18px;
     color: #0c5adb;
@@ -4283,10 +4298,12 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     width: 100%;
     margin-top: 19px;
 }
+
 /*section-title-center*/
 .inner-style.section-title.center {
     margin-bottom: 27px;
 }
+
 .inner-style.section-title.center h4 {
     font-size: 18px;
     color: #0c5adb;
@@ -4321,14 +4338,14 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     z-index: 1;
 }
 
-.inner-style.toptech-button a:hover{
+.inner-style.toptech-button a:hover {
     color: #0c5adb;
 }
 
-.inner-style.toptech-button a:before{
+.inner-style.toptech-button a:before {
     position: absolute;
     content: "";
-    width:0;
+    width: 0;
     height: 100%;
     right: 0;
     top: 0;
@@ -4338,9 +4355,9 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     border-radius: 5px;
 }
 
-.inner-style.toptech-button a:hover:before{
-  width: 100%;
-  left: 0;
+.inner-style.toptech-button a:hover:before {
+    width: 100%;
+    left: 0;
 }
 
 .inner-style.toptech-button i {
@@ -4353,7 +4370,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     transition: 0.5s;
 }
 
-.inner-style.toptech-button a:hover i{
+.inner-style.toptech-button a:hover i {
     color: #0c5adb;
 }
 
@@ -4429,28 +4446,28 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     margin: 0 22px;
 }
 
-.inner-style-one.testimonial-area button.owl-dot:nth-child(2){
+.inner-style-one.testimonial-area button.owl-dot:nth-child(2) {
     background: url(../images/about-inner/testi-2.png) !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
     background-position: center center;
 }
 
-.inner-style-one.testimonial-area button.owl-dot:nth-child(3){
+.inner-style-one.testimonial-area button.owl-dot:nth-child(3) {
     background: url(../images/about-inner/testi-3.png) !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
     background-position: center center;
 }
 
-.inner-style-one.testimonial-area button.owl-dot:nth-child(4){
+.inner-style-one.testimonial-area button.owl-dot:nth-child(4) {
     background: url(../images/about-inner/testi-4.png) !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
     background-position: center center;
 }
 
-.inner-style-one.testimonial-area button.owl-dot.active{
+.inner-style-one.testimonial-area button.owl-dot.active {
     transform: scale(1.1);
     border: 6px solid #0c5adb;
     border-radius: 50%;
@@ -4468,7 +4485,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     width: 60px;
     height: 60px;
     border-radius: 30px;
-    filter: drop-shadow(0px 10px 10px rgba(207,218,235,0.2));
+    filter: drop-shadow(0px 10px 10px rgba(207, 218, 235, 0.2));
     background-color: #ffffff;
     line-height: 60px;
     color: #0c5adb;
@@ -4488,7 +4505,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     width: 60px;
     height: 60px;
     border-radius: 30px;
-    filter: drop-shadow(0px 10px 10px rgba(207,218,235,0.2));
+    filter: drop-shadow(0px 10px 10px rgba(207, 218, 235, 0.2));
     background-color: #ffffff;
     line-height: 60px;
     color: #0c5adb;
@@ -4497,9 +4514,9 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 }
 
 .inner-style-one.testimonial-area button.owl-next i,
-.inner-style-one.testimonial-area button.owl-prev i:hover{
-    background:#0c5adb;
-    color:#fff;
+.inner-style-one.testimonial-area button.owl-prev i:hover {
+    background: #0c5adb;
+    color: #fff;
 }
 
 
@@ -4655,21 +4672,21 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     margin: auto;
 }
 
-.inner-style .service-icon:before{
+.inner-style .service-icon:before {
     position: absolute;
     content: "";
-    width:100%;
-    height:100%;
+    width: 100%;
+    height: 100%;
     left: 0;
     top: 0;
-    background:#0B5AD9;
+    background: #0B5AD9;
     border-radius: 50%;
     z-index: -1;
     transition: 0.5s;
 }
 
-.inner-style .single-service-box:hover .service-icon:before{
-   top: 7px;
+.inner-style .single-service-box:hover .service-icon:before {
+    top: 7px;
 }
 
 .inner-style .service-content h4 {
@@ -4693,9 +4710,9 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     border: 1px solid #0C59DB;
 }
 
-.inner-style .single-service-box:hover .service-content a{
+.inner-style .single-service-box:hover .service-content a {
     background: transparent;
-    color:#0C59DB;
+    color: #0C59DB;
 }
 
 .inner-style .service-content i {
@@ -4727,7 +4744,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 }
 
 .inner-style .single-pricing-box {
-    filter: drop-shadow(0px 10px 50px rgba(217,217,217,0.5));
+    filter: drop-shadow(0px 10px 50px rgba(217, 217, 217, 0.5));
     background-color: #ffffff;
     padding: 3px 3px 47px;
 }
@@ -4746,7 +4763,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 }
 
 .inner-style .pricing-body {
-    padding: 27px 53px  34px;
+    padding: 27px 53px 34px;
 }
 
 .inner-style .pricing-rate h1 {
@@ -4774,15 +4791,15 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     display: inline-block;
     border-radius: 10px;
     background-color: #ffffff;
-    border: 1px solid rgba(4,20,36,0.1);
+    border: 1px solid rgba(4, 20, 36, 0.1);
     padding: 15px 61px;
     color: #131313;
     transition: 0.5s;
 }
 
-.inner-style .pricing-button a:hover{
+.inner-style .pricing-button a:hover {
     background: #115BD9;
-    color:#fff;
+    color: #fff;
 }
 
 .inner-style .tab-button {
@@ -4790,7 +4807,8 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     margin-top: 36px;
 }
 
-.inner-style .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+.inner-style .nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
     color: var(--bs-nav-pills-link-active-color);
     background-color: #021533;
     border: transparent;
@@ -4805,7 +4823,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     text-decoration: none;
     background: #0F5AD9;
     border: 0;
-    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out;
     margin-left: 10px;
 }
 
@@ -4909,7 +4927,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     color: #fff;
 }
 
-.inner-style .faq-singular.active .faq-question img{
+.inner-style .faq-singular.active .faq-question img {
     filter: brightness(0) invert(1);
 }
 
@@ -4993,7 +5011,7 @@ a.project-details-text {
     padding-top: 9px;
 }
 
-.project-details-info:last-child{
+.project-details-info:last-child {
     border-bottom: transparent;
 }
 
@@ -5025,7 +5043,7 @@ a.project-details-text {
     margin-bottom: 28px;
 }
 
-.inner-style .project-thumb img{
+.inner-style .project-thumb img {
     width: 100%;
 }
 
@@ -5056,7 +5074,7 @@ a.project-details-text {
     font-family: "Rajdhani";
 }
 
-.inner-style .single-project-box:hover .project-content h4{
+.inner-style .single-project-box:hover .project-content h4 {
     color: #0c5adb;
 }
 
@@ -5069,8 +5087,8 @@ a.project-details-text {
     font-family: "Rajdhani";
 }
 
-.inner-style .project-content a:hover{
-    color:#0c5adb !important;
+.inner-style .project-content a:hover {
+    color: #0c5adb !important;
 }
 
 .inner-style .single-project-box:hover .project-content a {
@@ -5087,15 +5105,15 @@ a.project-details-text {
     transition: 0.5s;
 }
 
-.inner-style a.project-button:hover{
-    color:#0c5adb !important;
+.inner-style a.project-button:hover {
+    color: #0c5adb !important;
 }
 
-.inner-style .single-project-box:hover a.project-button{
+.inner-style .single-project-box:hover a.project-button {
     display: block;
-} 
+}
 
-.inner-style a.project-button  i {
+.inner-style a.project-button i {
     display: inline-block;
     color: #fff;
     font-size: 22px;
@@ -5104,8 +5122,8 @@ a.project-details-text {
     transition: 0.5s;
 }
 
-.inner-style a.project-button:hover i{
-    color:#0c5adb !important;
+.inner-style a.project-button:hover i {
+    color: #0c5adb !important;
 }
 
 .inner-style .project-shape {
@@ -5116,7 +5134,7 @@ a.project-details-text {
     transition: 0.5s;
 }
 
-.inner-style .single-project-box:hover .project-shape{
+.inner-style .single-project-box:hover .project-shape {
     display: block;
 }
 
@@ -5163,7 +5181,7 @@ span.widget-sidber-contact-gmail i {
     margin-right: 6px;
 }
 
-.widget-sidber-contact-btn  a{
+.widget-sidber-contact-btn a {
     display: inline-block;
     font-size: 16px;
     color: #ffffff;
@@ -5177,9 +5195,9 @@ span.widget-sidber-contact-gmail i {
     border: 2px solid #0c5adb;
 }
 
-.widget-sidber-contact-btn  a:hover{
+.widget-sidber-contact-btn a:hover {
     background: transparent;
-    color:#0c5adb;
+    color: #0c5adb;
 }
 
 .widget-sidber-contact-btn a i {
@@ -5257,7 +5275,7 @@ p.services-details-desc {
 }
 
 .service-details-text-icon {
-   position: relative;
+    position: relative;
 }
 
 .service-details-text-icon:before {
@@ -5290,7 +5308,7 @@ p.services-details-desc {
 
 .services-details-area .benifits-content {
     border-radius: 5px;
-    filter: drop-shadow(0px 5px 30px rgba(117,117,117,0.1));
+    filter: drop-shadow(0px 5px 30px rgba(117, 117, 117, 0.1));
     background-color: #ffffff;
     padding: 30px 31px 23px;
     width: 92%;
@@ -5334,6 +5352,7 @@ p.services-details-desc {
     margin: 0 0 46px;
     position: relative;
 }
+
 .widget-sidber-content h4:before {
     position: absolute;
     content: "";
@@ -5349,7 +5368,7 @@ p.services-details-desc {
     transition: 0.5s;
 }
 
-.widget-category ul li a:hover img{
+.widget-category ul li a:hover img {
     filter: brightness(0) invert(1);
 }
 
@@ -5367,11 +5386,11 @@ p.services-details-desc {
     transition: 0.5s;
 }
 
-.widget-category ul li a:hover{
-    color:#fff;
+.widget-category ul li a:hover {
+    color: #fff;
 }
 
-.widget-category ul li a:before{
+.widget-category ul li a:before {
     position: absolute;
     content: "";
     width: 0;
@@ -5384,7 +5403,7 @@ p.services-details-desc {
     transition: 0.5s;
 }
 
-.widget-category ul li a:hover:before{
+.widget-category ul li a:hover:before {
     width: 100%;
     left: 0;
 }
@@ -5398,9 +5417,9 @@ p.services-details-desc {
     transition: 0.5s;
 }
 
-.widget-category ul li a:hover i{
-   opacity: 1;
-   color: #fff;
+.widget-category ul li a:hover i {
+    opacity: 1;
+    color: #fff;
 }
 
 .widget-sidber-download-button a {
@@ -5414,8 +5433,8 @@ p.services-details-desc {
 }
 
 .widget-sidber-download-button a.active {
-   background: #0c5adb;
-} 
+    background: #0c5adb;
+}
 
 .widget-sidber-download-button i {
     color: #0c5adb;
@@ -5426,8 +5445,8 @@ p.services-details-desc {
     top: 3px;
 }
 
-.widget-sidber-download-button a.active i{
-    color:#fff;
+.widget-sidber-download-button a.active i {
+    color: #fff;
 }
 
 
@@ -5437,8 +5456,8 @@ p.services-details-desc {
     font-size: 16px;
 }
 
-.widget-sidber-download-button a.active span i{
-    color:#fff;
+.widget-sidber-download-button a.active span i {
+    color: #fff;
 }
 
 /*---=====================================================
@@ -5448,7 +5467,7 @@ p.services-details-desc {
     padding: 119px 0 119px;
 }
 
-.blog-details-thumb{
+.blog-details-thumb {
     overflow: hidden;
 }
 
@@ -5457,7 +5476,7 @@ p.services-details-desc {
     transition: 0.5s;
 }
 
-.blog-details-thumb img:hover{
+.blog-details-thumb img:hover {
     transform: scale(1.2) skew(-10deg);
 }
 
@@ -5604,14 +5623,14 @@ p.blog-details-desc.three {
     transition: 0.5s;
 }
 
-.blog-details-category span a:hover{
-    background:#0c5adb;
-    color:#fff;
+.blog-details-category span a:hover {
+    background: #0c5adb;
+    color: #fff;
 }
 
 .blog-details-category span a.active-class {
-    background:#0c5adb;
-    color:#fff;
+    background: #0c5adb;
+    color: #fff;
 }
 
 .blog-details-social-icon {
@@ -5635,15 +5654,15 @@ p.blog-details-desc.three {
     margin-left: 5px;
 }
 
-.blog-details-social-icon ul li:nth-child(2) i{
+.blog-details-social-icon ul li:nth-child(2) i {
     background: #00AAE8;
 }
 
-.blog-details-social-icon ul li:nth-child(3) i{
+.blog-details-social-icon ul li:nth-child(3) i {
     background: #016EAF;
 }
 
-.blog-details-social-icon ul li:nth-child(4) i{
+.blog-details-social-icon ul li:nth-child(4) i {
     background: #B7071C;
 }
 
@@ -5714,7 +5733,7 @@ p.blog-details-desc.three {
 .blog-details-comment.reply {
     margin-left: 70px;
     padding-top: 35px;
-    border-top: 2px solid rgba(255,255,255,0.2);
+    border-top: 2px solid rgba(255, 255, 255, 0.2);
 }
 
 .blog-details-contact-title h4 {
@@ -5765,24 +5784,24 @@ p.blog-details-desc.three {
     font-weight: 500;
 }
 
-.blog-details-submi-button button:hover{
-    color:#0c5adb;
+.blog-details-submi-button button:hover {
+    color: #0c5adb;
 }
 
-.blog-details-submi-button button:before{
+.blog-details-submi-button button:before {
     position: absolute;
     content: "";
     width: 0;
     height: 100%;
     left: 50%;
     top: 0;
-    background:#fff;
+    background: #fff;
     transition: 0.5s;
     z-index: -1;
     border-radius: 5px;
 }
 
-.blog-details-submi-button button:hover:before{
+.blog-details-submi-button button:hover:before {
     width: 100%;
     left: 0;
 }
@@ -5834,14 +5853,14 @@ button.icons {
     font-family: "Rajdhani";
 }
 
-.sidber-widget-recent-post:hover .recent-widget-content a{
+.sidber-widget-recent-post:hover .recent-widget-content a {
     color: #0c5adb !important;
 }
 
 .recent-widget-content p {
     font-size: 14px;
     margin: 0;
-    color:#0c5adb;
+    color: #0c5adb;
 }
 
 .widget-catefories-tags a {
@@ -5856,23 +5875,23 @@ button.icons {
     font-size: 15px;
 }
 
-.widget-catefories-tags a:hover{
-    color:#fff;
+.widget-catefories-tags a:hover {
+    color: #fff;
 }
 
-.widget-catefories-tags a:before{
+.widget-catefories-tags a:before {
     position: absolute;
     content: "";
     width: 0;
     height: 100%;
     left: 50%;
     top: 0;
-    background:#0c5adb;
+    background: #0c5adb;
     transition: 0.5s;
     z-index: -1;
 }
 
-.widget-catefories-tags a:hover:before{
+.widget-catefories-tags a:hover:before {
     width: 100%;
     left: 0;
 }
@@ -5921,29 +5940,31 @@ button.icons {
 .blog-grid-area .blog-meta:after {
     position: absolute;
     content: "";
-    width:30px;
+    width: 30px;
     height: 2px;
     left: 0;
     bottom: -26px;
     background: #0c5adb;
-  -webkit-animation-duration: 5s;
-  animation-duration: 5s;
-  -webkit-animation-timing-function: linear;
-  animation-timing-function: linear;
-  -webkit-animation-iteration-count: infinite;
-  animation-iteration-count: infinite;
-  -webkit-animation-name: MOVE-BG;
-  animation-name: MOVE-BG;
+    -webkit-animation-duration: 5s;
+    animation-duration: 5s;
+    -webkit-animation-timing-function: linear;
+    animation-timing-function: linear;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+    -webkit-animation-name: MOVE-BG;
+    animation-name: MOVE-BG;
 }
+
 @-webkit-keyframes MOVE-BG {
-  from {
-    -webkit-transform: translateX(0);
-    transform: translateX(0);
-  }
-  to {
-    -webkit-transform: translateX(298px);
-    transform: translateX(298px);
-  }
+    from {
+        -webkit-transform: translateX(0);
+        transform: translateX(0);
+    }
+
+    to {
+        -webkit-transform: translateX(298px);
+        transform: translateX(298px);
+    }
 }
 
 .blog-grid-area .blog-meta span {
@@ -5962,7 +5983,7 @@ button.icons {
     font-family: "Rajdhani";
 }
 
-.blog-grid-area .blog-title a:hover{
+.blog-grid-area .blog-title a:hover {
     color: #0c5adb;
 }
 
@@ -6016,7 +6037,7 @@ button.icons {
     transition: 0.5s;
 }
 
-.blog-grid-area .single-blog-box:hover .blog-button i{
+.blog-grid-area .single-blog-box:hover .blog-button i {
     opacity: 1;
 }
 
@@ -6058,7 +6079,7 @@ button.icons {
     margin: 0;
 }
 
-.inner-style .careers-desc a{
+.inner-style .careers-desc a {
     display: inline-block;
     color: #0c5adb;
     font-weight: 600;
@@ -6110,9 +6131,9 @@ button.icons {
     transition: 0.5s;
 }
 
-.inner-style .job-apply-button a:hover{
+.inner-style .job-apply-button a:hover {
     border: 2px solid #0C5ADB;
-    background:#0C5ADB;
+    background: #0C5ADB;
     color: #fff;
 }
 
@@ -6134,7 +6155,7 @@ button.icons {
 
 .inner-style .single-feature-box {
     text-align: center;
-    filter: drop-shadow(0px 10px 10px rgba(207,218,235,0.2));
+    filter: drop-shadow(0px 10px 10px rgba(207, 218, 235, 0.2));
     background: #fff;
     padding: 56px 42px 33px;
     border-radius: 10px;
@@ -6147,7 +6168,7 @@ button.icons {
     position: absolute;
     content: "";
     width: 100%;
-    height:0;
+    height: 0;
     left: 0;
     bottom: 0;
     background: url(../images/home-2/feature-box-shape.png);
@@ -6159,11 +6180,11 @@ button.icons {
     transition: 0.5s;
 }
 
-.inner-style .single-feature-box:hover:before{
+.inner-style .single-feature-box:hover:before {
     height: 100%;
 }
 
-.inner-style .feature-icon{
+.inner-style .feature-icon {
     position: relative;
     z-index: 1;
 }
@@ -6183,7 +6204,7 @@ button.icons {
     z-index: -1;
 }
 
-.inner-style .single-feature-box:hover .feature-icon:before{
+.inner-style .single-feature-box:hover .feature-icon:before {
     background: url(../images/home-2/feature-shape-2.png);
     background-repeat: no-repeat;
     background-position: center;
@@ -6200,7 +6221,7 @@ button.icons {
 }
 
 .inner-style .single-feature-box:hover .feature-content h4 {
-   color: #fff;
+    color: #fff;
 }
 
 .inner-style .feature-content p {
@@ -6208,7 +6229,7 @@ button.icons {
     transition: 0.5s;
 }
 
-.inner-style .single-feature-box:hover .feature-content p{
+.inner-style .single-feature-box:hover .feature-content p {
     color: #fff;
 }
 
@@ -6224,8 +6245,8 @@ button.icons {
     font-weight: 400;
 }
 
-.inner-style .single-feature-box:hover .feature-content a{
-   color: #fff;
+.inner-style .single-feature-box:hover .feature-content a {
+    color: #fff;
 }
 
 .inner-style .feature-content a:after {
@@ -6276,7 +6297,7 @@ button.icons {
 .inner-style .single-location-box {
     text-align: center;
     border-radius: 5px;
-    filter: drop-shadow(0px 10px 10px rgba(207,218,235,0.2));
+    filter: drop-shadow(0px 10px 10px rgba(207, 218, 235, 0.2));
     background-color: #ffffff;
     padding: 93px 0 59px;
     position: relative;
@@ -6290,17 +6311,21 @@ button.icons {
     right: 0;
     overflow: hidden;
 }
-.inner-style .location-thumb img{
+
+.inner-style .location-thumb img {
     animation: bns1 5s linear infinite;
 }
+
 @keyframes bns1 {
-    50%{
+    50% {
         transform: rotate(-5deg);
     }
-    80%{
+
+    80% {
         transform: rotate(5deg);
     }
 }
+
 .inner-style .location-content p {
     color: #686868;
     margin: 0 0 35px;
@@ -6313,7 +6338,7 @@ button.icons {
     margin: 30px 0 13px;
 }
 
-.location-icon{
+.location-icon {
     position: relative;
     display: inline-block;
 }
@@ -6327,6 +6352,7 @@ button.icons {
     height: 1px;
     background-image: linear-gradient(90deg, #0b59db 0%, #f3f7fd 100%);
 }
+
 .location-icon:after {
     position: absolute;
     content: "";
@@ -6349,9 +6375,9 @@ button.icons {
     transition: 0.5s;
 }
 
-.inner-style .location-button a:hover{
+.inner-style .location-button a:hover {
     background: #0c5adb;
-    color:#fff;
+    color: #fff;
 }
 
 /*---=====================================================
@@ -6401,7 +6427,7 @@ button.icons {
     width: 45px;
     height: 45px;
     border-radius: 23px;
-    filter: drop-shadow(0px 10px 10px rgba(207,218,235,0.2));
+    filter: drop-shadow(0px 10px 10px rgba(207, 218, 235, 0.2));
     background-color: #ffffff;
     display: inline-block;
     float: left;
@@ -6423,9 +6449,9 @@ button.icons {
     transition: 0.5s;
 }
 
-.inner-style .mission-button a:hover{
-    background:#0c5adb;
-    color:#fff;
+.inner-style .mission-button a:hover {
+    background: #0c5adb;
+    color: #fff;
 }
 
 /*---=====================================================
@@ -6574,9 +6600,9 @@ button.icons {
     transition: 0.5s;
 }
 
-.team-details-area .team-details-social-icon ul li i:hover{
-    background:#0C59DB;
-    color:#fff;
+.team-details-area .team-details-social-icon ul li i:hover {
+    background: #0C59DB;
+    color: #fff;
 }
 
 .team-details-area .team-details-location-box {
@@ -6618,7 +6644,7 @@ button.icons {
 ***/
 
 
-.search-popup{
+.search-popup {
     position: fixed;
     left: 0;
     top: 0;
@@ -6627,22 +6653,24 @@ button.icons {
     z-index: 99999;
     margin-top: -540px;
     transform: translateY(-100%);
-    background-color: rgba(0,0,0,0.90);
+    background-color: rgba(0, 0, 0, 0.90);
     -webkit-transition: all 500ms cubic-bezier(0.860, 0.000, 0.070, 1.000);
     -moz-transition: all 500ms cubic-bezier(0.860, 0.000, 0.070, 1.000);
     -o-transition: all 500ms cubic-bezier(0.860, 0.000, 0.070, 1.000);
-    transition: all 1500ms cubic-bezier(0.860, 0.000, 0.070, 1.000); /* easeInOutQuint */
+    transition: all 1500ms cubic-bezier(0.860, 0.000, 0.070, 1.000);
+    /* easeInOutQuint */
     -webkit-transition-timing-function: cubic-bezier(0.860, 0.000, 0.070, 1.000);
     -moz-transition-timing-function: cubic-bezier(0.860, 0.000, 0.070, 1.000);
     -o-transition-timing-function: cubic-bezier(0.860, 0.000, 0.070, 1.000);
-    transition-timing-function: cubic-bezier(0.860, 0.000, 0.070, 1.000); /* easeInOutQuint */
+    transition-timing-function: cubic-bezier(0.860, 0.000, 0.070, 1.000);
+    /* easeInOutQuint */
 }
 
-.search-popup{
+.search-popup {
     width: 100%;
 }
 
-.search-active .search-popup{
+.search-active .search-popup {
     transform: translateY(0%);
     margin-top: 0;
 }
@@ -6658,7 +6686,7 @@ button.icons {
     background-color: #0c5adb;
     width: 70px;
     cursor: pointer;
-    box-shadow: 0 0 10px rgba(0,0,0,0.05);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
     border-bottom: 3px solid #fff;
     border-top: 3px solid #fff;
     border-right: 3px solid #062462;
@@ -6669,7 +6697,7 @@ button.icons {
     text-align: center;
 }
 
-.search-active .search-popup .close-search{
+.search-active .search-popup .close-search {
     visibility: visible;
     opacity: 1;
     top: 50%;
@@ -6680,13 +6708,13 @@ button.icons {
     transition-delay: 1500ms;
 }
 
-.search-popup form{
+.search-popup form {
     position: absolute;
     max-width: 700px;
     top: 50%;
     left: 15px;
     right: 15px;
-    margin:-35px auto 0;
+    margin: -35px auto 0;
     transform: scaleX(0);
     transform-origin: center;
     background-color: #111111;
@@ -6697,7 +6725,7 @@ button.icons {
     transition: all 300ms ease;
 }
 
-.search-active .search-popup form{
+.search-active .search-popup form {
     transform: scaleX(1);
     -webkit-transition-delay: 1200ms;
     -moz-transition-delay: 1200ms;
@@ -6706,33 +6734,35 @@ button.icons {
     transition-delay: 1200ms;
 }
 
-.search-popup .form-group{
-    position:relative;
-    margin:0px; 
-  
+.search-popup .form-group {
+    position: relative;
+    margin: 0px;
+
     overflow: hidden;
 }
+
 .search-popup .form-group input[type="text"],
-.search-popup .form-group input[type="search"]{
-    position:relative;
-    display:block;
-    font-size:18px;
+.search-popup .form-group input[type="search"] {
+    position: relative;
+    display: block;
+    font-size: 18px;
     line-height: 50px;
-    color:#000000;
-    height:70px;
-    width:100%;
+    color: #000000;
+    height: 70px;
+    width: 100%;
     padding: 10px 30px;
     background-color: #ffffff;
-    -webkit-transition:all 500ms ease;
-    -moz-transition:all 500ms ease;
-    -ms-transition:all 500ms ease;
-    -o-transition:all 500ms ease;
-    transition:all 500ms ease;
-    font-weight:500;
-    text-transform:capitalize;
+    -webkit-transition: all 500ms ease;
+    -moz-transition: all 500ms ease;
+    -ms-transition: all 500ms ease;
+    -o-transition: all 500ms ease;
+    transition: all 500ms ease;
+    font-weight: 500;
+    text-transform: capitalize;
 }
 
-.search-popup .form-group input[type="submit"], .search-popup .form-group button {
+.search-popup .form-group input[type="submit"],
+.search-popup .form-group button {
     position: absolute;
     right: 30px;
     top: 0px;
@@ -6749,32 +6779,32 @@ button.icons {
 }
 
 .search-popup .form-group input[type="submit"]:hover,
-.search-popup .form-group button:hover{
+.search-popup .form-group button:hover {
     color: #000000;
 }
 
 .search-popup input::placeholder,
-.search-popup textarea::placeholder{
-    color:#000000;
+.search-popup textarea::placeholder {
+    color: #000000;
 }
 
-.search-popup .close-search.style-two{
+.search-popup .close-search.style-two {
     position: absolute;
     right: 25px;
     left: auto;
-    color:#ffffff;
-    width:auto;
-    height:auto;
-    top:25px;
-    margin:0px;
-    border:none;
-    background:none !important;
-    box-shadow:none !important;
-    -webkit-transition:all 500ms ease;
-    -moz-transition:all 500ms ease;
-    -ms-transition:all 500ms ease;
-    -o-transition:all 500ms ease;
-    transition:all 500ms ease;
+    color: #ffffff;
+    width: auto;
+    height: auto;
+    top: 25px;
+    margin: 0px;
+    border: none;
+    background: none !important;
+    box-shadow: none !important;
+    -webkit-transition: all 500ms ease;
+    -moz-transition: all 500ms ease;
+    -ms-transition: all 500ms ease;
+    -o-transition: all 500ms ease;
+    transition: all 500ms ease;
 }
 
 .search-box-btn {
@@ -6866,9 +6896,9 @@ span.flaticon-multiply i {
 }
 
 .prgoress_indicator.active-progress {
-  opacity: 1;
-  visibility: visible;
-  transform: translateY(0) !important;
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0) !important;
 }
 
 .prgoress_indicator::after {
@@ -6891,40 +6921,44 @@ span.flaticon-multiply i {
 }
 
 .prgoress_indicator::before {
-  position: absolute;
-  content: "\f106";
-  font-family: "Font Awesome 5 Free";
-  text-align: center;
-  line-height: 46px;
-  font-size: 18px;
-  font-weight: 900;
-  opacity: 0;
-  -webkit-background-clip: text;
-          background-clip: text;
-  -webkit-text-fill-color: transparent;
-  left: 0;
-  top: 0;
-  height: 46px;
-  width: 46px;
-  cursor: pointer;
-  display: block;
-  z-index: 2;
-  transition: all 200ms linear !important;
+    position: absolute;
+    content: "\f106";
+    font-family: "Font Awesome 5 Free";
+    text-align: center;
+    line-height: 46px;
+    font-size: 18px;
+    font-weight: 900;
+    opacity: 0;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    left: 0;
+    top: 0;
+    height: 46px;
+    width: 46px;
+    cursor: pointer;
+    display: block;
+    z-index: 2;
+    transition: all 200ms linear !important;
 }
+
 .prgoress_indicator:hover ::after {
-  color: #0c5adb;
+    color: #0c5adb;
 }
+
 .prgoress_indicator:hover ::before {
-  opacity: 1;
+    opacity: 1;
 }
+
 .prgoress_indicator svg path {
-  fill: none;
+    fill: none;
 }
+
 .prgoress_indicator svg.progress-circle path {
-  stroke:#0c5adb;
-  stroke-width: 4;
-  box-sizing: border-box;
-  transition: all 200ms linear !important;
+    stroke: #0c5adb;
+    stroke-width: 4;
+    box-sizing: border-box;
+    transition: all 200ms linear !important;
 }
 
 
@@ -7028,7 +7062,7 @@ span.flaticon-multiply i {
     display: inline-block;
 }
 
-.header-area.style-foure ul.social-icon li  a i {
+.header-area.style-foure ul.social-icon li a i {
     display: inline-block;
     font-size: 14px;
     margin-right: 16px;
@@ -7045,7 +7079,7 @@ span.flaticon-multiply i {
 }
 
 
-.header-area.style-foure .header-menu ul li:hover .sub-menu{
+.header-area.style-foure .header-menu ul li:hover .sub-menu {
     opacity: 1;
     top: 113%;
     visibility: visible;
@@ -7207,15 +7241,15 @@ span.flaticon-multiply i {
     font-size: 19px;
 }
 
-.hero_list .owl-next:hover{
-	background: #0C59DB !important;
-	color: #fff;
+.hero_list .owl-next:hover {
+    background: #0C59DB !important;
+    color: #fff;
     border: 2px solid #0C59DB !important;
 }
 
-.hero_list .owl-prev:hover{
-	background: #0C59DB !important;
-	color: #fff;
+.hero_list .owl-prev:hover {
+    background: #0C59DB !important;
+    color: #fff;
     border: 2px solid #0C59DB !important;
 }
 
@@ -7438,7 +7472,7 @@ span.flaticon-multiply i {
 }
 
 
-.service-area.style-foure .service-single-box:hover .service-icon-two{
+.service-area.style-foure .service-single-box:hover .service-icon-two {
     bottom: 0;
     right: 0;
     opacity: 1;
@@ -7598,6 +7632,7 @@ span.flaticon-multiply i {
     position: relative;
     z-index: 1;
 }
+
 .counter-area.style-foure .counter-number-tow::before {
     position: absolute;
     content: "";
@@ -7916,7 +7951,7 @@ span.flaticon-multiply i {
     line-height: 75px;
     text-align: center;
     border-radius: 50%;
-    background: rgba(255,255,255,0.1);
+    background: rgba(255, 255, 255, 0.1);
     position: relative;
     z-index: 1;
     margin-bottom: 27px;
@@ -8248,7 +8283,7 @@ Awards One Css
     font-weight: 600;
     font-family: "Rajdhani";
     background-color: #ffffff;
-    border: 1px solid rgba(30,30,30,0.08);
+    border: 1px solid rgba(30, 30, 30, 0.08);
     height: 45px;
     width: 45px;
     text-align: center;
@@ -8264,7 +8299,7 @@ Awards One Css
     height: 50px;
     border-radius: 25px;
     background-color: #ffffff;
-    border: 1px solid rgba(30,30,30,0.08);
+    border: 1px solid rgba(30, 30, 30, 0.08);
     line-height: 52px;
     text-align: center;
     font-size: 22px;
@@ -8322,7 +8357,7 @@ Awards One Css
     padding: 43px 0px 43px;
     transition: all 200ms linear;
     transition-delay: 0.1s;
-    border-bottom: 1px solid rgba(30,30,30,0.08);
+    border-bottom: 1px solid rgba(30, 30, 30, 0.08);
 }
 
 .awards-one__inner ul li::before {
@@ -8345,7 +8380,7 @@ Awards One Css
 }
 
 .awards-one__inner ul li:first-child {
-    border-bottom: 1px solid rgba(30,30,30,0.08);
+    border-bottom: 1px solid rgba(30, 30, 30, 0.08);
 }
 
 .awards-one__inner ul li .content-box {
@@ -8619,7 +8654,7 @@ Awards One Css
     display: inline-block;
 }
 
-.footer-botton-list ul li  a {
+.footer-botton-list ul li a {
     display: inline-block;
     font-size: 16px;
     line-height: 28px;
@@ -8676,7 +8711,7 @@ Awards One Css
     bottom: 6px;
     border-radius: 50%;
     border: 3px solid transparent;
-    border-left-color:#0c5adb;
+    border-left-color: #0c5adb;
     -webkit-animation: spin 2s linear infinite;
     -moz-animation: spin 2s linear infinite;
     -o-animation: spin 2s linear infinite;
@@ -8784,4 +8819,34 @@ Awards One Css
 .loaded .loader {
     top: -100%;
     opacity: 0;
+}
+
+/* custom extra */
+.services-btn-container ul {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.services-btn-container ul li button {
+    display: inline-block;
+    background: transparent;
+    border: 1px solid #ffffff6e;
+    color: #fff;
+    padding: 5px 10px;
+    font-weight: 500;
+    font-size: 17px;
+    margin-right: 14px;
+    transition: 0.5s;
+    border-radius: 3px;
+}
+
+.services-btn-container ul li button.active {
+    background: #0c5adb;
+    border: 1px solid #0c5adb;
+}
+
+.container-box {
+    display: none;
 }

@@ -106,6 +106,7 @@
     />
     <!-- modernizr js -->
     <script src="assets/js/vendor/modernizr-3.5.0.min.js"></script>
+    <script src="assets/js/vendor/jquery-3.6.2.min.js"></script>
   </head>
 
   <body>
@@ -257,7 +258,9 @@
         <div class="row align-items-center">
           <div class="col-lg-12">
             <div class="hero-content">
-              <h4>Welcome To Toptech</h4>
+              <h4>
+                Welcome To <span style="text-transform: unset">WhitePanda</span>
+              </h4>
               <h1>Top It Solutions Agency</h1>
               <h1>In The World</h1>
               <p>
@@ -268,8 +271,8 @@
             </div>
             <div class="hero-button style-one">
               <a href="#">How It Works </a>
-              <a class="button-two" href="#"
-                >IT Services <i class="flaticon flaticon-computer"></i
+              <a class="button-two" href="contact.html"
+                >Contact Us <i class="flaticon flaticon-computer"></i
               ></a>
             </div>
           </div>
@@ -288,7 +291,7 @@
                 <img src="assets/images/home-3/feature-icon-1.png" alt="" />
               </div>
               <div class="feature-content">
-                <h4>Business Growth</h4>
+                <h4>Business Process Outsourcing</h4>
                 <p>Completely fashion reliable more products grow business</p>
               </div>
             </div>
@@ -299,7 +302,7 @@
                 <img src="assets/images/home-3/feature-icon-2.png" alt="" />
               </div>
               <div class="feature-content">
-                <h4>eCommerce</h4>
+                <h4>Application Development</h4>
                 <p>Completely fashion reliable more products grow business</p>
               </div>
             </div>
@@ -310,7 +313,7 @@
                 <img src="assets/images/home-3/feature-icon-3.png" alt="" />
               </div>
               <div class="feature-content">
-                <h4>Secure Database</h4>
+                <h4>IT and Managed Services</h4>
                 <p>Completely fashion reliable more products grow business</p>
               </div>
             </div>
@@ -321,7 +324,10 @@
                 <img src="assets/images/home-3/feature-icon-4.png" alt="" />
               </div>
               <div class="feature-content">
-                <h4>Audinece Growth</h4>
+                <h4>
+                  Cyber <br />
+                  Security
+                </h4>
                 <p>Completely fashion reliable more products grow business</p>
               </div>
             </div>
@@ -396,7 +402,7 @@
                   <img src="assets/images/home-3/about-call-icon.png" alt="" />
                 </div>
                 <div class="about-phone-content">
-                  <h4>+980 123 (456) 780</h4>
+                  <h4>+61 466 792 994</h4>
                 </div>
               </div>
               <div class="toptech-button inner-style">
@@ -420,14 +426,32 @@
         <div class="row">
           <div class="col-lg-12 text-center">
             <div class="section-title center style-two">
-              <h4>SERVICE WE PROVIDE</h4>
-              <h1>All Professional We’re Offering Best &</h1>
-              <h1>IT Solutions & Services</h1>
+              <!-- <h4>SERVICE WE PROVIDE</h4> -->
+              <h1>Our Offerings</h1>
+              <!-- <h1>IT Solutions & Services</h1> -->
             </div>
           </div>
         </div>
         <div class="row">
-          <div class="col-lg-4 col-md-6">
+          <div class="col-md-12">
+            <div class="services-btn-container">
+              <ul>
+                <li>
+                  <button class="active" id="button1">
+                    Business Process Outsourcing
+                  </button>
+                </li>
+                <li><button id="button2">Application Development</button></li>
+                <li><button id="button3">IT and Managed Services</button></li>
+                <li><button id="button4">Cyber Security</button></li>
+              </ul>
+            </div>
+          </div>
+          <div
+            class="col-lg-3 col-md-6"
+            id="container-box1"
+            class="container-box"
+          >
             <div class="single-services-box">
               <div class="service-icon-thumb">
                 <img src="assets/images/home-2/service-1.png" alt="" />
@@ -447,7 +471,11 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6">
+          <div
+            class="col-lg-3 col-md-6"
+            id="container-box2"
+            class="container-box"
+          >
             <div class="single-services-box">
               <div class="service-icon-thumb">
                 <img src="assets/images/home-2/service-2.png" alt="" />
@@ -467,7 +495,11 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6">
+          <div
+            class="col-lg-3 col-md-6"
+            id="container-box3"
+            class="container-box"
+          >
             <div class="single-services-box">
               <div class="service-icon-thumb">
                 <img src="assets/images/home-2/service-3.png" alt="" />
@@ -487,7 +519,11 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6">
+          <div
+            class="col-lg-3 col-md-6"
+            id="container-box4"
+            class="container-box"
+          >
             <div class="single-services-box">
               <div class="service-icon-thumb">
                 <img src="assets/images/home-2/service-4.png" alt="" />
@@ -507,7 +543,11 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6">
+          <div
+            class="col-lg-3 col-md-6"
+            id="container-box1"
+            class="container-box"
+          >
             <div class="single-services-box">
               <div class="service-icon-thumb">
                 <img src="assets/images/home-2/service-5.png" alt="" />
@@ -527,7 +567,11 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6">
+          <div
+            class="col-lg-3 col-md-6"
+            id="container-box1"
+            class="container-box"
+          >
             <div class="single-services-box">
               <div class="service-icon-thumb">
                 <img src="assets/images/home-2/service-6.png" alt="" />
@@ -558,7 +602,7 @@
         <div class="row">
           <div class="col-lg-12 text-center">
             <div class="section-title center style-one">
-              <h4>Work Process</h4>
+              <!-- <h4>Work Process</h4> -->
               <h1>Working Process For <span>Technology</span></h1>
             </div>
           </div>
@@ -625,6 +669,51 @@
     </div>
     <!-- End Toptech Work Process Area Style One-->
 
+    <!-- Start Toptech Counter Area Home two-->
+    <div class="counter-area style-two">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-lg-3 col-md-6">
+            <div class="counter-box">
+              <div class="counter-content">
+                <h4>10</h4>
+                <span>K+</span>
+                <p>happy customers</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6">
+            <div class="counter-box">
+              <div class="counter-content">
+                <h4>20</h4>
+                <span>K+</span>
+                <p>Works Completed</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6">
+            <div class="counter-box">
+              <div class="counter-content">
+                <h4>99</h4>
+                <span>+</span>
+                <p>Expert Members</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6">
+            <div class="counter-box">
+              <div class="counter-content">
+                <h4>100</h4>
+                <span>%</span>
+                <p>Satisfaction Rates</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Start Toptech Counter Area Style Two-->
+
     <!-- Start Toptech Faqs Area Style One-->
     <div class="faqs-area style-one">
       <div class="container">
@@ -686,9 +775,9 @@
           </div>
           <div class="col-lg-6 faqs-right">
             <div class="section-title left style-one">
-              <h4>Work Process</h4>
-              <h1>Frequently Asked Any Kind</h1>
-              <h1>Of Questions</h1>
+              <!-- <h4>Work Process</h4> -->
+              <h1>Frequently Asked</h1>
+              <h1>Questions</h1>
             </div>
             <div class="faqs-container">
               <div class="faq-singular">
@@ -756,9 +845,9 @@
         <div class="row">
           <div class="col-lg-12 text-center">
             <div class="section-title center style-two">
-              <h4>Latest Project</h4>
-              <h1>Our Recent Launched Projects</h1>
-              <h1>Available into Market</h1>
+              <!-- <h4>Our Project</h4> -->
+              <h1>Our Recently Launched Projects</h1>
+              <!-- <h1>Available into Market</h1> -->
             </div>
           </div>
         </div>
@@ -814,187 +903,14 @@
     </div>
     <!-- End Toptech Portfolio Area Style One-->
 
-    <!-- Start Toptech Team Area Style One-->
-    <div class="team-area style-two">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-7">
-            <div class="section-title left style-two">
-              <h4>Dedicated Team</h4>
-              <h1>Meet Our Dedicated Member</h1>
-              <h1>For Any Enquery</h1>
-            </div>
-          </div>
-          <div class="col-lg-5">
-            <div class="toptech-button style-one">
-              <a href="team.html"
-                >All Member<i class="bi bi-arrow-right-circle-fill"></i
-              ></a>
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-lg-3 col-md-6">
-            <div class="single-team-box">
-              <div class="team-thumb">
-                <img src="assets/images/team/team-1.png" alt="" />
-              </div>
-              <div class="team-content">
-                <h4>John D. Alexon</h4>
-                <p>UI Designer</p>
-                <div class="team-shape">
-                  <img src="assets/images/team/team-shape.png" alt="" />
-                </div>
-              </div>
-              <div class="team-socila-icon-box">
-                <div class="team-share">
-                  <div class="team-share-icon">
-                    <span><i class="bi bi-share"></i></span>
-                  </div>
-                </div>
-                <div class="team-social-icon">
-                  <ul>
-                    <li>
-                      <a href="#"><i class="fab fa-facebook-f"></i></a>
-                    </li>
-                    <li>
-                      <a href="#"><i class="fab fa-twitter"></i></a>
-                    </li>
-                    <li>
-                      <a href="#"><i class="fab fa-instagram"></i></a>
-                    </li>
-                    <li>
-                      <a href="#"><i class="fa-brands fa-pinterest-p"></i></a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-6">
-            <div class="single-team-box">
-              <div class="team-thumb">
-                <img src="assets/images/team/team-2.png" alt="" />
-              </div>
-              <div class="team-content">
-                <h4>Alexina Gomez</h4>
-                <p>HR Manager</p>
-                <div class="team-shape">
-                  <img src="assets/images/team/team-shape.png" alt="" />
-                </div>
-              </div>
-              <div class="team-socila-icon-box">
-                <div class="team-share">
-                  <div class="team-share-icon">
-                    <span><i class="bi bi-share"></i></span>
-                  </div>
-                </div>
-                <div class="team-social-icon">
-                  <ul>
-                    <li>
-                      <a href="#"><i class="fab fa-facebook-f"></i></a>
-                    </li>
-                    <li>
-                      <a href="#"><i class="fab fa-twitter"></i></a>
-                    </li>
-                    <li>
-                      <a href="#"><i class="fab fa-instagram"></i></a>
-                    </li>
-                    <li>
-                      <a href="#"><i class="fa-brands fa-pinterest-p"></i></a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-6">
-            <div class="single-team-box">
-              <div class="team-thumb">
-                <img src="assets/images/team/team-3.png" alt="" />
-              </div>
-              <div class="team-content">
-                <h4>Antoine Brown</h4>
-                <p>Developer</p>
-                <div class="team-shape">
-                  <img src="assets/images/team/team-shape.png" alt="" />
-                </div>
-              </div>
-              <div class="team-socila-icon-box">
-                <div class="team-share">
-                  <div class="team-share-icon">
-                    <span><i class="bi bi-share"></i></span>
-                  </div>
-                </div>
-                <div class="team-social-icon">
-                  <ul>
-                    <li>
-                      <a href="#"><i class="fab fa-facebook-f"></i></a>
-                    </li>
-                    <li>
-                      <a href="#"><i class="fab fa-twitter"></i></a>
-                    </li>
-                    <li>
-                      <a href="#"><i class="fab fa-instagram"></i></a>
-                    </li>
-                    <li>
-                      <a href="#"><i class="fa-brands fa-pinterest-p"></i></a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-6">
-            <div class="single-team-box">
-              <div class="team-thumb">
-                <img src="assets/images/team/team-4.png" alt="" />
-              </div>
-              <div class="team-content">
-                <h4>Carolina Scott</h4>
-                <p>UI Designer</p>
-                <div class="team-shape">
-                  <img src="assets/images/team/team-shape.png" alt="" />
-                </div>
-              </div>
-              <div class="team-socila-icon-box">
-                <div class="team-share">
-                  <div class="team-share-icon">
-                    <span><i class="bi bi-share"></i></span>
-                  </div>
-                </div>
-                <div class="team-social-icon">
-                  <ul>
-                    <li>
-                      <a href="#"><i class="fab fa-facebook-f"></i></a>
-                    </li>
-                    <li>
-                      <a href="#"><i class="fab fa-twitter"></i></a>
-                    </li>
-                    <li>
-                      <a href="#"><i class="fab fa-instagram"></i></a>
-                    </li>
-                    <li>
-                      <a href="#"><i class="fa-brands fa-pinterest-p"></i></a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- End Toptech Team Area Style One-->
-
     <!-- Start Toptech Testimonial Area Style One-->
     <div class="teastimonial-area style-three">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
             <div class="section-title center style-two">
-              <h4>Testimonial</h4>
-              <h1>What say our Valuable Clients</h1>
+              <!-- <h4>Testimonial</h4> -->
+              <h1>What our Valuable Clients Say</h1>
             </div>
           </div>
         </div>
@@ -1106,98 +1022,51 @@
     </div>
     <!-- End Toptech Testimonial Area Style One-->
 
-    <!-- Start Toptech Blog Area Style One-->
-    <div class="blog-area style-one">
+    <!-- Start Toptech Brand Area Style Two-->
+    <div class="brand-area style-two">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <div class="section-title center style-one">
-              <h4>Our blog Update</h4>
-              <h1>Featured News And <span>Insights</span></h1>
+            <div class="section-title center style-two">
+              <!-- <h4>Testimonial</h4> -->
+              <h1 style="color: white">Oue Esteemed Clients</h1>
             </div>
           </div>
         </div>
         <div class="row">
-          <div class="col-lg-4 col-md-6">
-            <div class="single-blog-box">
-              <div class="blog-thumb">
-                <img src="assets/images/home-1/blog1.png" alt="" />
-              </div>
-              <div class="blog-content">
-                <div class="blog-meta">
-                  <span
-                    ><i class="bi bi-calendar-check-fill"></i> April 22
-                    2024</span
-                  >
-                </div>
-                <a href="blog-details.html"
-                  >Most Popular Chrome Extensionfor Business Promot</a
-                >
-              </div>
-              <div class="blog-buttom">
-                <div class="blog-author">
-                  <span><i class="bi bi-person-circle"></i>By Admin </span>
-                </div>
-                <div class="blog-button">
-                  <a href="blog-grid.html"
-                    >Read More<i class="bi bi-arrow-right-short"></i
-                  ></a>
+          <div class="brand-list-1 owl-carousel">
+            <div class="col-lg-12">
+              <div class="single-brand-box">
+                <div class="brand-thumb">
+                  <img src="assets/images/home-2/brand-1.png" alt="" />
                 </div>
               </div>
             </div>
-          </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="single-blog-box">
-              <div class="blog-thumb">
-                <img src="assets/images/home-1/blog2.png" alt="" />
-              </div>
-              <div class="blog-content">
-                <div class="blog-meta">
-                  <span
-                    ><i class="bi bi-calendar-check-fill"></i> April 22
-                    2024</span
-                  >
-                </div>
-                <a href="blog-details.html"
-                  >Marketing Your Area Business Downturn Now A</a
-                >
-              </div>
-              <div class="blog-buttom">
-                <div class="blog-author">
-                  <span><i class="bi bi-person-circle"></i>By Admin </span>
-                </div>
-                <div class="blog-button">
-                  <a href="blog-grid.html"
-                    >Read More<i class="bi bi-arrow-right-short"></i
-                  ></a>
+            <div class="col-lg-12">
+              <div class="single-brand-box">
+                <div class="brand-thumb">
+                  <img src="assets/images/home-2/brand-2.png" alt="" />
                 </div>
               </div>
             </div>
-          </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="single-blog-box">
-              <div class="blog-thumb">
-                <img src="assets/images/home-1/blog3.png" alt="" />
-              </div>
-              <div class="blog-content">
-                <div class="blog-meta">
-                  <span
-                    ><i class="bi bi-calendar-check-fill"></i> April 22
-                    2024</span
-                  >
+            <div class="col-lg-12">
+              <div class="single-brand-box">
+                <div class="brand-thumb">
+                  <img src="assets/images/home-2/brand-3.png" alt="" />
                 </div>
-                <a href="blog-details.html"
-                  >Better Context Menus With Safe Triangles</a
-                >
               </div>
-              <div class="blog-buttom">
-                <div class="blog-author">
-                  <span><i class="bi bi-person-circle"></i>By Admin </span>
+            </div>
+            <div class="col-lg-12">
+              <div class="single-brand-box">
+                <div class="brand-thumb">
+                  <img src="assets/images/home-2/brand-4.png" alt="" />
                 </div>
-                <div class="blog-button">
-                  <a href="blog-grid.html"
-                    >Read More<i class="bi bi-arrow-right-short"></i
-                  ></a>
+              </div>
+            </div>
+            <div class="col-lg-12">
+              <div class="single-brand-box">
+                <div class="brand-thumb">
+                  <img src="assets/images/home-2/brand-5.png" alt="" />
                 </div>
               </div>
             </div>
@@ -1205,7 +1074,7 @@
         </div>
       </div>
     </div>
-    <!-- End Toptech Blog Area Style One-->
+    <!-- End Toptech Brand Area Style Two-->
 
     <!-- Start Toptech Footer Area Style One-->
     <div class="footer-area style-one">
@@ -1356,58 +1225,8 @@
     </div>
     <!-- End Toptech Footer Area Style One-->
 
-    <!--==================================================-->
-    <!-- Start Toptech Search-->
-    <!--==================================================-->
-    <!-- <div class="search-popup">
-      <button class="close-search style-two">
-        <span class="flaticon-multiply"
-          ><i class="far fa-times-circle"></i
-        ></span>
-      </button>
-      <button class="close-search"><i class="bi bi-arrow-up"></i></button>
-      <form method="post" action="#">
-        <div class="form-group">
-          <input
-            type="search"
-            name="search-field"
-            value=""
-            placeholder="Search Here"
-            required=""
-          />
-          <button type="submit"><i class="fa fa-search"></i></button>
-        </div>
-      </form>
-    </div> -->
-    <!--==================================================-->
-    <!-- End Toptech Search-->
-    <!--==================================================-->
-
-    <!--==================================================-->
-    <!-- Start Toptech Scroll Up-->
-    <!--==================================================-->
-    <!-- <div class="prgoress_indicator active-progress">
-      <svg
-        class="progress-circle svg-content"
-        width="100%"
-        height="100%"
-        viewBox="-1 -1 102 102"
-      >
-        <path
-          d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98"
-          style="
-            transition: stroke-dashoffset 10ms linear 0s;
-            stroke-dasharray: 307.919, 307.919;
-            stroke-dashoffset: 212.78;
-          "
-        ></path>
-      </svg>
-    </div> -->
-    <!--==================================================-->
-    <!-- End Toptech Scroll Up-->
-    <!--==================================================-->
-
     <!-- jquery js -->
+
     <script src="assets/js/vendor/jquery-3.6.2.min.js"></script>
     <!-- bootstrap js -->
     <script src="assets/js/bootstrap.min.js"></script>
