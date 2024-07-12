@@ -51,6 +51,8 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 =========================================================---*/
 .header-area {
     margin-bottom: -106px;
+    z-index: 1;
+    position: relative;
 }
 
 .header-menu {
@@ -8829,7 +8831,7 @@ Awards One Css
     margin-bottom: 20px;
 }
 
-.services-btn-container ul li button {
+.services-btn-container ul li a {
     display: inline-block;
     background: transparent;
     border: 1px solid #ffffff6e;
@@ -8840,13 +8842,19 @@ Awards One Css
     margin-right: 14px;
     transition: 0.5s;
     border-radius: 3px;
+    text-decoration: none;
 }
 
-.services-btn-container ul li button.active {
+.services-btn-container ul li a.active {
     background: #0c5adb;
     border: 1px solid #0c5adb;
 }
 
-.container-box {
+/*  */
+.style-two.service-area .box {
     display: none;
+}
+
+.style-two.service-area .box.active {
+    display: block;
 }

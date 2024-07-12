@@ -24,11 +24,4 @@
   }
 })(jQuery);
 
-$(document).ready(function () {
-  $("button").click(function () {
-    var buttonId = $(this).attr("id"); // Get the ID of the clicked button
-    var containerId = buttonId.replace("button", "container-box"); // Get the corresponding container ID
-    $(".container-box").hide(); // Hide all containers
-    $("#" + containerId).show(); // Show the selected container
-  });
-});
+// new
