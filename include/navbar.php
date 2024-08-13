@@ -19,7 +19,7 @@
                                     <li><a href="service-details.html">Service Details</a></li>
                                 </ul>
                             </li>
-                            <li class="menu-item-has-children">
+                            <!-- <li class="menu-item-has-children">
                                 <a href="#">Pages<i class="fas fa-chevron-down"></i></a>
                                 <ul class="sub-menu">
                                     <li><a href="choose-us.html">Why Choose Us</a></li>
@@ -33,8 +33,8 @@
                                     <li><a href="careers.html">Careers </a></li>
                                     <li><a href="faqs.html">Faqs</a></li>
                                 </ul>
-                            </li>
-                            <li class="menu-item-has-children">
+                            </li> -->
+                            <!-- <li class="menu-item-has-children">
                                 <a href="#">Blog<i class="fas fa-chevron-down"></i></a>
                                 <ul class="sub-menu">
                                     <li><a href="blog-grid.html">Blog Grid</a></li>
@@ -42,7 +42,8 @@
                                     <li><a href="blog-2column.html">Blog 2column</a></li>
                                     <li><a href="blog-details.html">Blog Details </a></li>
                                 </ul>
-                            </li>
+                            </li> -->
+                            <li><a href="blog">Blog</a></li>
                             <li><a href="contact">Contact</a></li>
                         </ul>
                         <!-- <div class="header-search-icon search-box-outer">

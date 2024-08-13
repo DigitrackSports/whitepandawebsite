@@ -58,7 +58,7 @@
             <div class="row">
                 <div class="col-lg-4 col-md-6">
                     <div class="footer-logo">
-                        <a href="index.html"><img src="assets/images/logo-2.png" alt="" /></a>
+                        <a href="index.html"><img src="assets/images/logo-1.png" alt="" /></a>
                     </div>
                     <div class="footer-widget-desc">
                         <p>
@@ -144,7 +144,7 @@
                     <div class="row">
                         <div class="col-lg-6 col-md-6">
                             <div class="footer-bottom-content">
-                                <p>© 2024 Toptech. Designed By Dream IT Solution</p>
+                                <p>© 2024 WhitePanda. Designed By - Digitrack Sports</p>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6">

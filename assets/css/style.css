@@ -236,7 +236,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     font-size: 34px;
     color: #fff;
     font-weight: 700;
-    line-height: 30px;
+    line-height: 45px;
     text-transform: uppercase;
 }
 
@@ -2040,12 +2040,13 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 }
 
 .style-two .single-services-box {
-    padding: 37px 0 30px 40px;
+    padding: 20px 0 20px 20px;
     background-color: #fff;
     position: relative;
     z-index: 1;
     margin-bottom: 25px;
     border-radius: 5px;
+    height: 95%;
 }
 
 .style-two .single-services-box:before {
@@ -2095,11 +2096,15 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     filter: brightness(0) invert(1);
 }
 
+.style-two .single-services-box .service-icon-thumb img {
+    height: 45px;
+}
+
 .style-two .service-number h1 {
     background: #E6EEFB;
     position: absolute;
     right: 0;
-    top: 33px;
+    top: 15px;
     transition: 0.5s;
     font-size: 26px;
     line-height: 50px;
@@ -2112,8 +2117,8 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 }
 
 .style-two .service-content h4 {
-    font-size: 26px;
-    line-height: 50px;
+    font-size: 22px;
+    line-height: 30px;
     color: #041424;
     font-weight: 700;
     margin: 16px 0 12px 0;
@@ -2143,6 +2148,8 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     color: #fff;
     font-weight: 600;
     font-family: "Rajdhani";
+    position: absolute;
+    bottom: 7px;
 }
 
 .style-two .single-services-box:hover .service-content a {
@@ -4001,6 +4008,11 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 /*---=====================================================
    <!--Toptech Header Area Css-->
 =========================================================---*/
+.header-area .header-logo img,
+.footer-area .footer-logo img {
+    height: 55px;
+}
+
 .header-area.inner-style {
     position: relative;
     z-index: 1;

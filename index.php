@@ -13,12 +13,11 @@
                     <h4>
                         Welcome To <span style="text-transform: unset">WhitePanda</span>
                     </h4>
-                    <h1>Top It Solutions Agency</h1>
-                    <h1>In The World</h1>
+                    <!-- <h1>Top It Solutions Agency</h1> -->
+                    <!-- <h1>In The World</h1> -->
+                    <h1>Delivering top-tier digital <br> solutions for your business.</h1>
                     <p>
-                        And In Order To Make A Business, Brand Advertising And Marketing
-                        Plays An Important Role. Similarly, In Making Cultivation
-                        Business
+                        Transform your business with our cutting-edge digital solutions. Experience efficiency, innovation, and growth like never before.
                     </p>
                 </div>
                 <div class="hero-button style-one">
@@ -203,25 +202,8 @@
                         <h1>01</h1>
                     </div>
                     <div class="service-content">
-                        <h4>Graphic Design</h4>
-                        <p>
-                            Monotonectally synergize grants to business visualize
-                            strategic infomediaries
-                        </p>
-                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 box tab2">
-                <div class="single-services-box">
-                    <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-2.png" alt="" />
-                    </div>
-                    <div class="service-number">
-                        <h1>02</h1>
-                    </div>
-                    <div class="service-content">
-                        <h4>Cloud Solutions</h4>
+                        <h4>
+                            Virtual Assistant</h4>
                         <p>
                             Monotonectally synergize grants to business visualize
                             strategic infomediaries
@@ -233,13 +215,319 @@
             <div class="col-lg-3 col-md-6 box tab1 active">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-3.png" alt="" />
+                        <img src="assets/images/home-2/service-1.png" alt="" />
+                    </div>
+                    <div class="service-number">
+                        <h1>02</h1>
+                    </div>
+                    <div class="service-content">
+                        <h4>Marketing Support</h4>
+                        <p>
+                            Monotonectally synergize grants to business visualize
+                            strategic infomediaries
+                        </p>
+                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 box tab1 active">
+                <div class="single-services-box">
+                    <div class="service-icon-thumb">
+                        <img src="assets/images/home-2/service-1.png" alt="" />
                     </div>
                     <div class="service-number">
                         <h1>03</h1>
                     </div>
                     <div class="service-content">
-                        <h4>WP Development</h4>
+                        <h4>Accounting Support</h4>
+                        <p>
+                            Monotonectally synergize grants to business visualize
+                            strategic infomediaries
+                        </p>
+                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 box tab1 active">
+                <div class="single-services-box">
+                    <div class="service-icon-thumb">
+                        <img src="assets/images/home-2/service-1.png" alt="" />
+                    </div>
+                    <div class="service-number">
+                        <h1>04</h1>
+                    </div>
+                    <div class="service-content">
+                        <h4>Order Processing</h4>
+                        <p>
+                            Monotonectally synergize grants to business visualize
+                            strategic infomediaries
+                        </p>
+                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 box tab1 active">
+                <div class="single-services-box">
+                    <div class="service-icon-thumb">
+                        <img src="assets/images/home-2/service-1.png" alt="" />
+                    </div>
+                    <div class="service-number">
+                        <h1>05</h1>
+                    </div>
+                    <div class="service-content">
+                        <h4>Account Set-Up</h4>
+                        <p>
+                            Monotonectally synergize grants to business visualize
+                            strategic infomediaries
+                        </p>
+                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 box tab1 active">
+                <div class="single-services-box">
+                    <div class="service-icon-thumb">
+                        <img src="assets/images/home-2/service-1.png" alt="" />
+                    </div>
+                    <div class="service-number">
+                        <h1>06</h1>
+                    </div>
+                    <div class="service-content">
+                        <h4>Research</h4>
+                        <p>
+                            Monotonectally synergize grants to business visualize
+                            strategic infomediaries
+                        </p>
+                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 box tab1 active">
+                <div class="single-services-box">
+                    <div class="service-icon-thumb">
+                        <img src="assets/images/home-2/service-1.png" alt="" />
+                    </div>
+                    <div class="service-number">
+                        <h1>07</h1>
+                    </div>
+                    <div class="service-content">
+                        <h4>Data Entry</h4>
+                        <p>
+                            Monotonectally synergize grants to business visualize
+                            strategic infomediaries
+                        </p>
+                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 box tab1 active">
+                <div class="single-services-box">
+                    <div class="service-icon-thumb">
+                        <img src="assets/images/home-2/service-1.png" alt="" />
+                    </div>
+                    <div class="service-number">
+                        <h1>08</h1>
+                    </div>
+                    <div class="service-content">
+                        <h4>Back Office</h4>
+                        <p>
+                            Monotonectally synergize grants to business visualize
+                            strategic infomediaries
+                        </p>
+                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 box tab2">
+                <div class="single-services-box">
+                    <div class="service-icon-thumb">
+                        <img src="assets/images/home-2/service-5.png" alt="" />
+                    </div>
+                    <div class="service-number">
+                        <h1>01</h1>
+                    </div>
+                    <div class="service-content">
+                        <h4>Mobile App Development</h4>
+                        <p>
+                            Monotonectally synergize grants to business visualize
+                            strategic infomediaries
+                        </p>
+                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 box tab2">
+                <div class="single-services-box">
+                    <div class="service-icon-thumb">
+                        <img src="assets/images/home-2/service-5.png" alt="" />
+                    </div>
+                    <div class="service-number">
+                        <h1>02</h1>
+                    </div>
+                    <div class="service-content">
+                        <h4>Web App Development</h4>
+                        <p>
+                            Monotonectally synergize grants to business visualize
+                            strategic infomediaries
+                        </p>
+                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 box tab2">
+                <div class="single-services-box">
+                    <div class="service-icon-thumb">
+                        <img src="assets/images/home-2/service-5.png" alt="" />
+                    </div>
+                    <div class="service-number">
+                        <h1>03</h1>
+                    </div>
+                    <div class="service-content">
+                        <h4>E-Commerce App</h4>
+                        <p>
+                            Monotonectally synergize grants to business visualize
+                            strategic infomediaries
+                        </p>
+                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 box tab2">
+                <div class="single-services-box">
+                    <div class="service-icon-thumb">
+                        <img src="assets/images/home-2/service-5.png" alt="" />
+                    </div>
+                    <div class="service-number">
+                        <h1>04</h1>
+                    </div>
+                    <div class="service-content">
+                        <h4>Sports Management App</h4>
+                        <p>
+                            Monotonectally synergize grants to business visualize
+                            strategic infomediaries
+                        </p>
+                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 box tab2">
+                <div class="single-services-box">
+                    <div class="service-icon-thumb">
+                        <img src="assets/images/home-2/service-5.png" alt="" />
+                    </div>
+                    <div class="service-number">
+                        <h1>05</h1>
+                    </div>
+                    <div class="service-content">
+                        <h4>Tracking App</h4>
+                        <p>
+                            Monotonectally synergize grants to business visualize
+                            strategic infomediaries
+                        </p>
+                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 box tab2">
+                <div class="single-services-box">
+                    <div class="service-icon-thumb">
+                        <img src="assets/images/home-2/service-5.png" alt="" />
+                    </div>
+                    <div class="service-number">
+                        <h1>06</h1>
+                    </div>
+                    <div class="service-content">
+                        <h4>Cloud Application</h4>
+                        <p>
+                            Monotonectally synergize grants to business visualize
+                            strategic infomediaries
+                        </p>
+                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 box tab2">
+                <div class="single-services-box">
+                    <div class="service-icon-thumb">
+                        <img src="assets/images/home-2/service-5.png" alt="" />
+                    </div>
+                    <div class="service-number">
+                        <h1>07</h1>
+                    </div>
+                    <div class="service-content">
+                        <h4>Cross-Platform Application</h4>
+                        <p>
+                            Monotonectally synergize grants to business visualize
+                            strategic infomediaries
+                        </p>
+                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 box tab2">
+                <div class="single-services-box">
+                    <div class="service-icon-thumb">
+                        <img src="assets/images/home-2/service-5.png" alt="" />
+                    </div>
+                    <div class="service-number">
+                        <h1>08</h1>
+                    </div>
+                    <div class="service-content">
+                        <h4>Fitness App</h4>
+                        <p>
+                            Monotonectally synergize grants to business visualize
+                            strategic infomediaries
+                        </p>
+                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 box tab3">
+                <div class="single-services-box">
+                    <div class="service-icon-thumb">
+                        <img src="assets/images/home-2/service-4.png" alt="" />
+                    </div>
+                    <div class="service-number">
+                        <h1>01</h1>
+                    </div>
+                    <div class="service-content">
+                        <h4>Digital Marketing</h4>
+                        <p>
+                            Monotonectally synergize grants to business visualize
+                            strategic infomediaries
+                        </p>
+                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 box tab3">
+                <div class="single-services-box">
+                    <div class="service-icon-thumb">
+                        <img src="assets/images/home-2/service-4.png" alt="" />
+                    </div>
+                    <div class="service-number">
+                        <h1>02</h1>
+                    </div>
+                    <div class="service-content">
+                        <h4>Custom Software Development</h4>
+                        <p>
+                            Monotonectally synergize grants to business visualize
+                            strategic infomediaries
+                        </p>
+                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 box tab3">
+                <div class="single-services-box">
+                    <div class="service-icon-thumb">
+                        <img src="assets/images/home-2/service-4.png" alt="" />
+                    </div>
+                    <div class="service-number">
+                        <h1>03</h1>
+                    </div>
+                    <div class="service-content">
+                        <h4>Remote In-Sourcing </h4>
                         <p>
                             Monotonectally synergize grants to business visualize
                             strategic infomediaries
@@ -257,7 +545,80 @@
                         <h1>04</h1>
                     </div>
                     <div class="service-content">
-                        <h4>Digital Marketing</h4>
+                        <h4>QA and Testing
+                            Services </h4>
+                        <p>
+                            Monotonectally synergize grants to business visualize
+                            strategic infomediaries
+                        </p>
+                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 box tab3">
+                <div class="single-services-box">
+                    <div class="service-icon-thumb">
+                        <img src="assets/images/home-2/service-4.png" alt="" />
+                    </div>
+                    <div class="service-number">
+                        <h1>05</h1>
+                    </div>
+                    <div class="service-content">
+                        <h4>Custom Theme Development</h4>
+                        <p>
+                            Monotonectally synergize grants to business visualize
+                            strategic infomediaries
+                        </p>
+                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 box tab3">
+                <div class="single-services-box">
+                    <div class="service-icon-thumb">
+                        <img src="assets/images/home-2/service-4.png" alt="" />
+                    </div>
+                    <div class="service-number">
+                        <h1>06</h1>
+                    </div>
+                    <div class="service-content">
+                        <h4>Graphics Design</h4>
+                        <p>
+                            Monotonectally synergize grants to business visualize
+                            strategic infomediaries
+                        </p>
+                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 box tab3">
+                <div class="single-services-box">
+                    <div class="service-icon-thumb">
+                        <img src="assets/images/home-2/service-4.png" alt="" />
+                    </div>
+                    <div class="service-number">
+                        <h1>07</h1>
+                    </div>
+                    <div class="service-content">
+                        <h4>Technical Support </h4>
+                        <p>
+                            Monotonectally synergize grants to business visualize
+                            strategic infomediaries
+                        </p>
+                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 box tab3">
+                <div class="single-services-box">
+                    <div class="service-icon-thumb">
+                        <img src="assets/images/home-2/service-4.png" alt="" />
+                    </div>
+                    <div class="service-number">
+                        <h1>08</h1>
+                    </div>
+                    <div class="service-content">
+                        <h4>Search Engine Optimization</h4>
                         <p>
                             Monotonectally synergize grants to business visualize
                             strategic infomediaries
@@ -269,13 +630,13 @@
             <div class="col-lg-3 col-md-6 box tab4">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-5.png" alt="" />
+                        <img src="assets/images/home-2/service-1.png" alt="" />
                     </div>
                     <div class="service-number">
-                        <h1>05</h1>
+                        <h1>01</h1>
                     </div>
                     <div class="service-content">
-                        <h4>3D Vector Illustration</h4>
+                        <h4>Vulnerability Assessment</h4>
                         <p>
                             Monotonectally synergize grants to business visualize
                             strategic infomediaries
@@ -284,7 +645,79 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 box tab1 active">
+            <div class="col-lg-3 col-md-6 box tab4">
+                <div class="single-services-box">
+                    <div class="service-icon-thumb">
+                        <img src="assets/images/home-2/service-2.png" alt="" />
+                    </div>
+                    <div class="service-number">
+                        <h1>02</h1>
+                    </div>
+                    <div class="service-content">
+                        <h4>Social Engineering Testing</h4>
+                        <p>
+                            Monotonectally synergize grants to business visualize
+                            strategic infomediaries
+                        </p>
+                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 box tab4 ">
+                <div class="single-services-box">
+                    <div class="service-icon-thumb">
+                        <img src="assets/images/home-2/service-3.png" alt="" />
+                    </div>
+                    <div class="service-number">
+                        <h1>03</h1>
+                    </div>
+                    <div class="service-content">
+                        <h4>Security Posture Assessment</h4>
+                        <p>
+                            Monotonectally synergize grants to business visualize
+                            strategic infomediaries
+                        </p>
+                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 box tab4 ">
+                <div class="single-services-box">
+                    <div class="service-icon-thumb">
+                        <img src="assets/images/home-2/service-6.png" alt="" />
+                    </div>
+                    <div class="service-number">
+                        <h1>04</h1>
+                    </div>
+                    <div class="service-content">
+                        <h4>Penetration Testing</h4>
+                        <p>
+                            Monotonectally synergize grants to business visualize
+                            strategic infomediaries
+                        </p>
+                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 box tab4 ">
+                <div class="single-services-box">
+                    <div class="service-icon-thumb">
+                        <img src="assets/images/home-2/service-6.png" alt="" />
+                    </div>
+                    <div class="service-number">
+                        <h1>05</h1>
+                    </div>
+                    <div class="service-content">
+                        <h4>Compliance and Framework Auditing</h4>
+                        <p>
+                            Monotonectally synergize grants to business visualize
+                            strategic infomediaries
+                        </p>
+                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 box tab4 ">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
                         <img src="assets/images/home-2/service-6.png" alt="" />
@@ -293,7 +726,43 @@
                         <h1>06</h1>
                     </div>
                     <div class="service-content">
-                        <h4>Hosting Services</h4>
+                        <h4>Cybersecurity training</h4>
+                        <p>
+                            Monotonectally synergize grants to business visualize
+                            strategic infomediaries
+                        </p>
+                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 box tab4 ">
+                <div class="single-services-box">
+                    <div class="service-icon-thumb">
+                        <img src="assets/images/home-2/service-6.png" alt="" />
+                    </div>
+                    <div class="service-number">
+                        <h1>07</h1>
+                    </div>
+                    <div class="service-content">
+                        <h4>Incident Response</h4>
+                        <p>
+                            Monotonectally synergize grants to business visualize
+                            strategic infomediaries
+                        </p>
+                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 box tab4 ">
+                <div class="single-services-box">
+                    <div class="service-icon-thumb">
+                        <img src="assets/images/home-2/service-6.png" alt="" />
+                    </div>
+                    <div class="service-number">
+                        <h1>08</h1>
+                    </div>
+                    <div class="service-content">
+                        <h4>CISOaaS</h4>
                         <p>
                             Monotonectally synergize grants to business visualize
                             strategic infomediaries
