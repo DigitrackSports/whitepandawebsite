@@ -11,7 +11,7 @@
             <div class="col-lg-12">
                 <div class="hero-content">
                     <h4>
-                        Welcome To <span style="text-transform: unset">WhitePanda</span>
+                        Welcome To <span style="text-transform: unset">My WhitePanda</span>
                     </h4>
                     <!-- <h1>Top It Solutions Agency</h1> -->
                     <!-- <h1>In The World</h1> -->
