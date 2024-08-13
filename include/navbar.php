@@ -4,7 +4,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-3">
                     <div class="header-logo">
-                        <a href="index.html"><img src="assets/images/Logo-white.png" alt="logo" /></a>
+                        <a href="index.html"><img src="assets/images/logo-1.png" alt="logo" /></a>
                     </div>
                 </div>
                 <div class="col-lg-9">
