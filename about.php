@@ -12,7 +12,7 @@
                 <div class="breadcumb-content">
                     <h4>About Us </h4>
                     <ul>
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="index">Home</a></li>
                         <li>></li>
                         <li>About</li>
                     </ul>
@@ -41,13 +41,14 @@
                 <div class="abour-right">
                     <div class="section-title left inner-style">
                         <h4>IT Support for Business</h4>
-                        <h1>About is Over 291+ Company</h1>
-                        <h1>Business Solution.</h1>
-                        <p class="section-desc">Monotonectaly provede granular markets and front markets dream it company in
-                            visualize strategic infomediaries am multimedia based models clean calender
-                            task state of the art infrastructures for about business.</p>
+                        <h1>Ensuring Your Success</h1>
+                        <h1>Trusted</h1>
+                        <h1>IT Services Source</h1>
+                        <p class="section-desc">
+                            IT Support for Business involves proactive maintenance, monitoring, and troubleshooting of technology systems. It ensures seamless operations, minimizes downtime, enhances security, and provides rapid issue resolution. With efficient management of IT infrastructure, businesses can achieve optimal productivity, improved performance, and focus on core objectives without technology disruptions.
+                        </p>
                     </div>
-                    <div class="about-single-box">
+                    <!-- <div class="about-single-box">
                         <div class="about-icon">
                             <img src="assets/images/about-inner/about-icon.png" alt="">
                         </div>
@@ -64,98 +65,19 @@
                             <h4>IT Management</h4>
                             <p>Proved granular markets dream team more based models clean.</p>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
-                <div class="about-single-button">
+                <!-- <div class="about-single-button">
                     <a href="#">Mission</a>
                 </div>
                 <div class="about-single-button">
                     <a href="#">Vison</a>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
 </div>
 <!-- End Toptech About Area Inner Style Two-->
-
-
-<!-- Start Toptech Contact info Area Style Three-->
-<div class="contact-area-info style-three">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-6">
-                <div class="contact-icon">
-                    <img src="assets/images/home-3/contact-icon.png" alt="">
-                </div>
-                <div class="contact-content">
-                    <h6>Call Us Anytime</h6>
-                    <h1>+980 123 (4567) 890</h1>
-                    <p>Professionally optimize interdependent intellectual interoperable
-                        best practices. Progressively fabricate</p>
-                </div>
-                <div class="toptech-button inner-style">
-                    <a href="#">Let’s Talk<i class="bi bi-arrow-right-short"></i></a>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="contact-right">
-                    <div class="contact-thumb">
-                        <img src="assets/images/home-3/contact-thumb.png" alt="">
-                    </div>
-                    <div class="contact-shape">
-                        <img src="assets/images/home-3/contact-shape.png" alt="">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- End Toptech Contact info Area Style Three-->
-
-<!-- Start Toptech Counter Area Home Three-->
-<div class="counter-area style-three">
-    <div class="container">
-        <div class="row add-bg">
-            <div class="col-lg-3 col-md-6 col-sm-6">
-                <div class="single-counter-box">
-                    <div class="counter-content">
-                        <h4>960</h4>
-                        <span>+</span>
-                        <p>Active Coustomer </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-6">
-                <div class="single-counter-box">
-                    <div class="counter-content">
-                        <h4>90</h4>
-                        <span>+</span>
-                        <p>Expert Members </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-6">
-                <div class="single-counter-box">
-                    <div class="counter-content">
-                        <h4>852</h4>
-                        <span>+</span>
-                        <p>Satisfied Customers </p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-6">
-                <div class="single-counter-box last-child">
-                    <div class="counter-content">
-                        <h4>100</h4>
-                        <span>%</span>
-                        <p>Satisfaction Rate </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- End Toptech Counter Area Style Three-->
 
 <!-- Start Toptech Choose Us Area Style Three-->
 <div class="choose-us-area style-three">
@@ -166,11 +88,10 @@
                     <h4>Why Choose Us?</h4>
                     <h1>Building your Path to Success</h1>
                     <h1>with a Reliable IT Service</h1>
-                    <p class="section-desc">Monotonectally synergize granular markets front markets. Collaboratively
-                        visualize strategic infomediaries after multimedia based.Synergistically to
-                        task state of the art infrastructures</p>
+                    <p class="section-desc">Choose us for our deep expertise in BPO services, application development, IT managed services, and cybersecurity. Our experienced team is dedicated to delivering top-tier solutions tailored to your unique business needs. We ensure consistent, high-quality results that keep your operations running seamlessly, allowing you to focus on what matters most.</p>
+                    <p class="section-desc">Security is at the core of everything we do. We prioritize safeguarding your data and protecting your business from evolving threats. Our commitment to innovation ensures that you benefit from cutting-edge technology solutions designed to enhance efficiency and drive growth. Trust us to be your reliable partner in achieving business excellence.</p>
                 </div>
-                <div class="wrapper">
+                <!-- <div class="wrapper">
                     <div class="skill">
                         <p>IT Solutions</p>
                         <div class="skill-bar skill1 wow slideInLeft animated">
@@ -186,7 +107,7 @@
                     <div class="toptech-button inner-style">
                         <a href="#">More About<i class="bi bi-arrow-right-short"></i></a>
                     </div>
-                </div>
+                </div> -->
             </div>
             <div class="col-lg-3 col-md-6 col-sm-6">
                 <div class="single-pricing-box">
@@ -238,6 +159,211 @@
     </div>
 </div>
 <!-- End Toptech Choose us Area Style Three-->
+
+
+<!-- Start Vision Mission Section -->
+<div class="mission-area inner-style">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="mission-thumb">
+                    <img src="assets/images/inner-images/mission-1.png" alt="">
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="mission-box">
+                    <div class="mission-content">
+                        <h4>Our Mission</h4>
+                        <div class="single-icon-box">
+                            <div class="single-icon-thumb">
+                                <i class="bi bi-check"></i>
+                            </div>
+                            <div class="sigle-icon-desc">
+                                <p>Deliver innovative BPO services and custom application development to optimize business processes.</p>
+                            </div>
+                        </div>
+                        <div class="single-icon-box">
+                            <div class="single-icon-thumb">
+                                <i class="bi bi-check"></i>
+                            </div>
+                            <div class="sigle-icon-desc">
+                                <p>Provide comprehensive IT managed services to ensure seamless operations and reliability.</p>
+                            </div>
+                        </div>
+                        <div class="single-icon-box">
+                            <div class="single-icon-thumb">
+                                <i class="bi bi-check"></i>
+                            </div>
+                            <div class="sigle-icon-desc">
+                                <p>Enhance cybersecurity to protect and secure our clients' digital assets and data.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="mission-box two">
+                    <div class="mission-content">
+                        <h4>Our Drive and Vision</h4>
+                        <div class="single-icon-box">
+                            <div class="single-icon-thumb">
+                                <i class="bi bi-check"></i>
+                            </div>
+                            <div class="sigle-icon-desc">
+                                <p>Become a leading global provider of integrated technology solutions that drive business excellence.</p>
+                            </div>
+                        </div>
+                        <div class="single-icon-box">
+                            <div class="single-icon-thumb">
+                                <i class="bi bi-check"></i>
+                            </div>
+                            <div class="sigle-icon-desc">
+                                <p>Continuously innovate to deliver cutting-edge services that meet evolving industry needs.</p>
+                            </div>
+                        </div>
+                        <div class="single-icon-box">
+                            <div class="single-icon-thumb">
+                                <i class="bi bi-check"></i>
+                            </div>
+                            <div class="sigle-icon-desc">
+                                <p>Foster long-term partnerships by empowering businesses with secure, efficient, and scalable solutions.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="mission-thumb two">
+                    <img src="assets/images/inner-images/mission-2.png" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="mission-thumb">
+                    <img src="assets/images/inner-images/mission-1.png" alt="">
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="mission-box">
+                    <div class="mission-content">
+                        <h4>The Goal</h4>
+                        <div class="single-icon-box">
+                            <div class="single-icon-thumb">
+                                <i class="bi bi-check"></i>
+                            </div>
+                            <div class="sigle-icon-desc">
+                                <p>Achieve sustained growth by expanding our service offerings and client base globally.</p>
+                            </div>
+                        </div>
+                        <div class="single-icon-box">
+                            <div class="single-icon-thumb">
+                                <i class="bi bi-check"></i>
+                            </div>
+                            <div class="sigle-icon-desc">
+                                <p>Deliver measurable value through continuous improvement and innovation in our services.</p>
+                            </div>
+                        </div>
+                        <div class="single-icon-box">
+                            <div class="single-icon-thumb">
+                                <i class="bi bi-check"></i>
+                            </div>
+                            <div class="sigle-icon-desc">
+                                <p>Strengthen client relationships by consistently exceeding expectations in quality, reliability, and security.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Vision Mission Section -->
+
+
+<!-- Start Toptech Contact info Area Style Three-->
+<div class="contact-area-info style-three">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="contact-icon">
+                    <img src="assets/images/home-3/contact-icon.png" alt="">
+                </div>
+                <div class="contact-content">
+                    <h6>Call Us Anytime</h6>
+                    <h1>+980 123 (4567) 890</h1>
+                    <p>Professionally optimize interdependent intellectual interoperable
+                        best practices. Progressively fabricate</p>
+                </div>
+                <div class="toptech-button inner-style">
+                    <a href="#">Let’s Talk<i class="bi bi-arrow-right-short"></i></a>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="contact-right">
+                    <div class="contact-thumb">
+                        <img src="assets/images/home-3/contact-thumb.png" alt="">
+                    </div>
+                    <div class="contact-shape">
+                        <img src="assets/images/home-3/contact-shape.png" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Toptech Contact info Area Style Three-->
+
+<!-- Start Toptech Counter Area Home Three-->
+<!-- <div class="counter-area style-three">
+    <div class="container">
+        <div class="row add-bg">
+            <div class="col-lg-3 col-md-6 col-sm-6">
+                <div class="single-counter-box">
+                    <div class="counter-content">
+                        <h4>960</h4>
+                        <span>+</span>
+                        <p>Active Coustomer </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-6">
+                <div class="single-counter-box">
+                    <div class="counter-content">
+                        <h4>90</h4>
+                        <span>+</span>
+                        <p>Expert Members </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-6">
+                <div class="single-counter-box">
+                    <div class="counter-content">
+                        <h4>852</h4>
+                        <span>+</span>
+                        <p>Satisfied Customers </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-6">
+                <div class="single-counter-box last-child">
+                    <div class="counter-content">
+                        <h4>100</h4>
+                        <span>%</span>
+                        <p>Satisfaction Rate </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div> -->
+<!-- End Toptech Counter Area Style Three-->
+
+
 
 
 <!-- Footer started here -->

@@ -12,13 +12,14 @@
                         <ul>
                             <li><a href="index">Home</a></li>
                             <li><a href="about">About</a></li>
-                            <li class="menu-item-has-children">
+                            <li><a href="service">Service</a></li>
+                            <!-- <li class="menu-item-has-children">
                                 <a href="#">Service<i class="fas fa-chevron-down"></i></a>
                                 <ul class="sub-menu">
-                                    <li><a href="service.html">Service</a></li>
+                                    <li><a href="service">Service</a></li>
                                     <li><a href="service-details.html">Service Details</a></li>
                                 </ul>
-                            </li>
+                            </li> -->
                             <!-- <li class="menu-item-has-children">
                                 <a href="#">Pages<i class="fas fa-chevron-down"></i></a>
                                 <ul class="sub-menu">
@@ -43,7 +44,7 @@
                                     <li><a href="blog-details.html">Blog Details </a></li>
                                 </ul>
                             </li> -->
-                            <li><a href="blog">Blog</a></li>
+                            <!-- <li><a href="blog">Blog</a></li> -->
                             <li><a href="contact">Contact</a></li>
                         </ul>
                         <!-- <div class="header-search-icon search-box-outer">
@@ -83,7 +84,7 @@
                     <li class="menu-item-has-children">
                         <a href="#">Service</a>
                         <ul class="sub-menu">
-                            <li><a href="service.html">Service</a></li>
+                            <li><a href="service">Service</a></li>
                             <li><a href="service-details.html">Service Details</a></li>
                         </ul>
                     </li>
