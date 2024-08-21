@@ -8870,3 +8870,17 @@ Awards One Css
 .style-two.service-area .box.active {
     display: block;
 }
+
+.about-right {
+    width: 100%;
+    height: auto;
+    border-radius: 3px;
+    border: 5px solid #fff;
+    box-shadow: 0 0 10px #00000038;
+}
+
+.inner-style-two .about-video-box .about-video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
