@@ -116,10 +116,10 @@
                 <div class="abour-right">
                     <div class="section-title left style-two">
                         <h4>IT Support for Business</h4>
-                        <!-- <h1>Ensuring Your Success Trusted</h1>
-                        <h1>IT Services Source</h1> -->
+                        <h1>Ensuring Your Success Trusted</h1>
+                        <h1>IT Services Source</h1>
                         <p class="section-desc">
-                        Empowering your business with expert IT support to keep your operations running smoothly. We provide quick, reliable solutions to tackle any technical challenge, big or small.
+                            Empowering your business with expert IT support to keep your operations running smoothly. We provide quick, reliable solutions to tackle any technical challenge, big or small.
                         </p>
                     </div>
                     <div class="about-list-item">
@@ -201,7 +201,7 @@
                         <h4>
                             Virtual Assistant</h4>
                         <p>
-                        Streamline daily tasks with our skilled virtual assistants, enhancing productivity while you focus on core business activities.
+                            Streamline daily tasks with our skilled virtual assistants, enhancing productivity while you focus on core business activities.
                         </p>
                         <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
@@ -218,7 +218,7 @@
                     <div class="service-content">
                         <h4>Marketing Support</h4>
                         <p>
-                        Boost your brand with expert marketing support, from strategy development to execution, ensuring consistent growth and engagement
+                            Boost your brand with expert marketing support, from strategy development to execution, ensuring consistent growth and engagement
                         </p>
                         <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
@@ -235,7 +235,7 @@
                     <div class="service-content">
                         <h4>Accounting Support</h4>
                         <p>
-                        Ensure financial accuracy with our accounting support, managing your books, payroll, and reporting for seamless business operations.
+                            Ensure financial accuracy with our accounting support, managing your books, payroll, and reporting for seamless business operations.
                         </p>
                         <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
@@ -252,7 +252,7 @@
                     <div class="service-content">
                         <h4>Order Processing</h4>
                         <p>
-                        Streamline your sales with efficient order processing, from handling orders to tracking and customer communication, ensuring satisfaction.
+                            Streamline your sales with efficient order processing, from handling orders to tracking and customer communication, ensuring satisfaction.
                         </p>
                         <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
@@ -269,7 +269,7 @@
                     <div class="service-content">
                         <h4>Account Set-Up</h4>
                         <p>
-                        Facilitate smooth business operations with expert account set-up, including configuration, management, and integration for optimal efficiency.
+                            Facilitate smooth business operations with expert account set-up, including configuration, management, and integration for optimal efficiency.
                         </p>
                         <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
@@ -286,7 +286,7 @@
                     <div class="service-content">
                         <h4>Research</h4>
                         <p>
-                        Gain valuable insights with thorough research services, providing data-driven analysis to support informed business decisions and strategies.
+                            Gain valuable insights with thorough research services, providing data-driven analysis to support informed business decisions and strategies.
                         </p>
                         <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
@@ -303,7 +303,7 @@
                     <div class="service-content">
                         <h4>Data Entry</h4>
                         <p>
-                        Enhance accuracy and efficiency with meticulous data entry services, ensuring your information is correctly captured and organized.
+                            Enhance accuracy and efficiency with meticulous data entry services, ensuring your information is correctly captured and organized.
                         </p>
                         <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
@@ -320,7 +320,7 @@
                     <div class="service-content">
                         <h4>Back Office</h4>
                         <p>
-                        Optimize operations with comprehensive back office support, handling administrative tasks and ensuring smooth, efficient business processes.
+                            Optimize operations with comprehensive back office support, handling administrative tasks and ensuring smooth, efficient business processes.
                         </p>
                         <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
@@ -337,7 +337,7 @@
                     <div class="service-content">
                         <h4>Custom App Development</h4>
                         <p>
-                        Build tailored applications to meet your unique business needs, enhancing functionality and user experience.
+                            Build tailored applications to meet your unique business needs, enhancing functionality and user experience.
                         </p>
                         <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
@@ -354,7 +354,7 @@
                     <div class="service-content">
                         <h4>Mobile App Development</h4>
                         <p>
-                        Create dynamic mobile apps for iOS and Android, delivering seamless performance and user engagement across devices.
+                            Create dynamic mobile apps for iOS and Android, delivering seamless performance and user engagement across devices.
                         </p>
                         <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
@@ -371,7 +371,7 @@
                     <div class="service-content">
                         <h4>Web App Development</h4>
                         <p>
-                        Develop robust web applications with intuitive interfaces, ensuring reliable performance and accessibility from any browser.
+                            Develop robust web applications with intuitive interfaces, ensuring reliable performance and accessibility from any browser.
                         </p>
                         <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
@@ -388,7 +388,7 @@
                     <div class="service-content">
                         <h4>UI/UX Design</h4>
                         <p>
-                        Design engaging user interfaces and experiences, focusing on intuitive navigation and visual appeal for maximum user satisfaction.
+                            Design engaging user interfaces and experiences, focusing on intuitive navigation and visual appeal for maximum user satisfaction.
                         </p>
                         <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>

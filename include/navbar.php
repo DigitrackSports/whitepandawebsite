@@ -12,44 +12,18 @@
                         <ul>
                             <li><a href="index">Home</a></li>
                             <li><a href="about">About</a></li>
-                            <li><a href="service">Service</a></li>
-                            <!-- <li class="menu-item-has-children">
-                                <a href="#">Service<i class="fas fa-chevron-down"></i></a>
+                            <!-- <li><a href="service">Service</a></li> -->
+                            <li class="menu-item-has-children">
+                                <a href="javascript:void(0)">Services<i class="fas fa-chevron-down"></i></a>
                                 <ul class="sub-menu">
-                                    <li><a href="service">Service</a></li>
-                                    <li><a href="service-details.html">Service Details</a></li>
+                                    <li><a href="bpo">Business Process Outsourcing</a></li>
+                                    <li><a href="service">Application Development</a></li>
+                                    <li><a href="service">IT and Managed Services</a></li>
+                                    <li><a href="service">Cyber Security</a></li>
                                 </ul>
-                            </li> -->
-                            <!-- <li class="menu-item-has-children">
-                                <a href="#">Pages<i class="fas fa-chevron-down"></i></a>
-                                <ul class="sub-menu">
-                                    <li><a href="choose-us.html">Why Choose Us</a></li>
-                                    <li><a href="mission.html">Mission Visson </a></li>
-                                    <li><a href="team.html">Our Team</a></li>
-                                    <li><a href="team-details.html">Team Details </a></li>
-                                    <li><a href="project.html">Our Project</a></li>
-                                    <li><a href="project-details.html">Project Details </a></li>
-                                    <li><a href="location.html">Our Location </a></li>
-                                    <li><a href="pricing.html">Our Pricing</a></li>
-                                    <li><a href="careers.html">Careers </a></li>
-                                    <li><a href="faqs.html">Faqs</a></li>
-                                </ul>
-                            </li> -->
-                            <!-- <li class="menu-item-has-children">
-                                <a href="#">Blog<i class="fas fa-chevron-down"></i></a>
-                                <ul class="sub-menu">
-                                    <li><a href="blog-grid.html">Blog Grid</a></li>
-                                    <li><a href="blog-list.html">Blog List</a></li>
-                                    <li><a href="blog-2column.html">Blog 2column</a></li>
-                                    <li><a href="blog-details.html">Blog Details </a></li>
-                                </ul>
-                            </li> -->
-                            <!-- <li><a href="blog">Blog</a></li> -->
+                            </li>
                             <li><a href="contact">Contact</a></li>
                         </ul>
-                        <!-- <div class="header-search-icon search-box-outer">
-                            <a href="#"><i class="fa-solid fa-magnifying-glass"></i></a>
-                        </div> -->
                         <div class="header-button">
                             <a href="contact">Get A Quote</a>
                         </div>
