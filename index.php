@@ -95,18 +95,7 @@
                     <div class="about-thumb">
                         <img src="assets/images/home-3/about-thumb.png" alt="" />
                     </div>
-                    <div class="about-video-box">
-                        <a class="video-vemo-icon venobox vbox-item" data-vbtype="youtube" data-autoplay="true" href="https://www.youtube.com/watch?v=e6R6VsgD8yQ&amp;amp;t=179s"><i class="bi bi-play-fill"></i></a>
-                    </div>
-                    <div class="abour-award-box">
-                        <div class="about-award-icon">
-                            <img src="assets/images/about-inner/about-award-icon.png" alt="" />
-                        </div>
-                        <div class="about-award-content">
-                            <h4>Award Wining</h4>
-                            <p>Best Services</p>
-                        </div>
-                    </div>
+
                     <div class="about-shape">
                         <img src="assets/images/home-3/about-shape.png" alt="" />
                     </div>
@@ -142,7 +131,7 @@
                         </div>
                     </div>
                     <div class="toptech-button inner-style">
-                        <a href="about.php">Learn More<i class="bi bi-arrow-right-short"></i></a>
+                        <a href="about">Learn More<i class="bi bi-arrow-right-short"></i></a>
                     </div>
                     <div class="about-shape-two">
                         <img src="assets/images/home-3/about-shape-2.png" alt="" />
@@ -462,6 +451,9 @@
                     </div>
                 </div>
             </div>
+
+
+
             <div class="col-lg-3 col-md-6 box tab3">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
@@ -599,6 +591,8 @@
                     </div>
                 </div>
             </div>
+
+
             <div class="col-lg-3 col-md-6 box tab4">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">

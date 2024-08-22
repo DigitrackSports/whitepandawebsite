@@ -9,7 +9,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="breadcumb-content">
-                    <h4>Business Process Outsourcing</h4>
+                    <h4>Application Development</h4>
                 </div>
             </div>
         </div>
@@ -23,22 +23,22 @@
         <div class="row">
             <div class="col-lg-7">
                 <div class="section-title left style-two">
-                    <h4>Business Process Outsourcing</h4>
-                    <h1>Cost-Effective Solutions. Superior Results.</h1>
-                    <p>Our BPO services offer affordable solutions without compromising quality. Experience top-notch results at competitive prices.</p>
+                    <h4>Application Development</h4>
+                    <h1>Your Vision, Our Code. <br> Customized Solutions.</h1>
+                    <p>Our expert team creates innovative, custom apps tailored to your specific needs. From concept to deployment, we deliver exceptional solutions that drive your business forward.</p>
                 </div>
                 <div class="services-feature-container">
                     <div class="feature-item">
                         <img src="./assets/images/services/idea.png" alt="">
-                        <h5>Tailored Solutions</h5>
+                        <h5>Custom Tailored Solutions</h5>
                     </div>
                     <div class="feature-item">
                         <img src="./assets/images/services/robotic-hand.png" alt="">
                         <h5>Cutting-Edge Technology</h5>
                     </div>
                     <div class="feature-item">
-                        <img src="./assets/images/services/project-management.png" alt="">
-                        <h5>Dedicated Account Management</h5>
+                        <img src="./assets/images/services/developer.png" alt="">
+                        <h5>Comprehensive Development Process</h5>
                     </div>
                 </div>
             </div>
@@ -55,144 +55,143 @@
     <div class="container">
         <div class="section-title left style-two">
             <h4 class="text-center">What We Offer</h4>
-            <h1 class="text-center">Exceptional Service, Guaranteed.</h1>
+            <h1 class="text-center">Exceeding Your Expectations.</h1>
             <p class="text-center">
-                <span>Experience top-notch BPO services tailored to your unique needs. Our commitment to <br> excellence ensures exceptional results every time.</span>
+                <span> Need a custom app? Our expert developers can create innovative solutions tailored to your <br> specific needs. Contact us today to discuss your project.</span>
             </p>
         </div>
         <div class="row">
-            <div class="col-lg-3 col-md-6 box tab1 active">
+            <div class="col-lg-3 col-md-6 box tab2">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-1.png" alt="" />
+                        <img src="assets/images/home-2/service-5.png" alt="" />
                     </div>
                     <div class="service-number">
                         <h1>01</h1>
                     </div>
                     <div class="service-content">
-                        <h4>
-                            Virtual Assistant</h4>
+                        <h4>Custom App Development</h4>
                         <p>
-                            Streamline daily tasks with our skilled virtual assistants, enhancing productivity while you focus on core business activities.
+                            Build tailored applications to meet your unique business needs, enhancing functionality and user experience.
                         </p>
                         <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 box tab1 active">
+            <div class="col-lg-3 col-md-6 box tab2">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-1.png" alt="" />
+                        <img src="assets/images/home-2/service-5.png" alt="" />
                     </div>
                     <div class="service-number">
                         <h1>02</h1>
                     </div>
                     <div class="service-content">
-                        <h4>Marketing Support</h4>
+                        <h4>Mobile App Development</h4>
                         <p>
-                            Boost your brand with expert marketing support, from strategy development to execution, ensuring consistent growth and engagement
+                            Create dynamic mobile apps for iOS and Android, delivering seamless performance and user engagement across devices.
                         </p>
                         <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 box tab1 active">
+            <div class="col-lg-3 col-md-6 box tab2">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-1.png" alt="" />
+                        <img src="assets/images/home-2/service-5.png" alt="" />
                     </div>
                     <div class="service-number">
                         <h1>03</h1>
                     </div>
                     <div class="service-content">
-                        <h4>Accounting Support</h4>
+                        <h4>Web App Development</h4>
                         <p>
-                            Ensure financial accuracy with our accounting support, managing your books, payroll, and reporting for seamless business operations.
+                            Develop robust web applications with intuitive interfaces, ensuring reliable performance and accessibility from any browser.
                         </p>
                         <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 box tab1 active">
+            <div class="col-lg-3 col-md-6 box tab2">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-1.png" alt="" />
+                        <img src="assets/images/home-2/service-5.png" alt="" />
                     </div>
                     <div class="service-number">
                         <h1>04</h1>
                     </div>
                     <div class="service-content">
-                        <h4>Order Processing</h4>
+                        <h4>UI/UX Design</h4>
                         <p>
-                            Streamline your sales with efficient order processing, from handling orders to tracking and customer communication, ensuring satisfaction.
+                            Design engaging user interfaces and experiences, focusing on intuitive navigation and visual appeal for maximum user satisfaction.
                         </p>
                         <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 box tab1 active">
+            <div class="col-lg-3 col-md-6 box tab2">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-1.png" alt="" />
+                        <img src="assets/images/home-2/service-5.png" alt="" />
                     </div>
                     <div class="service-number">
                         <h1>05</h1>
                     </div>
                     <div class="service-content">
-                        <h4>Account Set-Up</h4>
+                        <h4>Tracking App</h4>
                         <p>
-                            Facilitate smooth business operations with expert account set-up, including configuration, management, and integration for optimal efficiency.
+                            Tracking app development designs solutions for real-time location monitoring, asset management, and data visualization, optimizing logistics, security, and operational efficiency across various industries.
                         </p>
                         <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 box tab1 active">
+            <div class="col-lg-3 col-md-6 box tab2">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-1.png" alt="" />
+                        <img src="assets/images/home-2/service-5.png" alt="" />
                     </div>
                     <div class="service-number">
                         <h1>06</h1>
                     </div>
                     <div class="service-content">
-                        <h4>Research</h4>
+                        <h4>Cloud Application</h4>
                         <p>
-                            Gain valuable insights with thorough research services, providing data-driven analysis to support informed business decisions and strategies.
+                            Cloud application development builds scalable, accessible solutions hosted on the cloud, providing seamless integration, data storage, and real-time collaboration, enhancing business flexibility and efficiency.
                         </p>
                         <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 box tab1 active">
+            <div class="col-lg-3 col-md-6 box tab2">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-1.png" alt="" />
+                        <img src="assets/images/home-2/service-5.png" alt="" />
                     </div>
                     <div class="service-number">
                         <h1>07</h1>
                     </div>
                     <div class="service-content">
-                        <h4>Data Entry</h4>
+                        <h4>Cross-Platform Application</h4>
                         <p>
-                            Enhance accuracy and efficiency with meticulous data entry services, ensuring your information is correctly captured and organized.
+                            Cross-platform application development creates software that runs seamlessly across multiple operating systems, ensuring consistent user experiences and reducing development costs by sharing codebases.
                         </p>
                         <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 box tab1 active">
+            <div class="col-lg-3 col-md-6 box tab2">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-1.png" alt="" />
+                        <img src="assets/images/home-2/service-5.png" alt="" />
                     </div>
                     <div class="service-number">
                         <h1>08</h1>
                     </div>
                     <div class="service-content">
-                        <h4>Back Office</h4>
+                        <h4>Fitness App</h4>
                         <p>
-                            Optimize operations with comprehensive back office support, handling administrative tasks and ensuring smooth, efficient business processes.
+                            Fitness app development designs engaging tools for workout tracking, goal setting, and health monitoring, motivating users to achieve their fitness goals with personalized features and guidance.
                         </p>
                         <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
                     </div>
@@ -202,10 +201,6 @@
     </div>
 </section>
 <!-- End Section Two Here -->
-
-
-
-
 
 <!-- Start Section Three Here -->
 <section class="service-footer-hero">

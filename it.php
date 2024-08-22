@@ -9,7 +9,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="breadcumb-content">
-                    <h4>Business Process Outsourcing</h4>
+                    <h4>IT and Managed Services</h4>
                 </div>
             </div>
         </div>
@@ -23,22 +23,22 @@
         <div class="row">
             <div class="col-lg-7">
                 <div class="section-title left style-two">
-                    <h4>Business Process Outsourcing</h4>
-                    <h1>Cost-Effective Solutions. Superior Results.</h1>
-                    <p>Our BPO services offer affordable solutions without compromising quality. Experience top-notch results at competitive prices.</p>
+                    <h4>IT and Managed Services</h4>
+                    <h1>Seamless IT. Simplified Solutions.</h1>
+                    <p> Our comprehensive IT and managed services ensure your technology runs smoothly. From network management to cybersecurity, we’ve got you covered. Contact us today for a consultation.</p>
                 </div>
                 <div class="services-feature-container">
                     <div class="feature-item">
-                        <img src="./assets/images/services/idea.png" alt="">
-                        <h5>Tailored Solutions</h5>
+                        <img src="./assets/images/services/professional-portfolio.png" alt="">
+                        <h5>Comprehensive Service Portfolio</h5>
                     </div>
                     <div class="feature-item">
-                        <img src="./assets/images/services/robotic-hand.png" alt="">
-                        <h5>Cutting-Edge Technology</h5>
+                        <img src="./assets/images/services/consultant.png" alt="">
+                        <h5>Proactive Maintenance and Support</h5>
                     </div>
                     <div class="feature-item">
-                        <img src="./assets/images/services/project-management.png" alt="">
-                        <h5>Dedicated Account Management</h5>
+                        <img src="./assets/images/services/scalable.png" alt="">
+                        <h5>Scalability and Flexibility</h5>
                     </div>
                 </div>
             </div>
@@ -55,144 +55,144 @@
     <div class="container">
         <div class="section-title left style-two">
             <h4 class="text-center">What We Offer</h4>
-            <h1 class="text-center">Exceptional Service, Guaranteed.</h1>
+            <h1 class="text-center">Your Project, Our Expertise</h1>
             <p class="text-center">
-                <span>Experience top-notch BPO services tailored to your unique needs. Our commitment to <br> excellence ensures exceptional results every time.</span>
+                <span>Our comprehensive IT and managed services ensure your technology runs smoothly. <br> From network management to cybersecurity, we’ve got you covered. <br> Contact us today for a consultation.</span>
             </p>
         </div>
         <div class="row">
-            <div class="col-lg-3 col-md-6 box tab1 active">
+            <div class="col-lg-3 col-md-6 box tab3">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-1.png" alt="" />
+                        <img src="assets/images/home-2/service-4.png" alt="" />
                     </div>
                     <div class="service-number">
                         <h1>01</h1>
                     </div>
                     <div class="service-content">
-                        <h4>
-                            Virtual Assistant</h4>
+                        <h4>Digital Marketing</h4>
                         <p>
-                            Streamline daily tasks with our skilled virtual assistants, enhancing productivity while you focus on core business activities.
+                            Digital marketing services enhance online presence through SEO, content creation, and social media management, driving traffic, engagement, and conversions with strategic, data-driven campaigns.
                         </p>
                         <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 box tab1 active">
+            <div class="col-lg-3 col-md-6 box tab3">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-1.png" alt="" />
+                        <img src="assets/images/home-2/service-4.png" alt="" />
                     </div>
                     <div class="service-number">
                         <h1>02</h1>
                     </div>
                     <div class="service-content">
-                        <h4>Marketing Support</h4>
+                        <h4>Custom Software Development</h4>
                         <p>
-                            Boost your brand with expert marketing support, from strategy development to execution, ensuring consistent growth and engagement
+                            Custom software development delivers tailored solutions to meet specific business needs, optimizing workflows and efficiency with bespoke applications designed for unique operational requirements and scalability.
                         </p>
                         <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 box tab1 active">
+            <div class="col-lg-3 col-md-6 box tab3">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-1.png" alt="" />
+                        <img src="assets/images/home-2/service-4.png" alt="" />
                     </div>
                     <div class="service-number">
                         <h1>03</h1>
                     </div>
                     <div class="service-content">
-                        <h4>Accounting Support</h4>
+                        <h4>Remote In-Sourcing </h4>
                         <p>
-                            Ensure financial accuracy with our accounting support, managing your books, payroll, and reporting for seamless business operations.
+                            Remote in-sourcing provides specialized IT services from remote teams, offering cost-effective, flexible solutions while maintaining control over operations and ensuring high-quality service delivery.
                         </p>
                         <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 box tab1 active">
+            <div class="col-lg-3 col-md-6 box tab3">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-1.png" alt="" />
+                        <img src="assets/images/home-2/service-4.png" alt="" />
                     </div>
                     <div class="service-number">
                         <h1>04</h1>
                     </div>
                     <div class="service-content">
-                        <h4>Order Processing</h4>
+                        <h4>QA and Testing
+                            Services </h4>
                         <p>
-                            Streamline your sales with efficient order processing, from handling orders to tracking and customer communication, ensuring satisfaction.
+                            QA and testing services ensure software reliability by identifying defects, verifying performance, and validating functionality, enhancing product quality and user satisfaction through comprehensive testing strategies.
                         </p>
                         <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 box tab1 active">
+            <div class="col-lg-3 col-md-6 box tab3">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-1.png" alt="" />
+                        <img src="assets/images/home-2/service-4.png" alt="" />
                     </div>
                     <div class="service-number">
                         <h1>05</h1>
                     </div>
                     <div class="service-content">
-                        <h4>Account Set-Up</h4>
+                        <h4>Custom Theme Development</h4>
                         <p>
-                            Facilitate smooth business operations with expert account set-up, including configuration, management, and integration for optimal efficiency.
+                            Custom theme development creates unique, tailored designs for websites and applications, ensuring brand consistency and optimized user experience with bespoke visual elements and functionality.
                         </p>
                         <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 box tab1 active">
+            <div class="col-lg-3 col-md-6 box tab3">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-1.png" alt="" />
+                        <img src="assets/images/home-2/service-4.png" alt="" />
                     </div>
                     <div class="service-number">
                         <h1>06</h1>
                     </div>
                     <div class="service-content">
-                        <h4>Research</h4>
+                        <h4>Graphics Design</h4>
                         <p>
-                            Gain valuable insights with thorough research services, providing data-driven analysis to support informed business decisions and strategies.
+                            Graphics design services craft visually appealing content, including logos, marketing materials, and web elements, enhancing brand identity and engaging audiences through creative, professional design solutions.
                         </p>
                         <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 box tab1 active">
+            <div class="col-lg-3 col-md-6 box tab3">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-1.png" alt="" />
+                        <img src="assets/images/home-2/service-4.png" alt="" />
                     </div>
                     <div class="service-number">
                         <h1>07</h1>
                     </div>
                     <div class="service-content">
-                        <h4>Data Entry</h4>
+                        <h4>Technical Support </h4>
                         <p>
-                            Enhance accuracy and efficiency with meticulous data entry services, ensuring your information is correctly captured and organized.
+                            Technical support services provide expert assistance for IT issues, offering troubleshooting, maintenance, and problem resolution to ensure smooth operations and minimize downtime for businesses.
                         </p>
                         <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 box tab1 active">
+            <div class="col-lg-3 col-md-6 box tab3">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-1.png" alt="" />
+                        <img src="assets/images/home-2/service-4.png" alt="" />
                     </div>
                     <div class="service-number">
                         <h1>08</h1>
                     </div>
                     <div class="service-content">
-                        <h4>Back Office</h4>
+                        <h4>Search Engine Optimization</h4>
                         <p>
-                            Optimize operations with comprehensive back office support, handling administrative tasks and ensuring smooth, efficient business processes.
+                            Search Engine Optimization (SEO) improves website visibility by optimizing content and structure, driving organic traffic, and enhancing search rankings to boost online presence and engagement.
                         </p>
                         <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
                     </div>
@@ -202,9 +202,6 @@
     </div>
 </section>
 <!-- End Section Two Here -->
-
-
-
 
 
 <!-- Start Section Three Here -->
@@ -218,7 +215,6 @@
     </div>
 </section>
 <!-- Start Section Three Here -->
-
 
 
 <!-- Footer started here -->

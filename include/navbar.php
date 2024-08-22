@@ -4,7 +4,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-3">
                     <div class="header-logo">
-                        <a href="index.php"><img src="assets/images/logo-1.png" alt="logo" /></a>
+                        <a href="index"><img src="assets/images/logo-1.png" alt="logo" /></a>
                     </div>
                 </div>
                 <div class="col-lg-9">
@@ -17,9 +17,9 @@
                                 <a href="javascript:void(0)">Services<i class="fas fa-chevron-down"></i></a>
                                 <ul class="sub-menu">
                                     <li><a href="bpo">Business Process Outsourcing</a></li>
-                                    <li><a href="service">Application Development</a></li>
-                                    <li><a href="service">IT and Managed Services</a></li>
-                                    <li><a href="service">Cyber Security</a></li>
+                                    <li><a href="application-development">Application Development</a></li>
+                                    <li><a href="it">IT and Managed Services</a></li>
+                                    <li><a href="cyber-security">Cyber Security</a></li>
                                 </ul>
                             </li>
                             <li><a href="contact">Contact</a></li>
@@ -39,7 +39,19 @@
         <div class="mobile-menu">
             <nav class="header-menu">
                 <ul class="nav_scroll">
+                    <li><a href="index">Home</a></li>
+                    <li><a href="about">About</a></li>
                     <li class="menu-item-has-children">
+                        <a href="javascript:void(0)">Services</a>
+                        <ul class="sub-menu">
+                            <li><a href="bpo">Business Process Outsourcing</a></li>
+                            <li><a href="application-development">Application Development</a></li>
+                            <li><a href="it">IT and Managed Services</a></li>
+                            <li><a href="cyber-security">Cyber Security</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="contact">Contact</a></li>
+                    <!-- <li class="menu-item-has-children">
                         <a href="#">Home</a>
                         <ul class="sub-menu">
                             <li><a href="index">Home 1</a></li>
@@ -47,8 +59,7 @@
                             <li><a href="index-3.html">Home 3</a></li>
                             <li><a href="index-4.html">Home 4</a></li>
                         </ul>
-                    </li>
-                    <li class="menu-item-has-children">
+                    </li> <li class="menu-item-has-children">
                         <a href="#">About</a>
                         <ul class="sub-menu">
                             <li><a href="about-1.html">About Us 1</a></li>
@@ -86,7 +97,7 @@
                             <li><a href="blog-details.html">Blog Details </a></li>
                         </ul>
                     </li>
-                    <li><a href="contact.html">Contact</a></li>
+                    <li><a href="contact.html">Contact</a></li> -->
                 </ul>
             </nav>
         </div>

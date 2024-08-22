@@ -10,41 +10,49 @@
                 </div>
             </div>
             <div class="row">
-                <div class="brand-list-1 owl-carousel">
+                <!-- <div class="brand-list-1 owl-carousel ">
                     <div class="col-lg-12">
                         <div class="single-brand-box">
                             <div class="brand-thumb">
-                                <img src="assets/images/home-2/brand-1.png" alt="" />
+                                <img src="assets/images/clients/chattkore-logo.png" alt="" />
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-12">
                         <div class="single-brand-box">
                             <div class="brand-thumb">
-                                <img src="assets/images/home-2/brand-2.png" alt="" />
+                                <img src="assets/images/clients/empowerment.jpg" alt="" />
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-12">
                         <div class="single-brand-box">
                             <div class="brand-thumb">
-                                <img src="assets/images/home-2/brand-3.png" alt="" />
+                                <img src="assets/images/clients/royal.png" alt="" />
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-12">
                         <div class="single-brand-box">
                             <div class="brand-thumb">
-                                <img src="assets/images/home-2/brand-4.png" alt="" />
+                                <img src="assets/images/clients/safe-learners.jpg" alt="" />
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-12">
-                        <div class="single-brand-box">
-                            <div class="brand-thumb">
-                                <img src="assets/images/home-2/brand-5.png" alt="" />
-                            </div>
-                        </div>
+
+                </div> -->
+                <div class="client-container">
+                    <div class="single-brand-box">
+                        <img src="assets/images/clients/chattkore-logo.png" alt="" />
+                    </div>
+                    <div class="single-brand-box">
+                        <img src="assets/images/clients/empowerment.jpg" alt="" />
+                    </div>
+                    <div class="single-brand-box">
+                        <img src="assets/images/clients/royal.png" alt="" />
+                    </div>
+                    <div class="single-brand-box">
+                        <img src="assets/images/clients/safe-learners.jpg" alt="" />
                     </div>
                 </div>
             </div>
@@ -95,13 +103,14 @@
                         <div class="footer-widget-menu">
                             <ul>
                                 <li>
-                                    <a href="about-1.html"><i class="bi bi-arrow-right-circle"></i>About</a>
+                                    <a href="index"><i class="bi bi-arrow-right-circle"></i>Home</a>
                                 </li>
                                 <li>
-                                    <a href="team.html"><i class="bi bi-arrow-right-circle"></i>Our Team</a>
+                                    <a href="about"><i class="bi bi-arrow-right-circle"></i>About</a>
                                 </li>
+
                                 <li>
-                                    <a href="pricing.html"><i class="bi bi-arrow-right-circle"></i>Pricing Plan</a>
+                                    <a href="contact"><i class="bi bi-arrow-right-circle"></i>Contact</a>
                                 </li>
 
                             </ul>
@@ -117,14 +126,10 @@
                         <div class="footer-widget-menu">
                             <ul>
                                 <li>
-                                    <a href="#"><i class="bi bi-arrow-right-circle"></i>IT Solutions</a>
+                                    <a href="bpo"><i class="bi bi-arrow-right-circle"></i>Business Process Outsourcing</a>
                                 </li>
                                 <li>
-                                    <a href="#"><i class="bi bi-arrow-right-circle"></i>Cyber Security</a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="bi bi-arrow-right-circle"></i>Digital
-                                        Marketing</a>
+                                    <a href="application-development"><i class="bi bi-arrow-right-circle"></i>Application Development</a>
                                 </li>
                             </ul>
                         </div>
@@ -138,10 +143,11 @@
                         <div class="footer-widget-menu">
                             <ul>
                                 <li>
-                                    <a href="#"><i class="bi bi-arrow-right-circle"></i>Brand Identity</a>
+                                    <a href="it"><i class="bi bi-arrow-right-circle"></i>IT and Managed Services</a>
                                 </li>
                                 <li>
-                                    <a href="#"><i class="bi bi-arrow-right-circle"></i>SEO Marketing</a>
+                                    <a href="cyber-security"><i class="bi bi-arrow-right-circle"></i>Cyber
+                                        Security</a>
                                 </li>
                             </ul>
                         </div>

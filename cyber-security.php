@@ -9,7 +9,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="breadcumb-content">
-                    <h4>Business Process Outsourcing</h4>
+                    <h4>Cyber Security</h4>
                 </div>
             </div>
         </div>
@@ -23,22 +23,22 @@
         <div class="row">
             <div class="col-lg-7">
                 <div class="section-title left style-two">
-                    <h4>Business Process Outsourcing</h4>
-                    <h1>Cost-Effective Solutions. Superior Results.</h1>
-                    <p>Our BPO services offer affordable solutions without compromising quality. Experience top-notch results at competitive prices.</p>
+                    <h4>Cyber Security</h4>
+                    <h1>Protect Your Digital World.</h1>
+                    <p>Protect your digital assets from cyber threats. Our expert team provides comprehensive cybersecurity solutions to safeguard your data and systems. Contact us today for a security assessment.</p>
                 </div>
                 <div class="services-feature-container">
                     <div class="feature-item">
-                        <img src="./assets/images/services/idea.png" alt="">
-                        <h5>Tailored Solutions</h5>
+                        <img src="./assets/images/services/threat-evaluation.png" alt="">
+                        <h5>Comprehensive Threat Assessment</h5>
                     </div>
                     <div class="feature-item">
-                        <img src="./assets/images/services/robotic-hand.png" alt="">
-                        <h5>Cutting-Edge Technology</h5>
+                        <img src="./assets/images/services/threat-detection.png" alt="">
+                        <h5>Proactive Threat Detection and Response</h5>
                     </div>
                     <div class="feature-item">
-                        <img src="./assets/images/services/project-management.png" alt="">
-                        <h5>Dedicated Account Management</h5>
+                        <img src="./assets/images/services/monitor.png" alt="">
+                        <h5>Continuous Monitoring and Updates</h5>
                     </div>
                 </div>
             </div>
@@ -55,13 +55,13 @@
     <div class="container">
         <div class="section-title left style-two">
             <h4 class="text-center">What We Offer</h4>
-            <h1 class="text-center">Exceptional Service, Guaranteed.</h1>
+            <h1 class="text-center">Premium Service, Exceptional Value.</h1>
             <p class="text-center">
-                <span>Experience top-notch BPO services tailored to your unique needs. Our commitment to <br> excellence ensures exceptional results every time.</span>
+                <span>Protect your digital assets from cyber threats. Our expert team provides comprehensive cybersecurity solutions to <br> safeguard your data and systems. Contact us today for a security assessment.</span>
             </p>
         </div>
         <div class="row">
-            <div class="col-lg-3 col-md-6 box tab1 active">
+            <div class="col-lg-3 col-md-6 box tab4">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
                         <img src="assets/images/home-2/service-1.png" alt="" />
@@ -70,129 +70,128 @@
                         <h1>01</h1>
                     </div>
                     <div class="service-content">
-                        <h4>
-                            Virtual Assistant</h4>
+                        <h4>Vulnerability Assessment</h4>
                         <p>
-                            Streamline daily tasks with our skilled virtual assistants, enhancing productivity while you focus on core business activities.
+                            Vulnerability assessment identifies and evaluates security weaknesses in systems, helping organizations address potential threats and enhance defenses to protect against cyber attacks and data breaches.
                         </p>
                         <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 box tab1 active">
+            <div class="col-lg-3 col-md-6 box tab4">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-1.png" alt="" />
+                        <img src="assets/images/home-2/service-2.png" alt="" />
                     </div>
                     <div class="service-number">
                         <h1>02</h1>
                     </div>
                     <div class="service-content">
-                        <h4>Marketing Support</h4>
+                        <h4>Social Engineering Testing</h4>
                         <p>
-                            Boost your brand with expert marketing support, from strategy development to execution, ensuring consistent growth and engagement
+                            Social engineering testing assesses susceptibility to manipulation through phishing, pretexting, and other tactics, helping organizations strengthen defenses and train employees to recognize and prevent such attacks.
                         </p>
                         <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 box tab1 active">
+            <div class="col-lg-3 col-md-6 box tab4 ">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-1.png" alt="" />
+                        <img src="assets/images/home-2/service-3.png" alt="" />
                     </div>
                     <div class="service-number">
                         <h1>03</h1>
                     </div>
                     <div class="service-content">
-                        <h4>Accounting Support</h4>
+                        <h4>Security Posture Assessment</h4>
                         <p>
-                            Ensure financial accuracy with our accounting support, managing your books, payroll, and reporting for seamless business operations.
+                            Security posture assessment evaluates an organization’s overall security framework, identifying strengths and vulnerabilities, and providing actionable insights to enhance defenses and mitigate potential risks.
                         </p>
                         <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 box tab1 active">
+            <div class="col-lg-3 col-md-6 box tab4 ">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-1.png" alt="" />
+                        <img src="assets/images/home-2/service-6.png" alt="" />
                     </div>
                     <div class="service-number">
                         <h1>04</h1>
                     </div>
                     <div class="service-content">
-                        <h4>Order Processing</h4>
+                        <h4>Penetration Testing</h4>
                         <p>
-                            Streamline your sales with efficient order processing, from handling orders to tracking and customer communication, ensuring satisfaction.
+                            Penetration testing simulates cyber attacks to uncover vulnerabilities, assessing system defenses and providing critical insights to strengthen security and safeguard against potential breaches.
                         </p>
                         <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 box tab1 active">
+            <div class="col-lg-3 col-md-6 box tab4 ">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-1.png" alt="" />
+                        <img src="assets/images/home-2/service-6.png" alt="" />
                     </div>
                     <div class="service-number">
                         <h1>05</h1>
                     </div>
                     <div class="service-content">
-                        <h4>Account Set-Up</h4>
+                        <h4>Compliance and Framework Auditing</h4>
                         <p>
-                            Facilitate smooth business operations with expert account set-up, including configuration, management, and integration for optimal efficiency.
+                            Compliance and framework auditing ensures adherence to security standards and regulations, identifying gaps and verifying practices to protect data and maintain regulatory compliance effectively.
                         </p>
                         <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 box tab1 active">
+            <div class="col-lg-3 col-md-6 box tab4 ">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-1.png" alt="" />
+                        <img src="assets/images/home-2/service-6.png" alt="" />
                     </div>
                     <div class="service-number">
                         <h1>06</h1>
                     </div>
                     <div class="service-content">
-                        <h4>Research</h4>
+                        <h4>Cybersecurity training</h4>
                         <p>
-                            Gain valuable insights with thorough research services, providing data-driven analysis to support informed business decisions and strategies.
+                            Cybersecurity training educates employees on threat recognition, safe practices, and response strategies, empowering them to protect against cyber threats and strengthen organizational security.
                         </p>
                         <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 box tab1 active">
+            <div class="col-lg-3 col-md-6 box tab4 ">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-1.png" alt="" />
+                        <img src="assets/images/home-2/service-6.png" alt="" />
                     </div>
                     <div class="service-number">
                         <h1>07</h1>
                     </div>
                     <div class="service-content">
-                        <h4>Data Entry</h4>
+                        <h4>Incident Response</h4>
                         <p>
-                            Enhance accuracy and efficiency with meticulous data entry services, ensuring your information is correctly captured and organized.
+                            Incident response provides a structured approach to managing and mitigating cyber incidents, minimizing damage, and restoring normal operations quickly through effective detection and response strategies.
                         </p>
                         <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 box tab1 active">
+            <div class="col-lg-3 col-md-6 box tab4 ">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-1.png" alt="" />
+                        <img src="assets/images/home-2/service-6.png" alt="" />
                     </div>
                     <div class="service-number">
                         <h1>08</h1>
                     </div>
                     <div class="service-content">
-                        <h4>Back Office</h4>
+                        <h4>CISOaaS</h4>
                         <p>
-                            Optimize operations with comprehensive back office support, handling administrative tasks and ensuring smooth, efficient business processes.
+                            CISOaaS (Chief Information Security Officer as a Service) delivers expert cybersecurity leadership and strategy on-demand, enhancing security posture and risk management without full-time CISO overhead.
                         </p>
                         <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
                     </div>
@@ -202,9 +201,6 @@
     </div>
 </section>
 <!-- End Section Two Here -->
-
-
-
 
 
 <!-- Start Section Three Here -->

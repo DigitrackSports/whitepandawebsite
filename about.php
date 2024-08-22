@@ -11,11 +11,6 @@
             <div class="col-lg-12">
                 <div class="breadcumb-content">
                     <h4>About Us </h4>
-                    <ul>
-                        <li><a href="index">Home</a></li>
-                        <li>></li>
-                        <li>About</li>
-                    </ul>
                 </div>
             </div>
         </div>
