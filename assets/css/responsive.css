@@ -4329,6 +4329,8 @@
 
     .style-three .single-feature-box {
         padding: 37px 11px 18px;
+        height: 100%;
+        margin-bottom: 0px;
     }
 
     .style-three .about-left {

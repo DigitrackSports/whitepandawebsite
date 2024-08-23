@@ -21,8 +21,8 @@
                     </p>
                 </div>
                 <div class="hero-button style-one">
-                    <a href="#">How It Works </a>
-                    <a class="button-two" href="contact.html">Contact Us <i class="flaticon flaticon-computer"></i></a>
+                    <!-- <a href="">How It Works </a> -->
+                    <a class="button-two" href="contact">Contact Us <i class="flaticon flaticon-computer"></i></a>
                 </div>
             </div>
         </div>
@@ -34,7 +34,7 @@
 <div class="feature-area style-three">
     <div class="container">
         <div class="row margin-top">
-            <div class="col-lg-3 col-md-6 col-sm-6">
+            <div class="col-lg-3 col-md-6 col-sm-6 col-6 mb-3">
                 <div class="single-feature-box">
                     <div class="feature-icon">
                         <img src="assets/images/home-3/feature-icon-1.png" alt="" />
@@ -45,7 +45,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 col-sm-6">
+            <div class="col-lg-3 col-md-6 col-sm-6 col-6 mb-3">
                 <div class="single-feature-box">
                     <div class="feature-icon">
                         <img src="assets/images/home-3/feature-icon-2.png" alt="" />
@@ -56,7 +56,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 col-sm-6">
+            <div class="col-lg-3 col-md-6 col-sm-6 col-6 mb-3">
                 <div class="single-feature-box">
                     <div class="feature-icon">
                         <img src="assets/images/home-3/feature-icon-3.png" alt="" />
@@ -67,7 +67,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 col-sm-6">
+            <div class="col-lg-3 col-md-6 col-sm-6 col-6 mb-3">
                 <div class="single-feature-box">
                     <div class="feature-icon">
                         <img src="assets/images/home-3/feature-icon-4.png" alt="" />
@@ -192,7 +192,7 @@
                         <p>
                             Streamline daily tasks with our skilled virtual assistants, enhancing productivity while you focus on core business activities.
                         </p>
-                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                        <a href="bpo">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -209,7 +209,7 @@
                         <p>
                             Boost your brand with expert marketing support, from strategy development to execution, ensuring consistent growth and engagement
                         </p>
-                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                        <a href="bpo">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -226,7 +226,7 @@
                         <p>
                             Ensure financial accuracy with our accounting support, managing your books, payroll, and reporting for seamless business operations.
                         </p>
-                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                        <a href="bpo">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -243,7 +243,7 @@
                         <p>
                             Streamline your sales with efficient order processing, from handling orders to tracking and customer communication, ensuring satisfaction.
                         </p>
-                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                        <a href="bpo">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -260,7 +260,7 @@
                         <p>
                             Facilitate smooth business operations with expert account set-up, including configuration, management, and integration for optimal efficiency.
                         </p>
-                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                        <a href="bpo">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -277,7 +277,7 @@
                         <p>
                             Gain valuable insights with thorough research services, providing data-driven analysis to support informed business decisions and strategies.
                         </p>
-                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                        <a href="bpo">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -294,7 +294,7 @@
                         <p>
                             Enhance accuracy and efficiency with meticulous data entry services, ensuring your information is correctly captured and organized.
                         </p>
-                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                        <a href="bpo">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -311,7 +311,7 @@
                         <p>
                             Optimize operations with comprehensive back office support, handling administrative tasks and ensuring smooth, efficient business processes.
                         </p>
-                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                        <a href="bpo">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -328,7 +328,7 @@
                         <p>
                             Build tailored applications to meet your unique business needs, enhancing functionality and user experience.
                         </p>
-                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                        <a href="application-development">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -345,7 +345,7 @@
                         <p>
                             Create dynamic mobile apps for iOS and Android, delivering seamless performance and user engagement across devices.
                         </p>
-                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                        <a href="application-development">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -362,7 +362,7 @@
                         <p>
                             Develop robust web applications with intuitive interfaces, ensuring reliable performance and accessibility from any browser.
                         </p>
-                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                        <a href="application-development">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -379,7 +379,7 @@
                         <p>
                             Design engaging user interfaces and experiences, focusing on intuitive navigation and visual appeal for maximum user satisfaction.
                         </p>
-                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                        <a href="application-development">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -396,7 +396,7 @@
                         <p>
                             Tracking app development designs solutions for real-time location monitoring, asset management, and data visualization, optimizing logistics, security, and operational efficiency across various industries.
                         </p>
-                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                        <a href="application-development">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -413,7 +413,7 @@
                         <p>
                             Cloud application development builds scalable, accessible solutions hosted on the cloud, providing seamless integration, data storage, and real-time collaboration, enhancing business flexibility and efficiency.
                         </p>
-                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                        <a href="application-development">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -430,7 +430,7 @@
                         <p>
                             Cross-platform application development creates software that runs seamlessly across multiple operating systems, ensuring consistent user experiences and reducing development costs by sharing codebases.
                         </p>
-                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                        <a href="application-development">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -447,7 +447,7 @@
                         <p>
                             Fitness app development designs engaging tools for workout tracking, goal setting, and health monitoring, motivating users to achieve their fitness goals with personalized features and guidance.
                         </p>
-                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                        <a href="application-development">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -467,7 +467,7 @@
                         <p>
                             Digital marketing services enhance online presence through SEO, content creation, and social media management, driving traffic, engagement, and conversions with strategic, data-driven campaigns.
                         </p>
-                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                        <a href="it">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -484,7 +484,7 @@
                         <p>
                             Custom software development delivers tailored solutions to meet specific business needs, optimizing workflows and efficiency with bespoke applications designed for unique operational requirements and scalability.
                         </p>
-                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                        <a href="it">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -501,7 +501,7 @@
                         <p>
                             Remote in-sourcing provides specialized IT services from remote teams, offering cost-effective, flexible solutions while maintaining control over operations and ensuring high-quality service delivery.
                         </p>
-                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                        <a href="it">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -519,7 +519,7 @@
                         <p>
                             QA and testing services ensure software reliability by identifying defects, verifying performance, and validating functionality, enhancing product quality and user satisfaction through comprehensive testing strategies.
                         </p>
-                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                        <a href="it">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -536,7 +536,7 @@
                         <p>
                             Custom theme development creates unique, tailored designs for websites and applications, ensuring brand consistency and optimized user experience with bespoke visual elements and functionality.
                         </p>
-                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                        <a href="it">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -553,7 +553,7 @@
                         <p>
                             Graphics design services craft visually appealing content, including logos, marketing materials, and web elements, enhancing brand identity and engaging audiences through creative, professional design solutions.
                         </p>
-                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                        <a href="it">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -570,7 +570,7 @@
                         <p>
                             Technical support services provide expert assistance for IT issues, offering troubleshooting, maintenance, and problem resolution to ensure smooth operations and minimize downtime for businesses.
                         </p>
-                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                        <a href="it">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -587,7 +587,7 @@
                         <p>
                             Search Engine Optimization (SEO) improves website visibility by optimizing content and structure, driving organic traffic, and enhancing search rankings to boost online presence and engagement.
                         </p>
-                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                        <a href="it">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -606,7 +606,7 @@
                         <p>
                             Vulnerability assessment identifies and evaluates security weaknesses in systems, helping organizations address potential threats and enhance defenses to protect against cyber attacks and data breaches.
                         </p>
-                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                        <a href="cyber-security">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -623,7 +623,7 @@
                         <p>
                             Social engineering testing assesses susceptibility to manipulation through phishing, pretexting, and other tactics, helping organizations strengthen defenses and train employees to recognize and prevent such attacks.
                         </p>
-                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                        <a href="cyber-security">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -640,7 +640,7 @@
                         <p>
                             Security posture assessment evaluates an organization’s overall security framework, identifying strengths and vulnerabilities, and providing actionable insights to enhance defenses and mitigate potential risks.
                         </p>
-                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                        <a href="cyber-security">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -657,7 +657,7 @@
                         <p>
                             Penetration testing simulates cyber attacks to uncover vulnerabilities, assessing system defenses and providing critical insights to strengthen security and safeguard against potential breaches.
                         </p>
-                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                        <a href="cyber-security">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -674,7 +674,7 @@
                         <p>
                             Compliance and framework auditing ensures adherence to security standards and regulations, identifying gaps and verifying practices to protect data and maintain regulatory compliance effectively.
                         </p>
-                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                        <a href="cyber-security">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -691,7 +691,7 @@
                         <p>
                             Cybersecurity training educates employees on threat recognition, safe practices, and response strategies, empowering them to protect against cyber threats and strengthen organizational security.
                         </p>
-                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                        <a href="cyber-security">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -708,7 +708,7 @@
                         <p>
                             Incident response provides a structured approach to managing and mitigating cyber incidents, minimizing damage, and restoring normal operations quickly through effective detection and response strategies.
                         </p>
-                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                        <a href="cyber-security">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -725,7 +725,7 @@
                         <p>
                             CISOaaS (Chief Information Security Officer as a Service) delivers expert cybersecurity leadership and strategy on-demand, enhancing security posture and risk management without full-time CISO overhead.
                         </p>
-                        <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a>
+                        <a href="cyber-security">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -981,8 +981,8 @@
                         </div>
                         <div class="portfolio-content">
                             <h4>IT Solution</h4>
-                            <a href="project-details.html">Website Development</a>
-                            <a class="button" href="project.html"><i class="bi bi-arrow-right"></i></a>
+                            <a href="javascript:void(0)">Website Development</a>
+                            <a class="button" href="javascript:void(0)"><i class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -993,8 +993,8 @@
                         </div>
                         <div class="portfolio-content">
                             <h4>Designing</h4>
-                            <a href="project-details.html">Mobile UI/UX Design</a>
-                            <a class="button" href="project.html"><i class="bi bi-arrow-right"></i></a>
+                            <a href="javascript:void(0)">Mobile UI/UX Design</a>
+                            <a class="button" href="javascript:void(0)"><i class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -1005,8 +1005,8 @@
                         </div>
                         <div class="portfolio-content">
                             <h4>Technology</h4>
-                            <a href="project-details.html">Cyber Security & Protect</a>
-                            <a class="button" href="project.html"><i class="bi bi-arrow-right"></i></a>
+                            <a href="javascript:void(0)">Cyber Security & Protect</a>
+                            <a class="button" href="javascript:void(0)"><i class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>

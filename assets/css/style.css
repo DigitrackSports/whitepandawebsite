@@ -9013,4 +9013,29 @@ Awards One Css
     .breadcumb-area {
         padding: 120px 0 65px !important;
     }
+
+    .services-btn-container ul {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .services-btn-container ul li a {
+        font-size: 12px;
+        padding: 3px 5px;
+        margin-right: 0px;
+    }
+
+    .services-btn-container ul li {
+        padding-left: 0px;
+    }
+
+    .style-one.hero-area {
+        background: url(../images/home/mobile-hero-overlay.png);
+        height: 500px !important;
+        background-size: cover !important;
+    }
+
+    .style-three .feature-content p {
+        margin-bottom: 0px;
+    }
 }

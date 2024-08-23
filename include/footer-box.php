@@ -66,7 +66,7 @@
             <div class="row">
                 <div class="col-lg-4 col-md-6">
                     <div class="footer-logo">
-                        <a href="index.html"><img src="assets/images/logo-1.png" alt="" /></a>
+                        <a href="index"><img src="assets/images/logo-1.png" alt="" /></a>
                     </div>
                     <div class="footer-botton-social-icon mt-3">
                         <ul>
@@ -84,16 +84,6 @@
                             </li>
                         </ul>
                     </div>
-                    <!-- <div class="footer-widget-desc">
-                        <p>
-                            Monotonectally synergize granular top visualize strategic
-                            infomediaries afters task state of the art infrastructures
-                            digital agency in north
-                        </p>
-                    </div> 
-                    <div class="toptech-button inner-style">
-                        <a href="#">Discover More<i class="bi bi-arrow-right-short"></i></a>
-                    </div> -->
                 </div>
                 <div class="col-lg-2 col-md-6">
                     <div class="footer-widget-content">
