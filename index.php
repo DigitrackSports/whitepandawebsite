@@ -334,7 +334,8 @@
             </div>
             <div class="col-lg-3 col-md-6 box tab2">
                 <div class="single-services-box">
-                    <div class="service-icon-thumb">
+                    <div class="service-icon-thumb"> 
+                        <!-- dummy content -->
                         <img src="assets/images/home-2/service-5.png" alt="" />
                     </div>
                     <div class="service-number">
