@@ -3430,6 +3430,9 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 
 .style-three .portfolio-thumb img {
     width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 5px;
 }
 
 .style-three .portfolio-content {
@@ -3601,7 +3604,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 
 .style-three.choose-us-area {
     background: #f3f8fd;
-    padding: 100px 0;
+    padding: 50px 0;
 }
 
 .style-three.choose-us-area .inner-style.section-title.left p.section-desc {
@@ -4070,7 +4073,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 =========================================================---*/
 .breadcumb-area {
     background: url(../images/about-inner/breadcumb-bg.png);
-    padding: 211px 0 200px;
+    padding: 155px 0 120px;
     background-repeat: no-repeat;
     background-size: cover;
     margin-top: -100px;
@@ -4544,7 +4547,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    padding: 125px 0 125px;
+    padding: 50px 0;
 }
 
 .inner-style-two.about-area .inner-style.section-title.left {
@@ -6398,7 +6401,7 @@ button.icons {
    <!--Toptech Mission Area Css-->
 =========================================================---*/
 .mission-area.inner-style {
-    padding: 100px 0;
+    padding: 50px 0;
 }
 
 .feature-area.style-three.inner {
@@ -6409,6 +6412,7 @@ button.icons {
     background: #f3f8fd;
     padding: 107px 55px 59px 97px;
     margin-left: -24px;
+    height: 100%;
 }
 
 .inner-style .mission-box.two {
@@ -8979,19 +8983,21 @@ Awards One Css
     width: 100%;
     display: flex;
     flex-direction: row;
-    gap: 30px;
+    gap: 30px 80px;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .brand-area .client-container .single-brand-box {
-    width: 200px;
-    height: 70px;
+    width: auto;
+    height: 80px;
 }
 
 .brand-area .client-container .single-brand-box img {
     width: 100%;
     height: 100%;
     object-fit: contain;
+    filter: drop-shadow(2px 4px 6px #ffffff56);
 }
 
 

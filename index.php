@@ -977,11 +977,11 @@
                 <div class="col-lg-12">
                     <div class="single-portfolio-box">
                         <div class="portfolio-thumb">
-                            <img src="assets/images/home-3/portfolio-1.png" alt="" />
+                            <img src="assets/images/projects/tmt.png" alt="" />
                         </div>
                         <div class="portfolio-content">
-                            <h4>IT Solution</h4>
-                            <a href="javascript:void(0)">Website Development</a>
+                            <h4>Web App</h4>
+                            <a href="javascript:void(0)">Track My Tournament</a>
                             <a class="button" href="javascript:void(0)"><i class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
@@ -989,11 +989,11 @@
                 <div class="col-lg-12">
                     <div class="single-portfolio-box">
                         <div class="portfolio-thumb">
-                            <img src="assets/images/home-3/portfolio-2.png" alt="" />
+                            <img src="assets/images/projects/tma.png" alt="" />
                         </div>
                         <div class="portfolio-content">
-                            <h4>Designing</h4>
-                            <a href="javascript:void(0)">Mobile UI/UX Design</a>
+                            <h4>Web App</h4>
+                            <a href="javascript:void(0)">Track My Academy</a>
                             <a class="button" href="javascript:void(0)"><i class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
@@ -1001,11 +1001,23 @@
                 <div class="col-lg-12">
                     <div class="single-portfolio-box">
                         <div class="portfolio-thumb">
-                            <img src="assets/images/home-3/portfolio-3.png" alt="" />
+                            <img src="assets/images/projects/chatkore.png" alt="" />
                         </div>
                         <div class="portfolio-content">
-                            <h4>Technology</h4>
-                            <a href="javascript:void(0)">Cyber Security & Protect</a>
+                            <h4>Website Development</h4>
+                            <a href="javascript:void(0)">Chattkore </a>
+                            <a class="button" href="javascript:void(0)"><i class="bi bi-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-12">
+                    <div class="single-portfolio-box">
+                        <div class="portfolio-thumb">
+                            <img src="assets/images/projects/ecs.png" alt="" />
+                        </div>
+                        <div class="portfolio-content">
+                            <h4>Website Development</h4>
+                            <a href="javascript:void(0)">ECS</a>
                             <a class="button" href="javascript:void(0)"><i class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>

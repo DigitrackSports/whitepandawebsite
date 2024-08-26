@@ -54,6 +54,12 @@
                     <div class="single-brand-box">
                         <img src="assets/images/clients/safe-learners.jpg" alt="" />
                     </div>
+                    <div class="single-brand-box">
+                        <img src="assets/images/clients/tmt-logo.png" alt="" />
+                    </div>
+                    <div class="single-brand-box">
+                        <img src="assets/images/clients/tma-logo.png" alt="" />
+                    </div>
                 </div>
             </div>
         </div>
@@ -149,7 +155,7 @@
                     <div class="row">
                         <div class="col-lg-12 col-md-12">
                             <div class="footer-bottom-content">
-                                <p class="text-center">© 2024 WhitePanda. Designed By - Digitrack Sports</p>
+                                <p class="text-center">© 2024 WhitePanda</p>
                             </div>
                         </div>
 
