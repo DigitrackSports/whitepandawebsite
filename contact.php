@@ -1,18 +1,15 @@
 <?php include('include/header.php'); ?>
-<!-- PHP MAILER START HERE -->
 
+
+<!-- PHP MAILER START HERE -->
 <?php
 session_start();
 ob_start();
 require "phpmailer/PHPMailerAutoload.php";
 // echo "hello" .$_POST['schoolName'];
-
 // echo die;
 
 if (isset($_POST['email'])) {
-
-
-
     function died($error)
     {
         // your error code can go here
@@ -60,7 +57,7 @@ if (isset($_POST['email'])) {
 
     $email_message .= '<html>
   <head>
-    <title>ANSEC</title>
+
       <meta content="width=device-width" name="viewport">
   <meta content="IE=edge" http-equiv="X-UA-Compatible">
   <link href="||SITE_URL||assets/images/social/" rel="stylesheet" type="text/css">
@@ -74,16 +71,11 @@ if (isset($_POST['email'])) {
   </style>
   <body style="background: #f1f1f1; margin: 0px auto; padding: 0px;font-family: "Poppins", sans-serif;">
       <div style="background-color: #fff; margin: 0px auto; max-width: 800px; height: auto;">
-      <div style="">
-          <div style="width: 100%;" >
-      <img src="http://www.ansechr.com/mail/01.jpg"  alt="sprint"> 
-          </div>
-          
-      <div style="width: 100%; display: block;"></div>
+      
   <div class="" style="padding: 40px 40px 3px;">
       <div style="width: 100%; display: block; margin-bottom: 10px;">
           <div style="font-size: 16px; color: #000;">
-              <p>Dear Ansec Marketing,</p>
+              <p>Dear Team WhitePanda,</p>
           </div>
       </div>
   
@@ -102,7 +94,6 @@ if (isset($_POST['email'])) {
               <p style="margin-bottom: 0px;margin-top: 5px;"><b>Mobile Number – </b> ' . clean_string($contact) . '</p>
               <p style="margin-bottom: 0px;margin-top: 5px;"><b>Email – </b> ' . clean_string($emailid) . '</p>
               <p style="margin-bottom: 0px;margin-top: 5px;"><b>Subject – </b>' . clean_string($subject) . '</p>
-          
           </div>
       </div>
       <div style="width: 100%; margin-bottom: 30px;">
@@ -114,9 +105,6 @@ if (isset($_POST['email'])) {
           <div style="font-size: 16px; color: #000;">
           </div>
       </div>
-  
-  
-  
   </div>
   <div style="width: 100%;background: #6965c6;background-repeat: no-repeat;height: 10px;">
   
@@ -131,12 +119,6 @@ if (isset($_POST['email'])) {
   </html>
   ';
 
-
-
-    // create email headers
-    // $headers = 'From: ' . $emailid . "\r\n" .
-    //     'Reply-To: ' . $emailid . "\r\n" .
-    //     'X-Mailer: PHP/' . phpversion();
     $mail = new PHPMailer;
     $mail->Host = 'smtp.gmail.com';
     $mail->Port = 587;
@@ -146,22 +128,19 @@ if (isset($_POST['email'])) {
     $mail->Password = 'Aes@2024';          /* enter password */
     $mail->setFrom('aakash.s.aes@gmail.com');
     $mail->addAddress('akashraj608@gmail.com');
-    //   $mail->addReplyTo('no-reply@ansecservices.com');
     $mail->isHTML(true);
     $mail->Subject = 'Enquiry For Security Needs';
     $mail->Body = $email_message;
 
-    // $mail->AddAttachment($_FILES["resume"]["tmp_name"], $_FILES["resume"]["name"]);
     if (!$mail->send()) {
         // echo $result="not send";
-        $message = 'Your enquiry has been not sent!';
+        $message = 'Your message could not be delivered.!';
 
         $_SESSION['message'] = $message;
         $_SESSION['status'] = 'error';
     } else {
         // echo $result="send";
         $message = 'Your enquiry has been sent successfully!';
-
         $_SESSION['message'] = $message;
         $_SESSION['status'] = 'success';
     }
@@ -218,18 +197,7 @@ if (isset($_POST['email'])) {
                                     <input type="text" oninput="this.value=this.value.replace(/[^0-9 ]/g,'');" maxlength="10" pattern="[0-9]{10}" name="mobile_no" placeholder="Mobile No" aria-label="Mobile Number" required />
                                 </div>
                             </div>
-                            <!-- <div class="col-lg-6">
-                                <div class="single-input-box">
-                                    <select name="place" id="place">
-                                        <option value="">Subject</option>
-                                        <option value="">Business Process Outsourcing</option>
-                                        <option value="">Application Development</option>
-                                        <option value="">IT and Managed Services</option>
-                                        <option value="">Cyber Security</option>
-                                        <option value="">Other</option>
-                                    </select>
-                                </div>
-                            </div> -->
+
                             <div class="col-lg-6">
                                 <div class="single-input-box">
                                     <input type="text" name="subject" required placeholder="Subject" required />
@@ -305,7 +273,13 @@ if (isset($_POST['email'])) {
 
 
 
-
+<script>
+    window.setTimeout(function() {
+        $(".alert").fadeTo(500, 0).slideUp(500, function() {
+            $(this).remove();
+        });
+    }, 4000);
+</script>
 
 <!-- mail sent successfull start -->
 <?php if (isset($_SESSION['message'])) { ?>
