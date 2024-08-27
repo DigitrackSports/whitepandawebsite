@@ -1,6 +1,3 @@
-<?php include('include/header.php'); ?>
-
-
 <!-- PHP MAILER START HERE -->
 <?php
 session_start();
@@ -133,6 +130,7 @@ if (isset($_POST['email'])) {
 
 
 <!-- Header started here -->
+<?php include('include/header.php'); ?>
 <?php include('include/navbar.php'); ?>
 <!-- Header ended here -->
 
