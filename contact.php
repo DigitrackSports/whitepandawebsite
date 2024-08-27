@@ -1,5 +1,177 @@
-<!-- Header started here -->
 <?php include('include/header.php'); ?>
+<!-- PHP MAILER START HERE -->
+
+<?php
+session_start();
+ob_start();
+require "phpmailer/PHPMailerAutoload.php";
+// echo "hello" .$_POST['schoolName'];
+
+// echo die;
+
+if (isset($_POST['email'])) {
+
+
+
+    function died($error)
+    {
+        // your error code can go here
+        $_SESSION['error_message'] = $error;
+    }
+
+    // validation expected data exists
+    if (
+        !isset($_POST['email']) ||
+        !isset($_POST['full_name'])
+    ) {
+        died('We are sorry, but there appears to be a problem with the form you submitted.');
+    }
+
+
+    $fullName = $_POST['full_name']; // required
+    $contact = $_POST['mobile_no']; // required
+    $emailid = $_POST['email']; // required
+    $subject = $_POST['subject']; // required
+    $txtmessage = $_POST['message']; // not required
+
+    $error_message = "";
+    $email_exp = '/^[A-Za-z0-9._%-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}$/';
+    if (!preg_match($email_exp, $emailid)) {
+        $error_message .= 'The Email Address you entered does not appear to be valid.<br />';
+    }
+    $string_exp = "/^[A-Za-z .'-]+$/";
+    if (!preg_match($string_exp, $fullName)) {
+        $error_message .= 'The Name you entered does not appear to be valid.<br />';
+    }
+
+    if (strlen($error_message) > 0) {
+        died($error_message);
+    }
+
+    function clean_string($string)
+    {
+        $bad = array("content-type", "bcc:", "to:", "cc:", "href");
+        return str_replace($bad, "", $string);
+    }
+
+    $email_message = '';
+
+
+
+    $email_message .= '<html>
+  <head>
+    <title>ANSEC</title>
+      <meta content="width=device-width" name="viewport">
+  <meta content="IE=edge" http-equiv="X-UA-Compatible">
+  <link href="||SITE_URL||assets/images/social/" rel="stylesheet" type="text/css">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;300&display=swap" rel="stylesheet">
+  </head>
+  <style type="text/css">
+   body {
+         font-family: "Poppins", sans-serif; color: #444444;
+        }
+  </style>
+  <body style="background: #f1f1f1; margin: 0px auto; padding: 0px;font-family: "Poppins", sans-serif;">
+      <div style="background-color: #fff; margin: 0px auto; max-width: 800px; height: auto;">
+      <div style="">
+          <div style="width: 100%;" >
+      <img src="http://www.ansechr.com/mail/01.jpg"  alt="sprint"> 
+          </div>
+          
+      <div style="width: 100%; display: block;"></div>
+  <div class="" style="padding: 40px 40px 3px;">
+      <div style="width: 100%; display: block; margin-bottom: 10px;">
+          <div style="font-size: 16px; color: #000;">
+              <p>Dear Ansec Marketing,</p>
+          </div>
+      </div>
+  
+      <div style="width: 100%; margin-bottom: 30px;">
+          <div style="font-size: 16px; color: #000;">
+        <p style="margin-bottom: 0px;">You have received an enquiry from ' . clean_string($fullName) . '</p>
+        <p style="margin-top:0px;margin-bottom:5px;">The details are as mentioned below </p>
+          </div>
+      </div>
+  
+  
+      <div style="width: 100%; margin-bottom: 30px;">
+          <div style="font-size: 16px; color: #000;">
+              <p style="margin-bottom: 0px;margin-top: 5px;"><b>Name –</b> ' . clean_string($fullName) . '</p>
+             
+              <p style="margin-bottom: 0px;margin-top: 5px;"><b>Mobile Number – </b> ' . clean_string($contact) . '</p>
+              <p style="margin-bottom: 0px;margin-top: 5px;"><b>Email – </b> ' . clean_string($emailid) . '</p>
+              <p style="margin-bottom: 0px;margin-top: 5px;"><b>Subject – </b>' . clean_string($subject) . '</p>
+          
+          </div>
+      </div>
+      <div style="width: 100%; margin-bottom: 30px;">
+          <div style="font-size: 16px; color: #000;">
+          ' . clean_string($txtmessage) . '
+          </div>
+      </div>
+      <div style="width: 100%; margin-bottom: 30px;">
+          <div style="font-size: 16px; color: #000;">
+          </div>
+      </div>
+  
+  
+  
+  </div>
+  <div style="width: 100%;background: #6965c6;background-repeat: no-repeat;height: 10px;">
+  
+    
+  </div>
+      </div>
+  
+  </div>
+  </div>
+  
+  </body>
+  </html>
+  ';
+
+
+
+    // create email headers
+    // $headers = 'From: ' . $emailid . "\r\n" .
+    //     'Reply-To: ' . $emailid . "\r\n" .
+    //     'X-Mailer: PHP/' . phpversion();
+    $mail = new PHPMailer;
+    $mail->Host = 'smtp.gmail.com';
+    $mail->Port = 587;
+    $mail->SMTPAuth = true;
+    $mail->SMTPSecure = 'tls';
+    $mail->Username = 'aakash.s.aes@gmail.com';   /* enter email address */
+    $mail->Password = 'Aes@2024';          /* enter password */
+    $mail->setFrom('aakash.s.aes@gmail.com');
+    $mail->addAddress('akashraj608@gmail.com');
+    //   $mail->addReplyTo('no-reply@ansecservices.com');
+    $mail->isHTML(true);
+    $mail->Subject = 'Enquiry For Security Needs';
+    $mail->Body = $email_message;
+
+    // $mail->AddAttachment($_FILES["resume"]["tmp_name"], $_FILES["resume"]["name"]);
+    if (!$mail->send()) {
+        // echo $result="not send";
+        $message = 'Your enquiry has been not sent!';
+
+        $_SESSION['message'] = $message;
+        $_SESSION['status'] = 'error';
+    } else {
+        // echo $result="send";
+        $message = 'Your enquiry has been sent successfully!';
+
+        $_SESSION['message'] = $message;
+        $_SESSION['status'] = 'success';
+    }
+}
+?>
+<!-- PHP MAILER END HERE -->
+
+
+
+<!-- Header started here -->
 <?php include('include/navbar.php'); ?>
 <!-- Header ended here -->
 
@@ -29,24 +201,24 @@
                     <div class="contact-contetn">
                         <h4>Write to Us Anytime</h4>
                     </div>
-                    <form action="#">
+                    <form action="" method="POST" id="contact-us-form">
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="single-input-box">
-                                    <input type="text" name="name" placeholder="Your Name" required />
+                                    <input type="text" name="full_name" placeholder="Your Name" required />
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="single-input-box">
-                                    <input type="text" name="Email" placeholder="Enter E-Mail" required />
+                                    <input type="text" name="email" placeholder="Enter E-Mail" required />
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="single-input-box">
-                                    <input type="text" name="Phone" placeholder="Phone Number" required />
+                                    <input type="text" oninput="this.value=this.value.replace(/[^0-9 ]/g,'');" maxlength="10" pattern="[0-9]{10}" name="mobile_no" placeholder="Mobile No" aria-label="Mobile Number" required />
                                 </div>
                             </div>
-                            <div class="col-lg-6">
+                            <!-- <div class="col-lg-6">
                                 <div class="single-input-box">
                                     <select name="place" id="place">
                                         <option value="">Subject</option>
@@ -57,15 +229,20 @@
                                         <option value="">Other</option>
                                     </select>
                                 </div>
+                            </div> -->
+                            <div class="col-lg-6">
+                                <div class="single-input-box">
+                                    <input type="text" name="subject" required placeholder="Subject" required />
+                                </div>
                             </div>
                             <div class="col-lg-12">
                                 <div class="single-input-box">
-                                    <textarea name="message" id="message" placeholder="Write Message" required></textarea>
+                                    <textarea name="message" required placeholder="Leave a comment here" id="floatingTextarea"></textarea>
                                 </div>
                             </div>
                             <div class="col-lg-12">
                                 <div class="message-sent-button">
-                                    <button type="submit">Send Message</button>
+                                    <button type="submit" id="contact-submit">Send Message</button>
                                 </div>
                             </div>
                         </div>
@@ -124,6 +301,44 @@
     </div>
 </div>
 <!-- End Toptech Google map Area Style Two-->
+
+
+
+
+
+
+<!-- mail sent successfull start -->
+<?php if (isset($_SESSION['message'])) { ?>
+    <div class="msg_div">
+        <?php if ($_SESSION['status'] == 'success' && !empty($_SESSION['status'])) { ?>
+            <div class="err-msg2" style="position: absolute;right: 5px;bottom: 1px;z-index: 1000000; display:block;">
+                '<div class="alert alert-success alert-dismissable" style="position: fixed;bottom: 10px;right: 100px;z-index:9999; font-size: 14px;">
+                    <a href="#" class="close" data-dismiss="alert" aria-label="close" style="margin-left: 5px;">×</a>
+                    <strong><?php echo $_SESSION['status']; ?> !</strong> <?php echo $_SESSION['message'];
+                                                                            unset($_SESSION['message']);
+                                                                            unset($_SESSION['status']);
+                                                                            ?>
+                </div>
+            </div>
+        <?php } ?>
+        <?php if ($_SESSION['status'] == 'error' && !empty($_SESSION['status'])) { ?>
+            <div class="err-msg2" style="position: absolute;right: 5px;bottom: 1px;z-index: 1000000; display:block;">
+                '<div class="alert alert-success alert-dismissable" style="position: fixed;bottom: 10px;right: 100px;z-index:9999; font-size: 14px;">
+                    <a href="#" class="close" data-dismiss="alert" aria-label="close" style="margin-left: 5px;">×</a>
+                    <strong><?php echo $_SESSION['status']; ?> !</strong> <?php echo $_SESSION['message'];
+                                                                            unset($_SESSION['message']);
+                                                                            unset($_SESSION['status']);
+                                                                            ?>
+
+                </div>
+            </div>
+
+
+        <?php } ?>
+    </div>
+<?php } ?>
+<!-- mail sent successfull end -->
+
 
 <!-- Footer started here -->
 <?php include('include/footer-box.php'); ?>
