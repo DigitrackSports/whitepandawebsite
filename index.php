@@ -17,7 +17,8 @@
                     <!-- <h1>In The World</h1> -->
                     <h1>Delivering top-tier digital <br> solutions for your business.</h1>
                     <p>
-                        Transform your business with our cutting-edge digital solutions. Experience efficiency, innovation, and growth like never before.
+                        Want to transform your business with cutting-edge digital solutions? <br>
+                        Experience streamlined operations, intelligent solutions, and significant business growth through our digital transformation expertise.
                     </p>
                 </div>
                 <div class="hero-button style-one">

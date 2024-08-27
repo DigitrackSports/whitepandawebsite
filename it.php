@@ -4,12 +4,15 @@
 <!-- Header ended here -->
 
 <!-- Start Toptech Breadcumb Area -->
-<div class="breadcumb-area">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="breadcumb-content">
-                    <h4>IT and Managed Services</h4>
+<div class="breadcumb-area app-dev-breadcumb-area">
+    <div class="breadcumb-overlay">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="breadcumb-content">
+                        <h4>IT and Managed Services</h4>
+                        <p><b>Elevate your business with our comprehensive IT and managed services.</b> We provide reliable, scalable solutions to optimize your technology infrastructure, enhance security, and drive efficiency. From cloud computing to cybersecurity, our experts are dedicated to supporting your digital transformation. <br> <b>Experience the peace of mind that comes with a trusted IT partner. Contact us today.</b></p>
+                    </div>
                 </div>
             </div>
         </div>

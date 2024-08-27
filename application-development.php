@@ -4,12 +4,15 @@
 <!-- Header ended here -->
 
 <!-- Start Toptech Breadcumb Area -->
-<div class="breadcumb-area">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="breadcumb-content">
-                    <h4>Application Development</h4>
+<div class="breadcumb-area app-dev-breadcumb-area">
+    <div class="breadcumb-overlay">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="breadcumb-content">
+                        <h4>Application Development</h4>
+                        <p>Transform your ideas into powerful applications. We specialize in crafting custom software solutions tailored to your unique needs. From mobile apps to enterprise systems, our team of skilled developers delivers cutting-edge technology that drives your business forward. <br> <br> <b>Experience the power of innovation. Contact us today to discuss your project.</b></p>
+                    </div>
                 </div>
             </div>
         </div>

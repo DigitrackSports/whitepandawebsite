@@ -5,12 +5,17 @@
 
 
 <!-- Start Toptech Breadcumb Area -->
-<div class="breadcumb-area">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="breadcumb-content">
-                    <h4>About Us </h4>
+<div class="breadcumb-area about-breadcumb-area">
+    <div class="breadcumb-overlay">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="breadcumb-content">
+                        <h4>About Us </h4>
+                        <p><b>Your Trusted Partner in Your Growth</b> <br><br>
+                            We're committed to create innovative and user-centric software solutions that drive our clients' businesses forward and exceed their expectations. Our proven track record and deep industry knowledge make us the ideal partner to help you achieve your goals.
+                        </p>
+                    </div>
                 </div>
             </div>
         </div>

@@ -4073,11 +4073,46 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 =========================================================---*/
 .breadcumb-area {
     background: url(../images/about-inner/breadcumb-bg.png);
-    padding: 155px 0 120px;
+
     background-repeat: no-repeat;
     background-size: cover;
     margin-top: -100px;
     position: relative;
+}
+
+.breadcumb-area .breadcumb-overlay {
+    background: linear-gradient(90deg, #051425, #071627a3, transparent);
+    padding: 155px 0 120px;
+}
+
+.breadcumb-area.bpo-breadcumb-area {
+    background: url(../images/services/hero-section/bpo.png);
+    background-size: cover;
+}
+
+.breadcumb-area.app-dev-breadcumb-area {
+    background: url(../images/services/hero-section/application-development.png);
+    background-size: cover;
+}
+
+.breadcumb-area.app-dev-breadcumb-area {
+    background: url(../images/services/hero-section/it.png);
+    background-size: cover;
+}
+
+.breadcumb-area.app-dev-breadcumb-area {
+    background: url(../images/services/hero-section/cyber-security.png);
+    background-size: cover;
+}
+
+.breadcumb-area.contact-breadcumb-area {
+    background: url(../images/services/hero-section/contact.png);
+    background-size: cover;
+}
+
+.breadcumb-area.about-breadcumb-area {
+    background: url(../images/services/hero-section/about.png);
+    background-size: cover;
 }
 
 .breadcumb-content h4 {
@@ -4108,6 +4143,19 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     font-weight: 500;
     font-size: 18px;
     cursor: pointer;
+}
+
+.breadcumb-area .breadcumb-content {
+    max-width: 550px;
+}
+
+.breadcumb-area .breadcumb-content p {
+    color: #fff;
+    margin-top: 20px;
+}
+
+.breadcumb-area .breadcumb-content p b {
+    font-size: 18px;
 }
 
 /*---=====================================================
@@ -8999,6 +9047,7 @@ Awards One Css
     object-fit: contain;
     filter: drop-shadow(2px 4px 6px #ffffff56);
 }
+
 
 
 @media (max-width: 760px) {

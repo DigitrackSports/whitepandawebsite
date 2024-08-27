@@ -4,12 +4,15 @@
 <!-- Header ended here -->
 
 <!-- Start Toptech Breadcumb Area -->
-<div class="breadcumb-area">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="breadcumb-content">
-                    <h4>Cyber Security</h4>
+<div class="breadcumb-area app-dev-breadcumb-area">
+    <div class="breadcumb-overlay">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="breadcumb-content">
+                        <h4>Cyber Security</h4>
+                        <p>In today's interconnected world, cybersecurity is more critical than ever. Our comprehensive solutions safeguard your sensitive data, systems, and networks from emerging threats. From threat detection and response to compliance management, we provide the expertise and technology to protect your business. <br><br> <b>Don't compromise your security. Partner with us to build a resilient digital fortress.</b></p>
+                    </div>
                 </div>
             </div>
         </div>

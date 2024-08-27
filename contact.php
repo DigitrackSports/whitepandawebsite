@@ -3,14 +3,16 @@
 <?php include('include/navbar.php'); ?>
 <!-- Header ended here -->
 
-
 <!-- Start Toptech Breadcumb Area -->
-<div class="breadcumb-area">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="breadcumb-content">
-                    <h4>Contact Us</h4>
+<div class="breadcumb-area contact-breadcumb-area">
+    <div class="breadcumb-overlay">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="breadcumb-content">
+                        <h4>Contact Us</h4>
+                        <p><b>Ready to take the next step? </b> Contact us today to discuss your specific needs and explore how our solutions can benefit your business. Our team is committed to providing exceptional customer service and finding the perfect fit for your goals. <br><br> <b>Reach out to us through the form below, or give us a call.</b></p>
+                    </div>
                 </div>
             </div>
         </div>
@@ -58,12 +60,12 @@
                             </div>
                             <div class="col-lg-12">
                                 <div class="single-input-box">
-                                    <textarea name="massage" id="massage" placeholder="Write Massage" required></textarea>
+                                    <textarea name="message" id="message" placeholder="Write Message" required></textarea>
                                 </div>
                             </div>
                             <div class="col-lg-12">
-                                <div class="massage-sent-button">
-                                    <button type="submit">Send Massage</button>
+                                <div class="message-sent-button">
+                                    <button type="submit">Send Message</button>
                                 </div>
                             </div>
                         </div>
@@ -99,8 +101,8 @@
                         </div>
                         <div class="contact-info-content">
                             <p>Location</p>
-                            <h4>4 Bindo St
-                                The Ponds <br> NSW 2769, Australia</h4>
+                            <h4>4 Bindo St <br>
+                                THE PONDS <br> NSW 2769, <br> AUSTRALIA</h4>
                         </div>
                     </div>
                 </div>
@@ -122,7 +124,6 @@
     </div>
 </div>
 <!-- End Toptech Google map Area Style Two-->
-
 
 <!-- Footer started here -->
 <?php include('include/footer-box.php'); ?>
