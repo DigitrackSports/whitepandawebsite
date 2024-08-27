@@ -108,10 +108,10 @@ if (isset($_POST['email'])) {
     $mail->SMTPSecure = 'tls';
     $mail->Username = 'aakash.s.aes@gmail.com';   /* enter email address */
     $mail->Password = 'Aes@2024';          /* enter password */
-    $mail->setFrom('aakash.s.aes@gmail.com');
+    $mail->setFrom('aakash.s.aes@gmail.com',$_POST['name']);
     $mail->addAddress('akashraj608@gmail.com');
     $mail->isHTML(true);
-    $mail->Subject = 'Enquiry For Security Needs';
+    $mail->Subject = 'Enquiry from '+ $fullName;
     $mail->Body = $email_message;
 
     if (!$mail->send()) {
