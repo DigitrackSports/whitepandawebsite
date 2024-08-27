@@ -106,7 +106,9 @@ if (isset($_POST['email'])) {
     $mail->Username = 'aakash.s.aes@gmail.com';   /* enter email address */
     $mail->Password = 'Aes@2024';          /* enter password */
     $mail->setFrom('aakash.s.aes@gmail.com');
-    $mail->addAddress('akashraj608@gmail.com');
+    // $mail->addAddress('akashraj608@gmail.com');
+    $mail->addAddress('rajashrichoudhari29@gmail.com');
+
     $mail->isHTML(true);
     $mail->Subject = 'Enquiry from ';
     $mail->Body = $email_message;
