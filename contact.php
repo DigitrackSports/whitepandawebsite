@@ -53,71 +53,53 @@ if (isset($_POST['email'])) {
 
     $email_message = '';
 
-
-
-    $email_message .= '<html>
-  <head>
-
-      <meta content="width=device-width" name="viewport">
-  <meta content="IE=edge" http-equiv="X-UA-Compatible">
-  <link href="||SITE_URL||assets/images/social/" rel="stylesheet" type="text/css">
-  <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;300&display=swap" rel="stylesheet">
-  </head>
-  <style type="text/css">
-   body {
-         font-family: "Poppins", sans-serif; color: #444444;
+    $email_message = '
+    <html>
+    <head>
+        <meta content="width=device-width" name="viewport">
+        <meta content="IE=edge" http-equiv="X-UA-Compatible">
+        <link href="||SITE_URL||assets/images/social/" rel="stylesheet" type="text/css">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;300&display=swap" rel="stylesheet">
+    </head>
+    <style type="text/css">
+        body {
+            font-family: "Poppins", sans-serif; color: #444444;
         }
-  </style>
-  <body style="background: #f1f1f1; margin: 0px auto; padding: 0px;font-family: "Poppins", sans-serif;">
-      <div style="background-color: #fff; margin: 0px auto; max-width: 800px; height: auto;">
-      
-  <div class="" style="padding: 40px 40px 3px;">
-      <div style="width: 100%; display: block; margin-bottom: 10px;">
-          <div style="font-size: 16px; color: #000;">
-              <p>Dear Team WhitePanda,</p>
-          </div>
-      </div>
-  
-      <div style="width: 100%; margin-bottom: 30px;">
-          <div style="font-size: 16px; color: #000;">
-        <p style="margin-bottom: 0px;">You have received an enquiry from ' . clean_string($fullName) . '</p>
-        <p style="margin-top:0px;margin-bottom:5px;">The details are as mentioned below </p>
-          </div>
-      </div>
-  
-  
-      <div style="width: 100%; margin-bottom: 30px;">
-          <div style="font-size: 16px; color: #000;">
-              <p style="margin-bottom: 0px;margin-top: 5px;"><b>Name –</b> ' . clean_string($fullName) . '</p>
-             
-              <p style="margin-bottom: 0px;margin-top: 5px;"><b>Mobile Number – </b> ' . clean_string($contact) . '</p>
-              <p style="margin-bottom: 0px;margin-top: 5px;"><b>Email – </b> ' . clean_string($emailid) . '</p>
-              <p style="margin-bottom: 0px;margin-top: 5px;"><b>Subject – </b>' . clean_string($subject) . '</p>
-          </div>
-      </div>
-      <div style="width: 100%; margin-bottom: 30px;">
-          <div style="font-size: 16px; color: #000;">
-          ' . clean_string($txtmessage) . '
-          </div>
-      </div>
-      <div style="width: 100%; margin-bottom: 30px;">
-          <div style="font-size: 16px; color: #000;">
-          </div>
-      </div>
-  </div>
-  <div style="width: 100%;background: #6965c6;background-repeat: no-repeat;height: 10px;">
-  
-    
-  </div>
-      </div>
-  
-  </div>
-  </div>
-  
-  </body>
-  </html>
-  ';
+    </style>
+    <body style="background: #f1f1f1; margin: 0px auto; padding: 0px; font-family: \'Poppins\', sans-serif;">
+        <div style="background-color: #fff; margin: 0px auto; max-width: 800px; height: auto;">
+            <div style="padding: 40px 40px 3px;">
+                <div style="width: 100%; display: block; margin-bottom: 10px;">
+                    <div style="font-size: 16px; color: #000;">
+                        <p>Dear Team WhitePanda,</p>
+                    </div>
+                </div>
+                <div style="width: 100%; margin-bottom: 30px;">
+                    <div style="font-size: 16px; color: #000;">
+                        <p style="margin-bottom: 0px;">You have received an enquiry from ' . clean_string($fullName) . '</p>
+                        <p style="margin-top: 0px; margin-bottom: 5px;">The details are as mentioned below:</p>
+                    </div>
+                </div>
+                <div style="width: 100%; margin-bottom: 30px;">
+                    <div style="font-size: 16px; color: #000;">
+                        <p style="margin-bottom: 0px; margin-top: 5px;"><b>Name –</b> ' . clean_string($fullName) . '</p>
+                        <p style="margin-bottom: 0px; margin-top: 5px;"><b>Mobile Number – </b> ' . clean_string($contact) . '</p>
+                        <p style="margin-bottom: 0px; margin-top: 5px;"><b>Email – </b> ' . clean_string($emailid) . '</p>
+                        <p style="margin-bottom: 0px; margin-top: 5px;"><b>Subject – </b>' . clean_string($subject) . '</p>
+                    </div>
+                </div>
+                <div style="width: 100%; margin-bottom: 30px;">
+                    <div style="font-size: 16px; color: #000;">
+                        ' . clean_string($txtmessage) . '
+                    </div>
+                </div>
+            </div>
+            <div style="width: 100%; background: #6965c6; background-repeat: no-repeat; height: 10px;"></div>
+        </div>
+    </body>
+    </html>
+    ';
 
     $mail = new PHPMailer;
     $mail->Host = 'smtp.gmail.com';
