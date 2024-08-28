@@ -108,10 +108,9 @@ if (isset($_POST['email'])) {
     $mail->setFrom('aakash.s.aes@gmail.com');
     $mail->addAddress('akashraj608@gmail.com');
 
-
+    $mail->isHTML(true);
     $mail->Subject = 'Enquiry from WhitePanda Website';
     $mail->Body = $email_message;
-    $mail->isHTML(true);
 
     if (!$mail->send()) {
         // echo $result="not send";
