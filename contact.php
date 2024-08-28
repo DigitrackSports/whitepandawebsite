@@ -1,15 +1,11 @@
-<!-- PHP MAILER START HERE -->
 <?php
 session_start();
 ob_start();
 require "phpmailer/PHPMailerAutoload.php";
-// echo "hello" .$_POST['schoolName'];
-// echo die;
 
 if (isset($_POST['email'])) {
     function died($error)
     {
-        // your error code can go here
         $_SESSION['error_message'] = $error;
     }
 
@@ -20,7 +16,6 @@ if (isset($_POST['email'])) {
     ) {
         died('We are sorry, but there appears to be a problem with the form you submitted.');
     }
-
 
     $fullName = $_POST['full_name']; // required
     $contact = $_POST['mobile_no']; // required
@@ -48,14 +43,11 @@ if (isset($_POST['email'])) {
         return str_replace($bad, "", $string);
     }
 
-    $email_message = '';
-
     $email_message = '
     <html>
     <head>
         <meta content="width=device-width" name="viewport">
         <meta content="IE=edge" http-equiv="X-UA-Compatible">
-        <link href="||SITE_URL||assets/images/social/" rel="stylesheet" type="text/css">
         <link rel="preconnect" href="https://fonts.gstatic.com">
         <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;300&display=swap" rel="stylesheet">
     </head>
@@ -99,6 +91,7 @@ if (isset($_POST['email'])) {
     ';
 
     $mail = new PHPMailer;
+    $mail->isSMTP();
     $mail->Host = 'smtp.gmail.com';
     $mail->Port = 587;
     $mail->SMTPAuth = true;
@@ -108,25 +101,24 @@ if (isset($_POST['email'])) {
     $mail->setFrom('aakash.s.aes@gmail.com');
     $mail->addAddress('akashraj608@gmail.com');
 
-
     $mail->Subject = 'Enquiry from WhitePanda Website';
     $mail->Body = $email_message;
-    $mail->isHTML(true);
+    $mail->isHTML(true);  // Ensure HTML email
+
+    $mail->AltBody = strip_tags($email_message); // Fallback for non-HTML email clients
 
     if (!$mail->send()) {
-        // echo $result="not send";
-        $message = 'Your message could not be delivered.!';
-
+        $message = 'Your message could not be delivered. Please try again later.';
         $_SESSION['message'] = $message;
         $_SESSION['status'] = 'error';
     } else {
-        // echo $result="send";
         $message = 'Your enquiry has been sent successfully!';
         $_SESSION['message'] = $message;
         $_SESSION['status'] = 'success';
     }
 }
 ?>
+
 <!-- PHP MAILER END HERE -->
 
 
