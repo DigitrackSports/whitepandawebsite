@@ -45,9 +45,9 @@
                     <div class="single-brand-box">
                         <img src="assets/images/clients/chattkore-logo.png" alt="" />
                     </div>
-                    <div class="single-brand-box">
+                    <!-- <div class="single-brand-box">
                         <img src="assets/images/clients/empowerment.jpg" alt="" />
-                    </div>
+                    </div> -->
                     <div class="single-brand-box">
                         <img src="assets/images/clients/royal.png" alt="" />
                     </div>
