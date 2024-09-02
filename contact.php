@@ -108,10 +108,9 @@ if (isset($_POST['email'])) {
     $mail->setFrom('aakash.s.aes@gmail.com');
     $mail->addAddress('akashraj608@gmail.com');
 
-
+    $mail->isHTML(true);
     $mail->Subject = 'Enquiry from WhitePanda Website';
     $mail->Body = $email_message;
-    $mail->isHTML(true);
 
     if (!$mail->send()) {
         // echo $result="not send";
@@ -202,7 +201,7 @@ if (isset($_POST['email'])) {
             <div class="col-lg-4 col-md-12">
                 <div class="single-contact-info-box">
                     <div class="info-content">
-                        <h4>Don’t Forget to Contact Us</h4>
+                        <h4>Contact Us</h4>
                     </div>
                     <div class="contact-info-box">
                         <div class="contact-info-icon">

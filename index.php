@@ -335,7 +335,7 @@
             </div>
             <div class="col-lg-3 col-md-6 box tab2">
                 <div class="single-services-box">
-                    <div class="service-icon-thumb"> 
+                    <div class="service-icon-thumb">
                         <!-- dummy content -->
                         <img src="assets/images/home-2/service-5.png" alt="" />
                     </div>
@@ -1050,9 +1050,7 @@
                         </div>
                         <div class="testi-desc">
                             <p>
-                                Monotonectally synergize granular that visualize strategic
-                                infomediaries business task state of the art into
-                                infrastructures markets digital products
+                                Thanks to their targeted digital marketing campaigns, our online presence has grown exponentially, resulting in a significant boost in sales.
                             </p>
                         </div>
                         <div class="testi-rating">
@@ -1064,15 +1062,7 @@
                                 <li><i class="fa-solid fa-star"></i></li>
                             </ul>
                         </div>
-                    </div>
-                    <div class="teasti-author">
-                        <div class="testi-author-thumb">
-                            <img src="assets/images/home-3/testi-author-1.png" alt="" />
-                        </div>
-                        <div class="testi-author-content">
-                            <h4>John D. Alexon</h4>
-                            <p>UI Designer</p>
-                        </div>
+                        <h4>John D. Alexon</h4>
                     </div>
                 </div>
             </div>
@@ -1084,9 +1074,7 @@
                         </div>
                         <div class="testi-desc">
                             <p>
-                                Monotonectally synergize granular that visualize strategic
-                                infomediaries business task state of the art into
-                                infrastructures markets digital products
+                                Our partnership with this marketing support team has been transformative. Their strategies have increased our brand awareness and brought in high-quality leads.
                             </p>
                         </div>
                         <div class="testi-rating">
@@ -1098,15 +1086,7 @@
                                 <li><i class="fa-solid fa-star"></i></li>
                             </ul>
                         </div>
-                    </div>
-                    <div class="teasti-author">
-                        <div class="testi-author-thumb">
-                            <img src="assets/images/home-3/testi-author-2.png" alt="" />
-                        </div>
-                        <div class="testi-author-content">
-                            <h4>Hasin A. Hydar</h4>
-                            <p>Developer</p>
-                        </div>
+                        <h4>Hasin A. Hydar</h4>
                     </div>
                 </div>
             </div>
@@ -1118,9 +1098,7 @@
                         </div>
                         <div class="testi-desc">
                             <p>
-                                Monotonectally synergize granular that visualize strategic
-                                infomediaries business task state of the art into
-                                infrastructures markets digital products
+                                Since hiring a virtual assistant, our administrative workload has reduced significantly. This has allowed us to focus more on strategic planning and business development.
                             </p>
                         </div>
                         <div class="testi-rating">
@@ -1132,16 +1110,9 @@
                                 <li><i class="fa-solid fa-star"></i></li>
                             </ul>
                         </div>
+                        <h4>Alexina Gomez</h4>
                     </div>
-                    <div class="teasti-author">
-                        <div class="testi-author-thumb">
-                            <img src="assets/images/home-3/testi-author-3.png" alt="" />
-                        </div>
-                        <div class="testi-author-content">
-                            <h4>Alexina Gomez</h4>
-                            <p>UI Designer</p>
-                        </div>
-                    </div>
+
                 </div>
             </div>
         </div>
