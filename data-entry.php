@@ -9,9 +9,9 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="breadcumb-content">
-                        <h4>Accounting Support Services</h4>
-                        <p><b>Streamline Your Finances with Our Expert Accounting Support</b> <br><br>
-                            Managing your business finances can be complex and time-consuming. Our accounting support services provide comprehensive solutions to ensure your financial records are accurate, up-to-date, and compliant, so you can focus on what you do best—running your business.
+                        <h4>Data Entry Services</h4>
+                        <p><b>Accurate and Efficient Data Entry Services to Support Your Business Operations</b> <br><br>
+                            Data is a critical asset for any business, and maintaining its accuracy is essential. Our data entry services ensure that your business data is entered correctly, organized efficiently, and managed securely, allowing you to focus on core business activities.
                         </p>
                     </div>
                 </div>
@@ -30,49 +30,49 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="services-details-thumb">
-                            <img src="assets/images/services/accounting-support-banner.png" alt="">
+                            <img src="assets/images/services/data-entry-banner.png" alt="">
                         </div>
                         <div class="services-details-content">
-                            <h4 class="services-details-title">Why Choose Our Accounting Support Services?</h4>
+                            <h4 class="services-details-title">Why Choose Our Data Entry Services?</h4>
                         </div>
                         <div class="row">
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Professional Expertise</h4>
-                                        <p>Our team of certified accountants and financial experts bring years of experience to the table. We understand the intricacies of financial management and are equipped to handle all aspects of your accounting needs.</p>
+                                        <h4>Highly Skilled Team</h4>
+                                        <p>Our team of data entry professionals is highly trained and experienced in handling various data entry tasks across different industries. We ensure that your data is handled with precision and care.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Tailored Solutions</h4>
-                                        <p>Every business is unique, which is why we offer customized accounting services that are designed to fit your specific needs and objectives. Whether you’re a small startup or a large corporation, we provide the support that suits your business.</p>
+                                        <h4>Accuracy and Precision</h4>
+                                        <p>We understand the importance of data accuracy. Our meticulous approach to data entry minimizes errors, ensuring that your records are accurate and reliable.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Accuracy and Compliance</h4>
-                                        <p>Staying compliant with financial regulations is crucial. Our team ensures that your financial records are accurate and in line with all relevant laws and standards, minimizing risks and avoiding costly penalties.</p>
+                                        <h4>Fast Turnaround Time</h4>
+                                        <p>Speed is crucial in data management. Our efficient processes and use of advanced tools allow us to complete data entry tasks quickly without compromising quality.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Cost-Effective Service</h4>
-                                        <p>Outsourcing your accounting needs to us means you save on the costs of hiring and training in-house staff. We offer flexible pricing models to ensure you get the best value for your investment.</p>
+                                        <h4>Cost-Effective Solutions</h4>
+                                        <p>Outsourcing your data entry needs to us helps you save on labor costs and infrastructure. We offer competitive pricing models to suit your budget and business needs.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Confidentiality and Security</h4>
-                                        <p>We take the security of your financial data seriously. Our systems are equipped with the latest security measures to ensure your sensitive information is protected at all times.</p>
+                                        <h4>Data Security and Confidentiality</h4>
+                                        <p>We take data security seriously. Our systems are equipped with the latest security measures to protect your sensitive information and ensure confidentiality.</p>
                                     </div>
                                 </div>
                             </div>
@@ -83,16 +83,21 @@
                             </div>
                             <div class="service-details-text-content">
                                 <p><b>Get Started Today!</b></p>
-                                <p>Ready to simplify your accounting processes and ensure financial accuracy? Contact us today to learn how our accounting support services can benefit your business.</p>
+                                <p>Ready to enhance your data management with our reliable data entry services? Contact us today to learn more about how we can support your business with accurate and efficient data entry solutions.</p>
                             </div>
                         </div>
 
                         <h4 class="services-details-title">How It Works</h4>
-                        <p class="services-details-desc"><b>Initial Consultation:</b> We start with a detailed consultation to understand your order processing needs and business objectives.</p>
-                        <p class="services-details-desc"><b>Customized Plan:</b> We integrate our order processing system with your existing platforms to ensure seamless operations.</p>
-                        <p class="services-details-desc"><b>Implementation:</b> Our team begins handling your order processing tasks, providing efficient and reliable service.</p>
-                        <p class="services-details-desc"><b>Monitoring and Adjustment:</b> We continuously monitor the order processing workflow and make necessary adjustments to improve efficiency.</p>
-                        <p class="services-details-desc"><b>Reporting:</b> Receive regular reports on order processing metrics, including order accuracy, processing times, and customer satisfaction.</p>
+                        <p class="services-details-desc"><b>Consultation:</b>
+                            We start with a consultation to understand your data entry requirements and objectives.</p>
+                        <p class="services-details-desc"><b>Project Planning:</b> Develop a customized data entry plan outlining the scope, methods, and timeline.
+                        </p>
+                        <p class="services-details-desc"><b>Data Entry Execution:</b> Our team begins the data entry process, adhering to quality standards and accuracy.
+                        </p>
+                        <p class="services-details-desc"><b>Quality Assurance:</b> We perform rigorous quality checks to ensure the accuracy and integrity of the data entered.
+                        </p>
+                        <p class="services-details-desc"><b>Delivery:</b> Provide the completed data in your desired format and offer ongoing support for any adjustments or updates.
+                        </p>
                     </div>
                 </div>
             </div>

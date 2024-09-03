@@ -9,9 +9,9 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="breadcumb-content">
-                        <h4>Accounting Support Services</h4>
-                        <p><b>Streamline Your Finances with Our Expert Accounting Support</b> <br><br>
-                            Managing your business finances can be complex and time-consuming. Our accounting support services provide comprehensive solutions to ensure your financial records are accurate, up-to-date, and compliant, so you can focus on what you do best—running your business.
+                        <h4>Research Services</h4>
+                        <p><b>Uncover Insights and Drive Decisions with Our Comprehensive Research Services</b> <br><br>
+                            In today's data-driven world, informed decisions are key to business success. Our research services provide in-depth insights and valuable data, empowering your business to make strategic decisions with confidence.
                         </p>
                     </div>
                 </div>
@@ -30,49 +30,49 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="services-details-thumb">
-                            <img src="assets/images/services/accounting-support-banner.png" alt="">
+                            <img src="assets/images/services/research-banner.png" alt="">
                         </div>
                         <div class="services-details-content">
-                            <h4 class="services-details-title">Why Choose Our Accounting Support Services?</h4>
+                            <h4 class="services-details-title">Why Choose Our Research Services?</h4>
                         </div>
                         <div class="row">
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Professional Expertise</h4>
-                                        <p>Our team of certified accountants and financial experts bring years of experience to the table. We understand the intricacies of financial management and are equipped to handle all aspects of your accounting needs.</p>
+                                        <h4>Experienced Research Team</h4>
+                                        <p>Our team of research experts has extensive experience across various industries and domains. We bring a wealth of knowledge and a keen understanding of market dynamics to every project.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Tailored Solutions</h4>
-                                        <p>Every business is unique, which is why we offer customized accounting services that are designed to fit your specific needs and objectives. Whether you’re a small startup or a large corporation, we provide the support that suits your business.</p>
+                                        <h4> Data-Driven Approach</h4>
+                                        <p>We rely on robust data collection and analysis methods to ensure our research is accurate and reliable. Our data-driven approach helps you make evidence-based decisions.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Accuracy and Compliance</h4>
-                                        <p>Staying compliant with financial regulations is crucial. Our team ensures that your financial records are accurate and in line with all relevant laws and standards, minimizing risks and avoiding costly penalties.</p>
+                                        <h4>Customized Research Solutions</h4>
+                                        <p>Every business has unique needs, which is why we offer tailored research solutions. Whether you require market research, competitive analysis, or consumer insights, we customize our services to fit your specific requirements.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Cost-Effective Service</h4>
-                                        <p>Outsourcing your accounting needs to us means you save on the costs of hiring and training in-house staff. We offer flexible pricing models to ensure you get the best value for your investment.</p>
+                                        <h4>Comprehensive Reporting</h4>
+                                        <p>Our research services include detailed, easy-to-understand reports that provide actionable insights. We focus on presenting data in a way that helps you make informed decisions quickly.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Confidentiality and Security</h4>
-                                        <p>We take the security of your financial data seriously. Our systems are equipped with the latest security measures to ensure your sensitive information is protected at all times.</p>
+                                        <h4>Confidential and Secure</h4>
+                                        <p>We understand the importance of confidentiality. Our research processes are designed to protect your business information and ensure data security throughout the project.</p>
                                     </div>
                                 </div>
                             </div>
@@ -83,16 +83,21 @@
                             </div>
                             <div class="service-details-text-content">
                                 <p><b>Get Started Today!</b></p>
-                                <p>Ready to simplify your accounting processes and ensure financial accuracy? Contact us today to learn how our accounting support services can benefit your business.</p>
+                                <p>Ready to gain valuable insights and make data-driven decisions? Contact us today to learn more about our research services and how we can help your business thrive.</p>
                             </div>
                         </div>
 
                         <h4 class="services-details-title">How It Works</h4>
-                        <p class="services-details-desc"><b>Initial Consultation:</b> We start with a detailed consultation to understand your order processing needs and business objectives.</p>
-                        <p class="services-details-desc"><b>Customized Plan:</b> We integrate our order processing system with your existing platforms to ensure seamless operations.</p>
-                        <p class="services-details-desc"><b>Implementation:</b> Our team begins handling your order processing tasks, providing efficient and reliable service.</p>
-                        <p class="services-details-desc"><b>Monitoring and Adjustment:</b> We continuously monitor the order processing workflow and make necessary adjustments to improve efficiency.</p>
-                        <p class="services-details-desc"><b>Reporting:</b> Receive regular reports on order processing metrics, including order accuracy, processing times, and customer satisfaction.</p>
+                        <p class="services-details-desc"><b>Consultation:</b>
+                            We start with a consultation to understand your research needs and business objectives.</p>
+                        <p class="services-details-desc"><b>Research Design:</b> Develop a customized research plan outlining the methodology, data sources, and timeline.
+                        </p>
+                        <p class="services-details-desc"><b>Data Collection:</b> Use various data collection methods, including surveys, interviews, and secondary research, to gather relevant information.
+                        </p>
+                        <p class="services-details-desc"><b>Analysis and Optimization:</b> Analyze the collected data using advanced analytical tools and techniques to derive meaningful insights.
+                        </p>
+                        <p class="services-details-desc"><b>Reporting:</b> Present findings in a comprehensive report with actionable recommendations to support your decision-making process.
+                        </p>
                     </div>
                 </div>
             </div>

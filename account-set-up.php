@@ -9,9 +9,9 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="breadcumb-content">
-                        <h4>Accounting Support Services</h4>
-                        <p><b>Streamline Your Finances with Our Expert Accounting Support</b> <br><br>
-                            Managing your business finances can be complex and time-consuming. Our accounting support services provide comprehensive solutions to ensure your financial records are accurate, up-to-date, and compliant, so you can focus on what you do best—running your business.
+                        <h4>Account Set-Up Services</h4>
+                        <p><b> Simplify Your Onboarding with Our Professional Account Set-Up Services</b> <br><br>
+                            Starting a new service or transitioning to a new platform can be challenging. Our account set-up services are designed to streamline the process, ensuring that your business is up and running efficiently with all the necessary configurations in place.
                         </p>
                     </div>
                 </div>
@@ -30,49 +30,49 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="services-details-thumb">
-                            <img src="assets/images/services/accounting-support-banner.png" alt="">
+                            <img src="assets/images/services/acc-setup-banner.png" alt="">
                         </div>
                         <div class="services-details-content">
-                            <h4 class="services-details-title">Why Choose Our Accounting Support Services?</h4>
+                            <h4 class="services-details-title">Why Choose Our Account Set-Up Services?</h4>
                         </div>
                         <div class="row">
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Professional Expertise</h4>
-                                        <p>Our team of certified accountants and financial experts bring years of experience to the table. We understand the intricacies of financial management and are equipped to handle all aspects of your accounting needs.</p>
+                                        <h4>Expertise and Experience</h4>
+                                        <p>Our team has extensive experience in setting up accounts across various platforms and industries. We know the best practices and intricacies involved in configuring accounts to meet your specific business needs.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Tailored Solutions</h4>
-                                        <p>Every business is unique, which is why we offer customized accounting services that are designed to fit your specific needs and objectives. Whether you’re a small startup or a large corporation, we provide the support that suits your business.</p>
+                                        <h4>Time-Saving</h4>
+                                        <p>Setting up accounts can be a time-consuming process. By outsourcing this task to us, you can save valuable time and focus on more critical aspects of your business.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Accuracy and Compliance</h4>
-                                        <p>Staying compliant with financial regulations is crucial. Our team ensures that your financial records are accurate and in line with all relevant laws and standards, minimizing risks and avoiding costly penalties.</p>
+                                        <h4>Error-Free Configuration</h4>
+                                        <p>Incorrect account set-up can lead to operational issues and security risks. Our team ensures that your account is set up correctly from the start, minimizing errors and potential problems.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Cost-Effective Service</h4>
-                                        <p>Outsourcing your accounting needs to us means you save on the costs of hiring and training in-house staff. We offer flexible pricing models to ensure you get the best value for your investment.</p>
+                                        <h4>Customized Solutions</h4>
+                                        <p>We understand that every business is unique. Our account set-up services are tailored to fit your specific requirements, ensuring that your account is configured to support your business goals effectively.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Confidentiality and Security</h4>
-                                        <p>We take the security of your financial data seriously. Our systems are equipped with the latest security measures to ensure your sensitive information is protected at all times.</p>
+                                        <h4>Ongoing Support</h4>
+                                        <p>Our services don’t end with the initial set-up. We provide ongoing support to help you manage and optimize your account settings as your business grows and evolves.</p>
                                     </div>
                                 </div>
                             </div>
@@ -83,16 +83,26 @@
                             </div>
                             <div class="service-details-text-content">
                                 <p><b>Get Started Today!</b></p>
-                                <p>Ready to simplify your accounting processes and ensure financial accuracy? Contact us today to learn how our accounting support services can benefit your business.</p>
+                                <p>Ready to simplify your account set-up and ensure a smooth start? Contact us today to learn more about our account set-up services and how we can support your business.</p>
                             </div>
                         </div>
 
                         <h4 class="services-details-title">How It Works</h4>
-                        <p class="services-details-desc"><b>Initial Consultation:</b> We start with a detailed consultation to understand your order processing needs and business objectives.</p>
-                        <p class="services-details-desc"><b>Customized Plan:</b> We integrate our order processing system with your existing platforms to ensure seamless operations.</p>
-                        <p class="services-details-desc"><b>Implementation:</b> Our team begins handling your order processing tasks, providing efficient and reliable service.</p>
-                        <p class="services-details-desc"><b>Monitoring and Adjustment:</b> We continuously monitor the order processing workflow and make necessary adjustments to improve efficiency.</p>
-                        <p class="services-details-desc"><b>Reporting:</b> Receive regular reports on order processing metrics, including order accuracy, processing times, and customer satisfaction.</p>
+                        <p class="services-details-desc"><b>Consultation:</b>
+                            We begin with a consultation to understand your business requirements and the specific needs for your account set-up.
+                        </p>
+                        <p class="services-details-desc"><b>Planning:</b>
+                            Develop a customized plan that outlines the account set-up process, including timelines and deliverables.
+                        </p>
+                        <p class="services-details-desc"><b>Execution:</b>
+                            Our team sets up and configures your account, ensuring all settings align with your business goals and security requirements.
+                        </p>
+                        <p class="services-details-desc"><b>Training and Support:</b>
+                            Provide training for your team and ongoing support to ensure successful adoption and usage.
+                        </p>
+                        <p class="services-details-desc"><b>Review and Optimization:</b>
+                            Conduct regular reviews to assess account performance and implement optimizations as needed.
+                        </p>
                     </div>
                 </div>
             </div>

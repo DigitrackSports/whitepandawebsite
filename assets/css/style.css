@@ -5407,7 +5407,7 @@ p.services-details-desc {
 .widget-sidber {
     border-radius: 5px;
     background-color: #f7f6ee;
-    padding: 32px 41px 29px;
+    padding: 20px;
     margin-bottom: 27px;
 }
 
@@ -5439,7 +5439,7 @@ p.services-details-desc {
 
 .widget-category ul li a {
     background: #ffff;
-    padding: 14px 26px;
+    padding: 10px;
     width: 100%;
     display: inline-block;
     margin-bottom: 14px;

@@ -131,7 +131,7 @@
                         <p>
                             Streamline your sales with efficient order processing, from handling orders to tracking and customer communication, ensuring satisfaction.
                         </p>
-                        <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
+                        <a href="order-processing">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -148,7 +148,7 @@
                         <p>
                             Facilitate smooth business operations with expert account set-up, including configuration, management, and integration for optimal efficiency.
                         </p>
-                        <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
+                        <a href="account-set-up">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -165,7 +165,7 @@
                         <p>
                             Gain valuable insights with thorough research services, providing data-driven analysis to support informed business decisions and strategies.
                         </p>
-                        <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
+                        <a href="research">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -182,7 +182,7 @@
                         <p>
                             Enhance accuracy and efficiency with meticulous data entry services, ensuring your information is correctly captured and organized.
                         </p>
-                        <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
+                        <a href="data-entry">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -199,7 +199,7 @@
                         <p>
                             Optimize operations with comprehensive back office support, handling administrative tasks and ensuring smooth, efficient business processes.
                         </p>
-                        <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
+                        <a href="back-office">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>

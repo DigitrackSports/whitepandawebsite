@@ -9,9 +9,9 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="breadcumb-content">
-                        <h4>Accounting Support Services</h4>
-                        <p><b>Streamline Your Finances with Our Expert Accounting Support</b> <br><br>
-                            Managing your business finances can be complex and time-consuming. Our accounting support services provide comprehensive solutions to ensure your financial records are accurate, up-to-date, and compliant, so you can focus on what you do best—running your business.
+                        <h4>Back Office Services</h4>
+                        <p><b> Streamline Your Business Operations with Our Comprehensive Back Office Services</b> <br><br>
+                            Effective back-office operations are the backbone of any successful business. Our back-office services are designed to handle your administrative and support tasks efficiently, allowing you to focus on core business functions and growth.
                         </p>
                     </div>
                 </div>
@@ -30,49 +30,49 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="services-details-thumb">
-                            <img src="assets/images/services/accounting-support-banner.png" alt="">
+                            <img src="assets/images/services/back-office-banner.png" alt="">
                         </div>
                         <div class="services-details-content">
-                            <h4 class="services-details-title">Why Choose Our Accounting Support Services?</h4>
+                            <h4 class="services-details-title">Why Choose Our Back Office Services?</h4>
                         </div>
                         <div class="row">
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Professional Expertise</h4>
-                                        <p>Our team of certified accountants and financial experts bring years of experience to the table. We understand the intricacies of financial management and are equipped to handle all aspects of your accounting needs.</p>
+                                        <h4>Expertise Across Industries</h4>
+                                        <p>Our team has extensive experience providing back-office support across various industries. We understand the specific needs and challenges of different business sectors and tailor our services accordingly.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Tailored Solutions</h4>
-                                        <p>Every business is unique, which is why we offer customized accounting services that are designed to fit your specific needs and objectives. Whether you’re a small startup or a large corporation, we provide the support that suits your business.</p>
+                                        <h4>Enhanced Efficiency</h4>
+                                        <p>By outsourcing your back-office tasks to us, you can streamline your operations and enhance overall efficiency. Our dedicated team ensures tasks are completed accurately and on time.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Accuracy and Compliance</h4>
-                                        <p>Staying compliant with financial regulations is crucial. Our team ensures that your financial records are accurate and in line with all relevant laws and standards, minimizing risks and avoiding costly penalties.</p>
+                                        <h4>Cost Savings</h4>
+                                        <p>Reduce overhead costs associated with hiring, training, and managing in-house staff. Our cost-effective back-office solutions allow you to allocate resources more strategically.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Cost-Effective Service</h4>
-                                        <p>Outsourcing your accounting needs to us means you save on the costs of hiring and training in-house staff. We offer flexible pricing models to ensure you get the best value for your investment.</p>
+                                        <h4>Focus on Core Business Activities</h4>
+                                        <p>With our team handling your back-office tasks, you can concentrate on what matters most—growing your business and serving your customers.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Confidentiality and Security</h4>
-                                        <p>We take the security of your financial data seriously. Our systems are equipped with the latest security measures to ensure your sensitive information is protected at all times.</p>
+                                        <h4>Confidentiality and Data Security</h4>
+                                        <p>We prioritize the security of your business information. Our systems and processes are designed to protect sensitive data and ensure compliance with industry regulations.</p>
                                     </div>
                                 </div>
                             </div>
@@ -83,16 +83,26 @@
                             </div>
                             <div class="service-details-text-content">
                                 <p><b>Get Started Today!</b></p>
-                                <p>Ready to simplify your accounting processes and ensure financial accuracy? Contact us today to learn how our accounting support services can benefit your business.</p>
+                                <p>Ready to optimize your business operations with our back-office services? Contact us today to learn more about how we can support your business and help you achieve your goals.</p>
                             </div>
                         </div>
 
                         <h4 class="services-details-title">How It Works</h4>
-                        <p class="services-details-desc"><b>Initial Consultation:</b> We start with a detailed consultation to understand your order processing needs and business objectives.</p>
-                        <p class="services-details-desc"><b>Customized Plan:</b> We integrate our order processing system with your existing platforms to ensure seamless operations.</p>
-                        <p class="services-details-desc"><b>Implementation:</b> Our team begins handling your order processing tasks, providing efficient and reliable service.</p>
-                        <p class="services-details-desc"><b>Monitoring and Adjustment:</b> We continuously monitor the order processing workflow and make necessary adjustments to improve efficiency.</p>
-                        <p class="services-details-desc"><b>Reporting:</b> Receive regular reports on order processing metrics, including order accuracy, processing times, and customer satisfaction.</p>
+                        <p class="services-details-desc"><b>Consultation:</b>
+                            Begin with a consultation to understand your back-office needs and business goals.
+                        </p>
+                        <p class="services-details-desc"><b>Customized Plan:</b>
+                            Develop a tailored plan outlining the specific services and processes to be implemented.
+                        </p>
+                        <p class="services-details-desc"><b>Implementation:</b>
+                            Our team sets up and integrates back-office solutions into your existing workflows.
+                        </p>
+                        <p class="services-details-desc"><b>Ongoing Management:</b>
+                            We manage and optimize back-office tasks, ensuring they are handled efficiently and accurately.
+                        </p>
+                        <p class="services-details-desc"><b>Reporting and Feedback:</b>
+                            Provide regular reports on back-office performance and gather feedback to improve services.
+                        </p>
                     </div>
                 </div>
             </div>
