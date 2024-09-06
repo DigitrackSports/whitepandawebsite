@@ -77,7 +77,7 @@
                         <p>
                             Build tailored applications to meet your unique business needs, enhancing functionality and user experience.
                         </p>
-                        <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
+                        <a href="custom-app-dev">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -94,7 +94,7 @@
                         <p>
                             Create dynamic mobile apps for iOS and Android, delivering seamless performance and user engagement across devices.
                         </p>
-                        <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
+                        <a href="mobile-app-dev">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -111,7 +111,7 @@
                         <p>
                             Develop robust web applications with intuitive interfaces, ensuring reliable performance and accessibility from any browser.
                         </p>
-                        <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
+                        <a href="web-app-dev">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -128,7 +128,7 @@
                         <p>
                             Design engaging user interfaces and experiences, focusing on intuitive navigation and visual appeal for maximum user satisfaction.
                         </p>
-                        <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
+                        <a href="ui-ux">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -145,7 +145,7 @@
                         <p>
                             Tracking app development designs solutions for real-time location monitoring, asset management, and data visualization, optimizing logistics, security, and operational efficiency across various industries.
                         </p>
-                        <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
+                        <a href="tracking-app">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -162,7 +162,7 @@
                         <p>
                             Cloud application development builds scalable, accessible solutions hosted on the cloud, providing seamless integration, data storage, and real-time collaboration, enhancing business flexibility and efficiency.
                         </p>
-                        <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
+                        <a href="cloud-application">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -179,7 +179,7 @@
                         <p>
                             Cross-platform application development creates software that runs seamlessly across multiple operating systems, ensuring consistent user experiences and reducing development costs by sharing codebases.
                         </p>
-                        <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
+                        <a href="cross-platform">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -196,7 +196,7 @@
                         <p>
                             Fitness app development designs engaging tools for workout tracking, goal setting, and health monitoring, motivating users to achieve their fitness goals with personalized features and guidance.
                         </p>
-                        <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
+                        <a href="fitness-app">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>

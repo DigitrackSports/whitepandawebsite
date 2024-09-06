@@ -77,7 +77,7 @@
                         <p>
                             Digital marketing services enhance online presence through SEO, content creation, and social media management, driving traffic, engagement, and conversions with strategic, data-driven campaigns.
                         </p>
-                        <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
+                        <a href="digital-marketing">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -94,7 +94,7 @@
                         <p>
                             Custom software development delivers tailored solutions to meet specific business needs, optimizing workflows and efficiency with bespoke applications designed for unique operational requirements and scalability.
                         </p>
-                        <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
+                        <a href="custom-software-dev">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -111,7 +111,7 @@
                         <p>
                             Remote in-sourcing provides specialized IT services from remote teams, offering cost-effective, flexible solutions while maintaining control over operations and ensuring high-quality service delivery.
                         </p>
-                        <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
+                        <a href="remote-in-source">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
