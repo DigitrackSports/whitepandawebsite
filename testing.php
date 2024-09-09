@@ -9,9 +9,9 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="breadcumb-content">
-                        <h4>Remote In-Sourcing</h4>
-                        <p><b>Leverage Expert Talent with Remote In-Sourcing Services</b> <br><br>
-                            As businesses evolve, the need for flexible, cost-effective, and highly skilled talent grows. Our remote in-sourcing services provide businesses with access to specialized professionals who work as an extension of your in-house team. Whether you need developers, designers, project managers, or customer support, we deliver top-tier talent remotely to help you achieve your business goals without the overhead of traditional hiring.
+                        <h4>QA and Testing </h4>
+                        <p><b>Ensure Quality and Reliability with Comprehensive QA and Testing Services</b> <br><br>
+                            In today's fast-paced digital landscape, delivering flawless software is crucial to maintaining customer satisfaction and business success. Our QA and Testing services are designed to ensure that your applications are reliable, secure, and perform as expected across all platforms. From automated testing to manual verification, we offer a full range of quality assurance solutions that identify and resolve issues before they affect your users.
                         </p>
                     </div>
                 </div>
@@ -30,32 +30,33 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="services-details-thumb">
-                            <img src="assets/images/services/remote-banner.png" alt="">
+                            <img src="assets/images/services/testing-banner.png" alt="" style="background: #000708; padding: 5px">
                         </div>
                         <div class="services-details-content">
-                            <h4 class="services-details-title">Why Choose Our Remote In-Sourcing Services?</h4>
+                            <h4 class="services-details-title">Why Choose Our QA and Testing Services?</h4>
                         </div>
                         <div class="row">
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Access to Global Talent</h4>
-                                        <p>By tapping into a global pool of professionals, you can access top talent from around the world, allowing you to scale your team with experts who have the skills and experience needed for your projects.</p>
+                                        <h4>Comprehensive Testing Solutions</h4>
+                                        <p>We offer a wide range of testing services, including functional, performance, security, and usability testing, ensuring your software is flawless in every aspect.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Cost-Effective Solutions</h4>
-                                        <p>Hiring remote professionals can significantly reduce costs associated with office space, equipment, and full-time salaries. With our remote in-sourcing model, you pay only for the resources and time you need.</p>
+                                        <h4>Expert QA Engineers</h4>
+                                        <p>Our team of experienced QA professionals works closely with your developers to design effective testing strategies that identify issues early and ensure high-quality deliverables.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Seamless Team Integration</h4>
+                                        <h4>Automation for Efficiency</h4>
+                                        <p>We use advanced test automation tools to accelerate the testing process, ensuring quick and efficient releases without compromising quality.</p>
                                         <p>Our remote in-sourcing team works closely with your in-house staff, integrating seamlessly into your existing processes and workflows. We ensure smooth communication and collaboration to enhance productivity.</p>
                                     </div>
                                 </div>
@@ -63,16 +64,16 @@
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Flexible and Scalable Resources</h4>
-                                        <p>Whether you need temporary assistance for a short-term project or ongoing support, our remote in-sourcing services provide you with the flexibility to scale your team up or down as needed.</p>
+                                        <h4>Continuous Testing</h4>
+                                        <p>In Agile and DevOps environments, our continuous testing services provide ongoing quality checks throughout the development lifecycle, allowing you to deliver software updates faster and with confidence.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Dedicated Support and Management</h4>
-                                        <p>We manage the administrative tasks, including recruitment, onboarding, and HR management, allowing you to focus on your core business. Our team also provides continuous support to ensure the success of your remote staff.</p>
+                                        <h4>Flexible Engagement Models</h4>
+                                        <p>Whether you need full-cycle QA services or support for a specific phase of your project, our flexible engagement models allow you to scale testing efforts as needed.</p>
                                     </div>
                                 </div>
                             </div>
@@ -88,21 +89,21 @@
                             </div>
                         </div>
 
-                        <h4 class="services-details-title">Our Remote In-Sourcing Process</h4>
-                        <p class="services-details-desc"><b>Understanding Your Requirements:</b>
-                            We begin by assessing your business needs, team structure, and project goals. Our team works with you to identify the roles, skills, and expertise required for your project.
+                        <h4 class="services-details-title">Tools and Technologies We Use</h4>
+                        <p class="services-details-desc"><b>Automation Tools:</b>
+                            Selenium, Appium, TestComplete
                         </p>
-                        <p class="services-details-desc"><b>Talent Sourcing:</b>
-                            We leverage our global network to find the best-fit professionals for your business. We handle recruitment, screening, and onboarding, ensuring you get top-tier talent that aligns with your requirements.
+                        <p class="services-details-desc"><b>Performance Testing Tools:</b>
+                            JMeter, LoadRunner, BlazeMeter
                         </p>
-                        <p class="services-details-desc"><b>Seamless Integration:</b>
-                            Our remote professionals are fully integrated into your team, using your preferred tools, communication channels, and workflows. We ensure that remote collaboration is smooth and efficient.
+                        <p class="services-details-desc"><b>Security Testing Tools:</b>
+                            OWASP ZAP, Burp Suite, Nessus
                         </p>
-                        <p class="services-details-desc"><b>Ongoing Management and Support:</b>
-                            We provide continuous support, including performance monitoring, HR management, and technical support, to ensure the success of your remote in-sourcing team. You can focus on your core business while we manage the logistics.
+                        <p class="services-details-desc"><b>Bug Tracking Systems:</b>
+                            Jira, Bugzilla, Redmine
                         </p>
-                        <p class="services-details-desc"><b>Performance Optimization:</b>
-                            We regularly review the performance of your remote in-sourced team to ensure they are meeting your business objectives. If adjustments are needed, we work with you to optimize performance and achieve your goals.
+                        <p class="services-details-desc"><b>CI/CD Integration:</b>
+                            Jenkins, CircleCI, Bamboo
                         </p>
                     </div>
                 </div>

@@ -129,7 +129,7 @@
                         <p>
                             QA and testing services ensure software reliability by identifying defects, verifying performance, and validating functionality, enhancing product quality and user satisfaction through comprehensive testing strategies.
                         </p>
-                        <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
+                        <a href="testing">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -146,7 +146,7 @@
                         <p>
                             Custom theme development creates unique, tailored designs for websites and applications, ensuring brand consistency and optimized user experience with bespoke visual elements and functionality.
                         </p>
-                        <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
+                        <a href="custom-theme">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -163,7 +163,7 @@
                         <p>
                             Graphics design services craft visually appealing content, including logos, marketing materials, and web elements, enhancing brand identity and engaging audiences through creative, professional design solutions.
                         </p>
-                        <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
+                        <a href="graphics-design">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -180,7 +180,7 @@
                         <p>
                             Technical support services provide expert assistance for IT issues, offering troubleshooting, maintenance, and problem resolution to ensure smooth operations and minimize downtime for businesses.
                         </p>
-                        <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
+                        <a href="technical-support">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -197,7 +197,7 @@
                         <p>
                             Search Engine Optimization (SEO) improves website visibility by optimizing content and structure, driving organic traffic, and enhancing search rankings to boost online presence and engagement.
                         </p>
-                        <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
+                        <a href="seo">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>

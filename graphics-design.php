@@ -9,9 +9,9 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="breadcumb-content">
-                        <h4>Remote In-Sourcing</h4>
-                        <p><b>Leverage Expert Talent with Remote In-Sourcing Services</b> <br><br>
-                            As businesses evolve, the need for flexible, cost-effective, and highly skilled talent grows. Our remote in-sourcing services provide businesses with access to specialized professionals who work as an extension of your in-house team. Whether you need developers, designers, project managers, or customer support, we deliver top-tier talent remotely to help you achieve your business goals without the overhead of traditional hiring.
+                        <h4>Graphics Design</h4>
+                        <p><b>Transform Your Brand with Stunning Graphics Design Services</b> <br><br>
+                            Visual communication is the heart of modern branding, and at WhitePanda, we specialize in bringing your ideas to life through compelling, professional graphics design. From logos and branding to digital marketing materials and web design, our Graphics Design Services ensure that your brand stands out in a crowded marketplace. Whether you need engaging social media graphics, eye-catching brochures, or a complete rebranding, our team of talented designers is here to deliver creative solutions that drive results.
                         </p>
                     </div>
                 </div>
@@ -30,49 +30,49 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="services-details-thumb">
-                            <img src="assets/images/services/remote-banner.png" alt="">
+                            <img src="assets/images/services/graphics-design-banner.png" alt="">
                         </div>
                         <div class="services-details-content">
-                            <h4 class="services-details-title">Why Choose Our Remote In-Sourcing Services?</h4>
+                            <h4 class="services-details-title">Why Choose Our Graphics Design Services?</h4>
                         </div>
                         <div class="row">
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Access to Global Talent</h4>
-                                        <p>By tapping into a global pool of professionals, you can access top talent from around the world, allowing you to scale your team with experts who have the skills and experience needed for your projects.</p>
+                                        <h4>Custom Designs Tailored to Your Brand</h4>
+                                        <p>We create unique and tailored designs that reflect your brand’s personality, helping you build a consistent and memorable identity.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Cost-Effective Solutions</h4>
-                                        <p>Hiring remote professionals can significantly reduce costs associated with office space, equipment, and full-time salaries. With our remote in-sourcing model, you pay only for the resources and time you need.</p>
+                                        <h4>Experienced Design Team</h4>
+                                        <p>Our team consists of highly skilled designers with years of experience in multiple industries, ensuring that your designs are visually striking and effective.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Seamless Team Integration</h4>
-                                        <p>Our remote in-sourcing team works closely with your in-house staff, integrating seamlessly into your existing processes and workflows. We ensure smooth communication and collaboration to enhance productivity.</p>
+                                        <h4> Versatility Across All Media</h4>
+                                        <p>We create designs that work seamlessly across various platforms, including print, digital, social media, and more, ensuring your message reaches your audience wherever they are.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Flexible and Scalable Resources</h4>
-                                        <p>Whether you need temporary assistance for a short-term project or ongoing support, our remote in-sourcing services provide you with the flexibility to scale your team up or down as needed.</p>
+                                        <h4>Fast Turnaround</h4>
+                                        <p>Our efficient design process allows us to deliver high-quality designs quickly without compromising on creativity or detail, helping you meet your deadlines.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Dedicated Support and Management</h4>
-                                        <p>We manage the administrative tasks, including recruitment, onboarding, and HR management, allowing you to focus on your core business. Our team also provides continuous support to ensure the success of your remote staff.</p>
+                                        <h4>Affordable Pricing</h4>
+                                        <p>We offer flexible pricing packages to meet your budget, whether you need a one-time design project or ongoing design support for your business.</p>
                                     </div>
                                 </div>
                             </div>
@@ -83,27 +83,28 @@
                                 <img src="assets/images/service-inner/services-details-text-icon.png" alt="">
                             </div>
                             <div class="service-details-text-content">
-                                <p><b>Get Started with Remote In-Sourcing Today!</b></p>
-                                <p>Are you ready to scale your team with highly skilled remote professionals? Our remote in-sourcing services provide the flexibility, cost savings, and expertise you need to succeed. Contact us today to learn how we can help you build a strong remote team that drives results.</p>
+                                <p><b>Get Started Today!</b></p>
+                                <p>Ready to bring your brand to life with stunning custom designs? Whether you need a logo, marketing materials, or a complete rebranding, our team of professional designers is here to help. Contact us today to discuss your project and see how we can elevate your brand.</p>
                             </div>
                         </div>
 
-                        <h4 class="services-details-title">Our Remote In-Sourcing Process</h4>
-                        <p class="services-details-desc"><b>Understanding Your Requirements:</b>
-                            We begin by assessing your business needs, team structure, and project goals. Our team works with you to identify the roles, skills, and expertise required for your project.
+                        <h4 class="services-details-title">Why Invest in Professional Graphic Design?</h4>
+                        <p class="services-details-desc"><b>Builds Brand Recognition:</b>
+                            High-quality, consistent design helps your brand become easily recognizable, which builds trust and loyalty with your audience.
                         </p>
-                        <p class="services-details-desc"><b>Talent Sourcing:</b>
-                            We leverage our global network to find the best-fit professionals for your business. We handle recruitment, screening, and onboarding, ensuring you get top-tier talent that aligns with your requirements.
+                        <p class="services-details-desc"><b>Enhances User Experience:</b>
+                            Thoughtful design improves how users interact with your products and services, leading to higher satisfaction and retention.
                         </p>
-                        <p class="services-details-desc"><b>Seamless Integration:</b>
-                            Our remote professionals are fully integrated into your team, using your preferred tools, communication channels, and workflows. We ensure that remote collaboration is smooth and efficient.
+                        <p class="services-details-desc"><b>Boosts Marketing ROI:</b>
+                            Engaging visuals capture attention and make your marketing campaigns more effective, resulting in better ROI.
                         </p>
-                        <p class="services-details-desc"><b>Ongoing Management and Support:</b>
-                            We provide continuous support, including performance monitoring, HR management, and technical support, to ensure the success of your remote in-sourcing team. You can focus on your core business while we manage the logistics.
+                        <p class="services-details-desc"><b>Communicates Your Message Clearly:</b>
+                            Great design communicates your brand’s values, mission, and offerings more effectively than words alone.
                         </p>
-                        <p class="services-details-desc"><b>Performance Optimization:</b>
-                            We regularly review the performance of your remote in-sourced team to ensure they are meeting your business objectives. If adjustments are needed, we work with you to optimize performance and achieve your goals.
+                        <p class="services-details-desc"><b>Sets You Apart from Competitors:</b>
+                            In a crowded marketplace, custom graphic design helps your brand stand out from the competition and makes a lasting impression.
                         </p>
+
                     </div>
                 </div>
             </div>

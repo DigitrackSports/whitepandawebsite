@@ -77,7 +77,7 @@
                         <p>
                             Vulnerability assessment identifies and evaluates security weaknesses in systems, helping organizations address potential threats and enhance defenses to protect against cyber attacks and data breaches.
                         </p>
-                        <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
+                        <a href="vulnerability-assessments">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>

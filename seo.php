@@ -9,9 +9,9 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="breadcumb-content">
-                        <h4>Remote In-Sourcing</h4>
-                        <p><b>Leverage Expert Talent with Remote In-Sourcing Services</b> <br><br>
-                            As businesses evolve, the need for flexible, cost-effective, and highly skilled talent grows. Our remote in-sourcing services provide businesses with access to specialized professionals who work as an extension of your in-house team. Whether you need developers, designers, project managers, or customer support, we deliver top-tier talent remotely to help you achieve your business goals without the overhead of traditional hiring.
+                        <h4>Search Engine Optimization</h4>
+                        <p><b>Maximize Your Online Visibility with Professional SEO Services</b> <br><br>
+                            In today's digital landscape, visibility is everything. With billions of searches conducted on search engines daily, ranking high in search results is crucial to driving traffic, increasing brand awareness, and growing your business. At WhitePanda, we provide <b>Search Engine Optimization (SEO)</b> services designed to improve your website’s search engine rankings, attract targeted traffic, and enhance your online presence. Our team of SEO experts uses proven strategies and the latest techniques to help your website perform better in organic search results.
                         </p>
                     </div>
                 </div>
@@ -30,49 +30,49 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="services-details-thumb">
-                            <img src="assets/images/services/remote-banner.png" alt="">
+                            <img src="assets/images/services/seo-banner.png" alt="">
                         </div>
                         <div class="services-details-content">
-                            <h4 class="services-details-title">Why Choose Our Remote In-Sourcing Services?</h4>
+                            <h4 class="services-details-title">Why Choose Our SEO Services?</h4>
                         </div>
                         <div class="row">
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Access to Global Talent</h4>
-                                        <p>By tapping into a global pool of professionals, you can access top talent from around the world, allowing you to scale your team with experts who have the skills and experience needed for your projects.</p>
+                                        <h4>Customized SEO Strategies</h4>
+                                        <p>We understand that every business is unique, which is why we develop tailored SEO strategies based on your industry, audience, and goals to ensure optimal results.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Cost-Effective Solutions</h4>
-                                        <p>Hiring remote professionals can significantly reduce costs associated with office space, equipment, and full-time salaries. With our remote in-sourcing model, you pay only for the resources and time you need.</p>
+                                        <h4>Data-Driven Approach</h4>
+                                        <p>Our SEO services are grounded in detailed analysis, keyword research, and performance tracking to ensure that every action we take is based on real data.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Seamless Team Integration</h4>
-                                        <p>Our remote in-sourcing team works closely with your in-house staff, integrating seamlessly into your existing processes and workflows. We ensure smooth communication and collaboration to enhance productivity.</p>
+                                        <h4>White-Hat SEO Practices</h4>
+                                        <p>We adhere strictly to ethical, white-hat SEO practices that align with search engine guidelines, ensuring long-term results without risking penalties.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Flexible and Scalable Resources</h4>
-                                        <p>Whether you need temporary assistance for a short-term project or ongoing support, our remote in-sourcing services provide you with the flexibility to scale your team up or down as needed.</p>
+                                        <h4>Comprehensive SEO Solutions</h4>
+                                        <p>From on-page optimization and technical SEO to link building and content marketing, we offer a complete range of services to cover every aspect of search engine optimization.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Dedicated Support and Management</h4>
-                                        <p>We manage the administrative tasks, including recruitment, onboarding, and HR management, allowing you to focus on your core business. Our team also provides continuous support to ensure the success of your remote staff.</p>
+                                        <h4>Measurable Results</h4>
+                                        <p>We provide transparent reporting and in-depth analytics, so you can track your SEO performance and understand the impact on your business growth.</p>
                                     </div>
                                 </div>
                             </div>
@@ -83,26 +83,27 @@
                                 <img src="assets/images/service-inner/services-details-text-icon.png" alt="">
                             </div>
                             <div class="service-details-text-content">
-                                <p><b>Get Started with Remote In-Sourcing Today!</b></p>
-                                <p>Are you ready to scale your team with highly skilled remote professionals? Our remote in-sourcing services provide the flexibility, cost savings, and expertise you need to succeed. Contact us today to learn how we can help you build a strong remote team that drives results.</p>
+                                <p><b>Get Started Today!</b></p>
+                                <p>Ready to take your website’s performance to the next level? Our SEO experts are here to help you achieve higher rankings, increase organic traffic, and grow your business online. Contact us today to learn</p>
                             </div>
                         </div>
 
-                        <h4 class="services-details-title">Our Remote In-Sourcing Process</h4>
-                        <p class="services-details-desc"><b>Understanding Your Requirements:</b>
-                            We begin by assessing your business needs, team structure, and project goals. Our team works with you to identify the roles, skills, and expertise required for your project.
+                        <h4 class="services-details-title">Benefits of SEO for Your Business</h4>
+
+                        <p class="services-details-desc"><b>Increased Organic Traffic:</b>
+                            Improve your website’s visibility in search results, attracting more visitors without the need for paid advertising.
                         </p>
-                        <p class="services-details-desc"><b>Talent Sourcing:</b>
-                            We leverage our global network to find the best-fit professionals for your business. We handle recruitment, screening, and onboarding, ensuring you get top-tier talent that aligns with your requirements.
+                        <p class="services-details-desc"><b>Better User Experience:</b>
+                            SEO optimizations improve website usability, loading speed, and mobile-friendliness, providing a better experience for your visitors.
                         </p>
-                        <p class="services-details-desc"><b>Seamless Integration:</b>
-                            Our remote professionals are fully integrated into your team, using your preferred tools, communication channels, and workflows. We ensure that remote collaboration is smooth and efficient.
+                        <p class="services-details-desc"><b>Higher ROI:</b>
+                            Compared to paid advertising, SEO delivers long-term results with a higher return on investment as your rankings improve.
                         </p>
-                        <p class="services-details-desc"><b>Ongoing Management and Support:</b>
-                            We provide continuous support, including performance monitoring, HR management, and technical support, to ensure the success of your remote in-sourcing team. You can focus on your core business while we manage the logistics.
+                        <p class="services-details-desc"><b>Brand Authority:</b>
+                            Ranking higher in search results establishes your brand as a trusted authority in your industry.
                         </p>
-                        <p class="services-details-desc"><b>Performance Optimization:</b>
-                            We regularly review the performance of your remote in-sourced team to ensure they are meeting your business objectives. If adjustments are needed, we work with you to optimize performance and achieve your goals.
+                        <p class="services-details-desc"><b>Targeted Traffic:</b>
+                            SEO drives targeted traffic, ensuring that visitors who come to your site are more likely to convert into customers.
                         </p>
                     </div>
                 </div>

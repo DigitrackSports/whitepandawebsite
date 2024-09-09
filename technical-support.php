@@ -9,9 +9,9 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="breadcumb-content">
-                        <h4>Remote In-Sourcing</h4>
-                        <p><b>Leverage Expert Talent with Remote In-Sourcing Services</b> <br><br>
-                            As businesses evolve, the need for flexible, cost-effective, and highly skilled talent grows. Our remote in-sourcing services provide businesses with access to specialized professionals who work as an extension of your in-house team. Whether you need developers, designers, project managers, or customer support, we deliver top-tier talent remotely to help you achieve your business goals without the overhead of traditional hiring.
+                        <h4>Technical Support Services</h4>
+                        <p><b>Reliable Technical Support Services to Keep Your Business Running Smoothly</b> <br><br>
+                            In today's fast-paced, technology-driven world, maintaining seamless and efficient IT systems is critical for business success. At WhitePanda, we offer Technical Support Services designed to resolve your technical issues quickly and efficiently, minimizing downtime and ensuring that your operations run smoothly. Whether you're a small business needing help desk support or an enterprise requiring advanced technical troubleshooting, our team of skilled IT professionals is here to provide comprehensive solutions that meet your unique needs.
                         </p>
                     </div>
                 </div>
@@ -30,49 +30,49 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="services-details-thumb">
-                            <img src="assets/images/services/remote-banner.png" alt="">
+                            <img src="assets/images/services/tech-support-banner.jpg" alt="">
                         </div>
                         <div class="services-details-content">
-                            <h4 class="services-details-title">Why Choose Our Remote In-Sourcing Services?</h4>
+                            <h4 class="services-details-title">Why Choose Our Technical Support Services?</h4>
                         </div>
                         <div class="row">
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Access to Global Talent</h4>
-                                        <p>By tapping into a global pool of professionals, you can access top talent from around the world, allowing you to scale your team with experts who have the skills and experience needed for your projects.</p>
+                                        <h4>24/7 Availability</h4>
+                                        <p>We understand that technical issues can arise at any time, which is why our support team is available around the clock to assist you, ensuring minimal disruption to your business operations.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Cost-Effective Solutions</h4>
-                                        <p>Hiring remote professionals can significantly reduce costs associated with office space, equipment, and full-time salaries. With our remote in-sourcing model, you pay only for the resources and time you need.</p>
+                                        <h4>Experienced IT Professionals</h4>
+                                        <p>Our team consists of certified IT experts with extensive experience in managing and resolving complex technical problems across multiple platforms and environments.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Seamless Team Integration</h4>
-                                        <p>Our remote in-sourcing team works closely with your in-house staff, integrating seamlessly into your existing processes and workflows. We ensure smooth communication and collaboration to enhance productivity.</p>
+                                        <h4>Fast Response Times</h4>
+                                        <p>We provide quick response times to resolve issues promptly, helping you minimize downtime and keep your business running smoothly.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Flexible and Scalable Resources</h4>
-                                        <p>Whether you need temporary assistance for a short-term project or ongoing support, our remote in-sourcing services provide you with the flexibility to scale your team up or down as needed.</p>
+                                        <h4> Customized Support Plans</h4>
+                                        <p>We offer flexible support plans tailored to your specific business needs, whether you require occasional troubleshooting or ongoing, proactive IT management.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6">
                                 <div class="service-details-icon-box">
                                     <div class="service-details-box-content">
-                                        <h4>Dedicated Support and Management</h4>
-                                        <p>We manage the administrative tasks, including recruitment, onboarding, and HR management, allowing you to focus on your core business. Our team also provides continuous support to ensure the success of your remote staff.</p>
+                                        <h4>Multi-Platform Expertise</h4>
+                                        <p>Our technical support covers a wide range of platforms, including Windows, macOS, Linux, cloud environments, and mobile devices, ensuring that all your systems are supported.</p>
                                     </div>
                                 </div>
                             </div>
@@ -83,27 +83,28 @@
                                 <img src="assets/images/service-inner/services-details-text-icon.png" alt="">
                             </div>
                             <div class="service-details-text-content">
-                                <p><b>Get Started with Remote In-Sourcing Today!</b></p>
-                                <p>Are you ready to scale your team with highly skilled remote professionals? Our remote in-sourcing services provide the flexibility, cost savings, and expertise you need to succeed. Contact us today to learn how we can help you build a strong remote team that drives results.</p>
+                                <p><b>Get Started Today!</b></p>
+                                <p>Ready to improve your IT infrastructure and ensure your business runs without disruption? Our technical support team is here to provide you with comprehensive, reliable solutions to meet your unique needs. Contact us today to learn more about our services and find out how we can support your business.</p>
                             </div>
                         </div>
 
-                        <h4 class="services-details-title">Our Remote In-Sourcing Process</h4>
-                        <p class="services-details-desc"><b>Understanding Your Requirements:</b>
-                            We begin by assessing your business needs, team structure, and project goals. Our team works with you to identify the roles, skills, and expertise required for your project.
+                        <h4 class="services-details-title">Benefits of Our Technical Support Services</h4>
+                        <p class="services-details-desc"><b>Increased Productivity:</b>
+                            With quick resolutions to technical issues, your team can focus on what they do best without worrying about IT problems.
                         </p>
-                        <p class="services-details-desc"><b>Talent Sourcing:</b>
-                            We leverage our global network to find the best-fit professionals for your business. We handle recruitment, screening, and onboarding, ensuring you get top-tier talent that aligns with your requirements.
+                        <p class="services-details-desc"><b>Reduced Downtime:</b>
+                            Our proactive monitoring and fast response times help minimize system downtime, keeping your business operations running smoothly.
                         </p>
-                        <p class="services-details-desc"><b>Seamless Integration:</b>
-                            Our remote professionals are fully integrated into your team, using your preferred tools, communication channels, and workflows. We ensure that remote collaboration is smooth and efficient.
+                        <p class="services-details-desc"><b>Cost-Effective Solutions:</b>
+                            We offer flexible, scalable support plans that suit your budget, allowing you to save on in-house IT costs.
                         </p>
-                        <p class="services-details-desc"><b>Ongoing Management and Support:</b>
-                            We provide continuous support, including performance monitoring, HR management, and technical support, to ensure the success of your remote in-sourcing team. You can focus on your core business while we manage the logistics.
+                        <p class="services-details-desc"><b>Expert Guidance:</b>
+                            Our experienced IT professionals provide expert guidance and recommendations to help you improve and optimize your IT infrastructure.
                         </p>
-                        <p class="services-details-desc"><b>Performance Optimization:</b>
-                            We regularly review the performance of your remote in-sourced team to ensure they are meeting your business objectives. If adjustments are needed, we work with you to optimize performance and achieve your goals.
+                        <p class="services-details-desc"><b>Enhanced Security:</b>
+                            With our advanced security solutions, you can protect your systems from cyber threats and ensure compliance with industry standards.
                         </p>
+
                     </div>
                 </div>
             </div>
