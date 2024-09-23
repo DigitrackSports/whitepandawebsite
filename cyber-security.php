@@ -94,7 +94,7 @@
                         <p>
                             Social engineering testing assesses susceptibility to manipulation through phishing, pretexting, and other tactics, helping organizations strengthen defenses and train employees to recognize and prevent such attacks.
                         </p>
-                        <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
+                        <a href="social">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -111,7 +111,7 @@
                         <p>
                             Security posture assessment evaluates an organization’s overall security framework, identifying strengths and vulnerabilities, and providing actionable insights to enhance defenses and mitigate potential risks.
                         </p>
-                        <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
+                        <a href="spa">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -128,7 +128,7 @@
                         <p>
                             Penetration testing simulates cyber attacks to uncover vulnerabilities, assessing system defenses and providing critical insights to strengthen security and safeguard against potential breaches.
                         </p>
-                        <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
+                        <a href="penetration-testing">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -145,7 +145,7 @@
                         <p>
                             Compliance and framework auditing ensures adherence to security standards and regulations, identifying gaps and verifying practices to protect data and maintain regulatory compliance effectively.
                         </p>
-                        <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
+                        <a href="compliance">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -162,7 +162,7 @@
                         <p>
                             Cybersecurity training educates employees on threat recognition, safe practices, and response strategies, empowering them to protect against cyber threats and strengthen organizational security.
                         </p>
-                        <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
+                        <a href="cyber-security-training">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -179,7 +179,7 @@
                         <p>
                             Incident response provides a structured approach to managing and mitigating cyber incidents, minimizing damage, and restoring normal operations quickly through effective detection and response strategies.
                         </p>
-                        <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
+                        <a href="incident-response">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -196,7 +196,7 @@
                         <p>
                             CISOaaS (Chief Information Security Officer as a Service) delivers expert cybersecurity leadership and strategy on-demand, enhancing security posture and risk management without full-time CISO overhead.
                         </p>
-                        <!-- <a href="service.html">Read More<i class="bi bi-arrow-right"></i></a> -->
+                        <a href="cisoaas">Read More<i class="bi bi-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
