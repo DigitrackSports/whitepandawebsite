@@ -983,8 +983,8 @@
                         </div>
                         <div class="portfolio-content">
                             <h4>Web App</h4>
-                            <a href="javascript:void(0)">Track My Tournament</a>
-                            <a class="button" href="javascript:void(0)"><i class="bi bi-arrow-right"></i></a>
+                            <a href="https://www.trackmytournament.com/" target="_blank">Track My Tournament</a>
+                            <a class="button" href="https://www.trackmytournament.com/" target="_blank"><i class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -995,8 +995,8 @@
                         </div>
                         <div class="portfolio-content">
                             <h4>Web App</h4>
-                            <a href="javascript:void(0)">Track My Academy</a>
-                            <a class="button" href="javascript:void(0)"><i class="bi bi-arrow-right"></i></a>
+                            <a href="https://trackmyacademy.co/" target="_blank">Track My Academy</a>
+                            <a class="button" href="https://trackmyacademy.co/" target="_blank"><i class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -1007,20 +1007,56 @@
                         </div>
                         <div class="portfolio-content">
                             <h4>Website Development</h4>
-                            <a href="javascript:void(0)">Chattkore </a>
-                            <a class="button" href="javascript:void(0)"><i class="bi bi-arrow-right"></i></a>
+                            <a href="https://chattkore.com.au/" target="_blank">Chattkore </a>
+                            <a class="button" href="https://chattkore.com.au/" target="_blank"><i class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-12">
                     <div class="single-portfolio-box">
                         <div class="portfolio-thumb">
-                            <img src="assets/images/projects/ecs.png" alt="" />
+                            <img src="assets/images/projects/royal.png" alt="" />
                         </div>
                         <div class="portfolio-content">
                             <h4>Website Development</h4>
-                            <a href="javascript:void(0)">ECS</a>
-                            <a class="button" href="javascript:void(0)"><i class="bi bi-arrow-right"></i></a>
+                            <a href="https://royalindianpakistani.com.au/" target="_blank">Royal India & Pakistani....</a>
+                            <a class="button" href="https://royalindianpakistani.com.au/" target="_blank"><i class="bi bi-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-12">
+                    <div class="single-portfolio-box">
+                        <div class="portfolio-thumb">
+                            <img src="assets/images/projects/snigmay.png" alt="" />
+                        </div>
+                        <div class="portfolio-content">
+                            <h4>Website Development</h4>
+                            <a href="https://www.snigmaypunefc.com/" target="_blank">Snigmay Football Club</a>
+                            <a class="button" href="https://www.snigmaypunefc.com/" target="_blank"><i class="bi bi-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-12">
+                    <div class="single-portfolio-box">
+                        <div class="portfolio-thumb">
+                            <img src="assets/images/projects/pune-football.png" alt="pdfa" />
+                        </div>
+                        <div class="portfolio-content">
+                            <h4>Web App Development</h4>
+                            <a href="https://pdfa.co.in/" target="_blank">Pune District Football Association</a>
+                            <a class="button" href="https://pdfa.co.in/" target="_blank"><i class="bi bi-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-12">
+                    <div class="single-portfolio-box">
+                        <div class="portfolio-thumb">
+                            <img src="assets/images/projects/palghar-football.png" alt="pdfa" />
+                        </div>
+                        <div class="portfolio-content">
+                            <h4>Web App Development</h4>
+                            <a href="https://pdfapalghar.com/" target="_blank">Palghar District Football Association</a>
+                            <a class="button" href="https://pdfapalghar.com/" target="_blank"><i class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
