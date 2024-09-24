@@ -84,7 +84,7 @@
                             </div>
                             <div class="service-details-text-content">
                                 <p><b>Get Started Today!</b></p>
-                                <p>Stay one step ahead of cybercriminals with [Your Company]’s comprehensive Penetration Testing Services. Contact us today to schedule a consultation and take the first step in identifying and eliminating vulnerabilities in your security infrastructure.</p>
+                                <p>Stay one step ahead of cybercriminals with WhitePanda’s comprehensive Penetration Testing Services. Contact us today to schedule a consultation and take the first step in identifying and eliminating vulnerabilities in your security infrastructure.</p>
                             </div>
                         </div>
 

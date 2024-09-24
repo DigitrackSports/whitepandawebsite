@@ -11,7 +11,7 @@
                     <div class="breadcumb-content">
                         <h4>Cybersecurity Training</h4>
                         <p><b>Empower Your Team to Protect Your Organization with Expert Cybersecurity Training</b> <br><br>
-                            In today’s digital-first world, cyber threats are more prevalent and sophisticated than ever. Cybersecurity isn’t just about technology — it’s about people. Your team is often the first line of defense against cyberattacks. Without proper training, human errors can expose your organization to significant security risks, including data breaches, phishing attacks, and malware infiltration. At [Your Company], our Cybersecurity Training Services are designed to empower your workforce with the knowledge and skills to identify and mitigate cyber threats.
+                            In today’s digital-first world, cyber threats are more prevalent and sophisticated than ever. Cybersecurity isn’t just about technology — it’s about people. Your team is often the first line of defense against cyberattacks. Without proper training, human errors can expose your organization to significant security risks, including data breaches, phishing attacks, and malware infiltration. At WhitePanda, our Cybersecurity Training Services are designed to empower your workforce with the knowledge and skills to identify and mitigate cyber threats.
                         </p>
                     </div>
                 </div>

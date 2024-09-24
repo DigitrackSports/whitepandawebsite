@@ -11,7 +11,7 @@
                     <div class="breadcumb-content">
                         <h4>Security Posture Assessment</h4>
                         <p><b>Strengthen Your Cybersecurity with a Comprehensive Security Posture Assessment</b> <br><br>
-                            In today's rapidly evolving digital landscape, the frequency and sophistication of cyber threats continue to rise. To ensure your organization remains resilient, understanding your current cybersecurity posture is essential. A Security Posture Assessment (SPA) offers a detailed evaluation of your organization's security frameworks, identifying vulnerabilities, gaps, and areas for improvement. At [Your Company], our expert-led assessments give you actionable insights to fortify your defenses and align your security practices with industry best standards.
+                            In today's rapidly evolving digital landscape, the frequency and sophistication of cyber threats continue to rise. To ensure your organization remains resilient, understanding your current cybersecurity posture is essential. A Security Posture Assessment (SPA) offers a detailed evaluation of your organization's security frameworks, identifying vulnerabilities, gaps, and areas for improvement. At WhitePanda, our expert-led assessments give you actionable insights to fortify your defenses and align your security practices with industry best standards.
                         </p>
                     </div>
                 </div>

@@ -11,7 +11,7 @@
                     <div class="breadcumb-content">
                         <h4>Social Engineering Testing</h4>
                         <p><b>Safeguard Your Business from Insider Threats with Social Engineering Testing</b> <br><br>
-                            In the realm of cybersecurity, one of the most overlooked yet dangerous threats is human error. Social engineering attacks exploit human psychology rather than technical vulnerabilities, tricking employees into divulging sensitive information, clicking malicious links, or granting unauthorized access to systems. At [Your Company], we offer Social Engineering Testing Services designed to assess how vulnerable your organization is to these types of attacks and to strengthen your human firewall.
+                            In the realm of cybersecurity, one of the most overlooked yet dangerous threats is human error. Social engineering attacks exploit human psychology rather than technical vulnerabilities, tricking employees into divulging sensitive information, clicking malicious links, or granting unauthorized access to systems. At WhitePanda, we offer Social Engineering Testing Services designed to assess how vulnerable your organization is to these types of attacks and to strengthen your human firewall.
                         </p>
                     </div>
                 </div>

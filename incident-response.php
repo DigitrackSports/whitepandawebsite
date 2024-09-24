@@ -11,7 +11,7 @@
                     <div class="breadcumb-content">
                         <h4>Incident Response Services</h4>
                         <p><b>Stay Ahead of Cyber Threats with Comprehensive Incident Response Services</b> <br><br>
-                            In today’s rapidly evolving digital landscape, no organization is immune to cyberattacks. Whether it’s a data breach, ransomware attack, or insider threat, your business must be prepared to respond swiftly and effectively. At [Your Company], we offer Incident Response Services that provide immediate support to help mitigate and recover from cybersecurity incidents. With a well-structured incident response plan in place, you can minimize the damage, recover faster, and prevent future threats.
+                            In today’s rapidly evolving digital landscape, no organization is immune to cyberattacks. Whether it’s a data breach, ransomware attack, or insider threat, your business must be prepared to respond swiftly and effectively. At WhitePanda, we offer Incident Response Services that provide immediate support to help mitigate and recover from cybersecurity incidents. With a well-structured incident response plan in place, you can minimize the damage, recover faster, and prevent future threats.
                         </p>
                     </div>
                 </div>
@@ -85,7 +85,7 @@
                             </div>
                             <div class="service-details-text-content">
                                 <p><b>Get Started Today!</b></p>
-                                <p>If your organization is facing a cybersecurity threat, don’t wait—act fast. Our expert team is ready to provide the support you need to contain and resolve incidents before they escalate. Contact [Your Company] today to learn more about our Incident Response Services and how we can help safeguard your business.</p>
+                                <p>If your organization is facing a cybersecurity threat, don’t wait—act fast. Our expert team is ready to provide the support you need to contain and resolve incidents before they escalate. Contact WhitePanda today to learn more about our Incident Response Services and how we can help safeguard your business.</p>
                             </div>
                         </div>
 

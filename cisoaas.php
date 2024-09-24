@@ -103,7 +103,7 @@
                             </div>
                             <div class="service-details-text-content">
                                 <p><b>Get Started Today!</b></p>
-                                <p>If you’re ready to strengthen your organization’s cybersecurity posture with expert leadership, contact [Your Company] today to learn more about our CISOaaS services. Let our team of cybersecurity professionals help you safeguard your business from evolving threats and ensure compliance with industry regulations.</p>
+                                <p>If you’re ready to strengthen your organization’s cybersecurity posture with expert leadership, contact WhitePanda today to learn more about our CISOaaS services. Let our team of cybersecurity professionals help you safeguard your business from evolving threats and ensure compliance with industry regulations.</p>
                             </div>
                         </div>
 
