@@ -1,5 +1,14 @@
 <!-- Header started here -->
-<?php include('include/header.php'); ?>
+<?php
+// Define meta tag values for this specific page
+$metaTitle = "Custom Software Development - WhitePanda | Tailored Solutions in Sydney, Australia";
+$metaDescription = "WhitePanda specializes in Custom Software Development in Sydney, Australia, delivering tailored software solutions that meet specific business needs and drive efficiency.";
+$metaKeywords = "WhitePanda, custom software development, tailored solutions, software engineering, IT services, business efficiency, Sydney, Australia";
+
+// common header
+include('include/header.php');
+?>
+
 <?php include('include/navbar.php'); ?>
 <!-- Header ended here -->
 <!-- Start Toptech Breadcumb Area -->

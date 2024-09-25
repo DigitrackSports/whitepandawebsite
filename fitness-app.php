@@ -1,5 +1,14 @@
 <!-- Header started here -->
-<?php include('include/header.php'); ?>
+<?php
+// Define meta tag values for this specific page
+$metaTitle = "Fitness App Development - WhitePanda | Innovative Solutions in Sydney, Australia";
+$metaDescription = "WhitePanda offers specialized Fitness App Development services in Sydney, Australia, creating engaging and user-friendly apps to help users achieve their health and fitness goals.";
+$metaKeywords = "WhitePanda, fitness app development, health app, mobile applications, wellness solutions, user engagement, Sydney, Australia";
+
+// common header
+include('include/header.php');
+?>
+
 <?php include('include/navbar.php'); ?>
 <!-- Header ended here -->
 <!-- Start Toptech Breadcumb Area -->

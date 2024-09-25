@@ -1,5 +1,14 @@
 <!-- Header started here -->
-<?php include('include/header.php'); ?>
+<?php
+// Define meta tag values for this specific page
+$metaTitle = "Cloud Application Development - WhitePanda | Scalable Solutions in Sydney, Australia";
+$metaDescription = "WhitePanda offers Cloud Application Development services in Sydney, Australia, providing scalable, secure, and efficient cloud-based solutions to support business growth and digital transformation.";
+$metaKeywords = "WhitePanda, cloud application development, cloud solutions, scalable apps, digital transformation, cloud computing, Sydney, Australia";
+
+// common header
+include('include/header.php');
+?>
+
 <?php include('include/navbar.php'); ?>
 <!-- Header ended here -->
 <!-- Start Toptech Breadcumb Area -->

@@ -1,5 +1,14 @@
 <!-- Header started here -->
-<?php include('include/header.php'); ?>
+<?php
+// Define meta tag values for this specific page
+$metaTitle = "Social Engineering Testing Services - WhitePanda | Enhance Your Security in Sydney, Australia";
+$metaDescription = "WhitePanda offers specialized Social Engineering Testing services in Sydney, Australia, assessing your organization’s vulnerability to social engineering attacks and improving your security awareness.";
+$metaKeywords = "WhitePanda, social engineering testing, security services, risk assessment, cybersecurity, employee training, Sydney, Australia";
+
+// common header
+include('include/header.php');
+?>
+
 <?php include('include/navbar.php'); ?>
 <!-- Header ended here -->
 <!-- Start Toptech Breadcumb Area -->

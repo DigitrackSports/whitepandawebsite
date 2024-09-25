@@ -1,5 +1,14 @@
 <!-- Header started here -->
-<?php include('include/header.php'); ?>
+<?php
+// Define meta tag values for this specific page
+$metaTitle = "CISOaaS - Chief Information Security Officer as a Service - WhitePanda | Strategic Security Solutions in Sydney, Australia";
+$metaDescription = "WhitePanda offers CISOaaS services in Sydney, Australia, providing expert leadership and strategic guidance in cybersecurity to help organizations enhance their security posture and compliance.";
+$metaKeywords = "WhitePanda, CISOaaS, Chief Information Security Officer as a Service, cybersecurity leadership, strategic security, risk management, Sydney, Australia";
+
+// common header
+include('include/header.php');
+?>
+
 <?php include('include/navbar.php'); ?>
 <!-- Header ended here -->
 <!-- Start Toptech Breadcumb Area -->
@@ -20,7 +29,6 @@
     </div>
 </div>
 <!-- End Toptech Breadcumb Area -->
-
 
 <!-- Strat Toptech Service Details Area -->
 <div class="services-details-area">

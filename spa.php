@@ -1,5 +1,14 @@
 <!-- Header started here -->
-<?php include('include/header.php'); ?>
+<?php
+// Define meta tag values for this specific page
+$metaTitle = "Security Posture Assessment Services - WhitePanda | Comprehensive Security Solutions in Sydney, Australia";
+$metaDescription = "WhitePanda provides detailed Security Posture Assessment services in Sydney, Australia, evaluating your organization's security measures to identify weaknesses and improve overall protection.";
+$metaKeywords = "WhitePanda, security posture assessment, security services, risk evaluation, cybersecurity, organizational security, Sydney, Australia";
+
+// common header
+include('include/header.php');
+?>
+
 <?php include('include/navbar.php'); ?>
 <!-- Header ended here -->
 <!-- Start Toptech Breadcumb Area -->

@@ -1,5 +1,14 @@
 <!-- Header started here -->
-<?php include('include/header.php'); ?>
+<?php
+// Define meta tag values for this specific page
+$metaTitle = "Remote In-Sourcing Services - WhitePanda | Efficient BPO Solutions in Sydney, Australia";
+$metaDescription = "WhitePanda offers Remote In-Sourcing services in Sydney, Australia, providing businesses with skilled resources and expertise to enhance operational efficiency and reduce costs.";
+$metaKeywords = "WhitePanda, remote in-sourcing, BPO services, operational efficiency, cost reduction, outsourcing, Sydney, Australia";
+
+// common header
+include('include/header.php');
+?>
+
 <?php include('include/navbar.php'); ?>
 <!-- Header ended here -->
 <!-- Start Toptech Breadcumb Area -->

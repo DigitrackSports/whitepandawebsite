@@ -1,5 +1,14 @@
 <!-- Header started here -->
-<?php include('include/header.php'); ?>
+<?php
+// Define meta tag values for this specific page
+$metaTitle = "Research Services - WhitePanda | In-Depth Market Research in Sydney, Australia";
+$metaDescription = "WhitePanda offers comprehensive Research services in Sydney, Australia, providing businesses with valuable insights through market research, data analysis, and strategic recommendations.";
+$metaKeywords = "WhitePanda, research services, market research, data analysis, business insights, BPO, outsourcing, Sydney, Australia";
+
+// common header
+include('include/header.php');
+?>
+
 <?php include('include/navbar.php'); ?>
 <!-- Header ended here -->
 <!-- Start Toptech Breadcumb Area -->

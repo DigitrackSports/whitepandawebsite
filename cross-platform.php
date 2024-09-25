@@ -1,5 +1,16 @@
 <!-- Header started here -->
-<?php include('include/header.php'); ?>
+
+<?php
+// Define meta tag values for this specific page
+$metaTitle = "Cross-Platform Application Development - WhitePanda | Versatile Solutions in Sydney, Australia";
+$metaDescription = "WhitePanda specializes in Cross-Platform Application Development in Sydney, Australia, creating versatile apps that run seamlessly on both iOS and Android platforms to maximize reach.";
+$metaKeywords = "WhitePanda, cross-platform application development, mobile apps, iOS, Android, versatile applications, software development, Sydney, Australia";
+
+// common header
+include('include/header.php');
+?>
+
+
 <?php include('include/navbar.php'); ?>
 <!-- Header ended here -->
 <!-- Start Toptech Breadcumb Area -->

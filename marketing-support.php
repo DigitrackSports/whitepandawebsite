@@ -1,5 +1,14 @@
 <!-- Header started here -->
-<?php include('include/header.php'); ?>
+
+<?php
+// Define meta tag values for this specific page
+$metaTitle = "Marketing Support Services - WhitePanda | Boost Your Business in Sydney, Australia";
+$metaDescription = "WhitePanda offers expert Marketing Support services in Sydney, Australia, helping businesses grow through effective strategies, digital marketing, and campaign management.";
+$metaKeywords = "WhitePanda, marketing support, digital marketing, campaign management, business growth, BPO, marketing strategies, outsourcing, Sydney, Australia";
+// common header
+include('include/header.php');
+?>
+
 <?php include('include/navbar.php'); ?>
 <!-- Header ended here -->
 <!-- Start Toptech Breadcumb Area -->

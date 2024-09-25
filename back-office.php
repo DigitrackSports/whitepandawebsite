@@ -1,5 +1,14 @@
 <!-- Header started here -->
-<?php include('include/header.php'); ?>
+<?php
+// Define meta tag values for this specific page
+$metaTitle = "Back Office Services - WhitePanda | Efficient BPO Solutions in Sydney, Australia";
+$metaDescription = "WhitePanda offers reliable Back Office services in Sydney, Australia, handling administrative tasks, data management, and operational support to boost business efficiency.";
+$metaKeywords = "WhitePanda, back office services, administrative support, data management, operational support, BPO, outsourcing, Sydney, Australia";
+
+// common header
+include('include/header.php');
+?>
+
 <?php include('include/navbar.php'); ?>
 <!-- Header ended here -->
 <!-- Start Toptech Breadcumb Area -->

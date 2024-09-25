@@ -131,7 +131,16 @@ if (isset($_POST['email'])) {
 
 
 <!-- Header started here -->
-<?php include('include/header.php'); ?>
+<?php
+// Define meta tag values for this specific page
+$metaTitle = "Contact Us - WhitePanda | Get in Touch for IT Solutions in Sydney, Australia";
+$metaDescription = "Reach out to WhitePanda for inquiries about our IT solutions and services in Sydney, Australia. We’re here to assist you with your business needs.";
+$metaKeywords = "WhitePanda, contact us, IT solutions, Sydney, Australia, inquiries, business support";
+
+// common header
+include('include/header.php');
+?>
+
 <?php include('include/navbar.php'); ?>
 <!-- Header ended here -->
 

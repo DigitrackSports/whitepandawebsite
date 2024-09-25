@@ -1,5 +1,14 @@
 <!-- Header started here -->
-<?php include('include/header.php'); ?>
+<?php
+// Define meta tag values for this specific page
+$metaTitle = "Penetration Testing Services - WhitePanda | Advanced Security Solutions in Sydney, Australia";
+$metaDescription = "WhitePanda offers professional Penetration Testing services in Sydney, Australia, simulating cyber attacks to identify vulnerabilities and enhance your organization’s security defenses.";
+$metaKeywords = "WhitePanda, penetration testing, security services, vulnerability assessment, cybersecurity, ethical hacking, Sydney, Australia";
+
+// common header
+include('include/header.php');
+?>
+
 <?php include('include/navbar.php'); ?>
 <!-- Header ended here -->
 <!-- Start Toptech Breadcumb Area -->

@@ -1,5 +1,14 @@
 <!-- Header started here -->
-<?php include('include/header.php'); ?>
+<?php
+// Define meta tag values for this specific page
+$metaTitle = "Mobile App Development Services - WhitePanda | Expert Solutions in Sydney, Australia";
+$metaDescription = "WhitePanda offers top-notch Mobile App Development services in Sydney, Australia, creating innovative and user-friendly mobile applications tailored to your business requirements.";
+$metaKeywords = "WhitePanda, mobile app development, iOS apps, Android apps, app development, IT solutions, Sydney, Australia";
+
+// common header
+include('include/header.php');
+?>
+
 <?php include('include/navbar.php'); ?>
 <!-- Header ended here -->
 <!-- Start Toptech Breadcumb Area -->

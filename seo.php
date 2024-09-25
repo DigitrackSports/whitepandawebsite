@@ -1,5 +1,14 @@
 <!-- Header started here -->
-<?php include('include/header.php'); ?>
+<?php
+// Define meta tag values for this specific page
+$metaTitle = "Search Engine Optimization (SEO) Services - WhitePanda | Boost Your Online Presence in Sydney, Australia";
+$metaDescription = "WhitePanda offers comprehensive Search Engine Optimization (SEO) services in Sydney, Australia, helping businesses improve their search rankings, drive traffic, and enhance online visibility.";
+$metaKeywords = "WhitePanda, SEO services, search engine optimization, online marketing, digital marketing, website traffic, Sydney, Australia";
+
+// common header
+include('include/header.php');
+?>
+
 <?php include('include/navbar.php'); ?>
 <!-- Header ended here -->
 <!-- Start Toptech Breadcumb Area -->

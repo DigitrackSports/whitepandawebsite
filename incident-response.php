@@ -1,5 +1,14 @@
 <!-- Header started here -->
-<?php include('include/header.php'); ?>
+<?php
+// Define meta tag values for this specific page
+$metaTitle = "Incident Response Services - WhitePanda | Swift Recovery Solutions in Sydney, Australia";
+$metaDescription = "WhitePanda provides expert Incident Response services in Sydney, Australia, ensuring rapid identification, containment, and recovery from security incidents to minimize impact on your business.";
+$metaKeywords = "WhitePanda, incident response, cybersecurity services, security incidents, risk management, swift recovery, Sydney, Australia";
+
+// common header
+include('include/header.php');
+?>
+
 <?php include('include/navbar.php'); ?>
 <!-- Header ended here -->
 <!-- Start Toptech Breadcumb Area -->

@@ -1,5 +1,14 @@
 <!-- Header started here -->
-<?php include('include/header.php'); ?>
+<?php
+// Define meta tag values for this specific page
+$metaTitle = "Tracking App Development - WhitePanda | Advanced Solutions in Sydney, Australia";
+$metaDescription = "WhitePanda specializes in Tracking App Development in Sydney, Australia, offering robust and efficient tracking solutions for logistics, fleet management, and asset monitoring.";
+$metaKeywords = "WhitePanda, tracking app development, logistics app, fleet management, asset tracking, mobile app development, Sydney, Australia";
+
+// common header
+include('include/header.php');
+?>
+
 <?php include('include/navbar.php'); ?>
 <!-- Header ended here -->
 <!-- Start Toptech Breadcumb Area -->

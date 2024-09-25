@@ -1,5 +1,14 @@
 <!-- Header started here -->
-<?php include('include/header.php'); ?>
+<?php
+// Define meta tag values for this specific page
+$metaTitle = "QA and Testing Services - WhitePanda | Quality Assurance Solutions in Sydney, Australia";
+$metaDescription = "WhitePanda provides comprehensive QA and Testing Services in Sydney, Australia, ensuring the highest quality and performance of software applications through meticulous testing processes.";
+$metaKeywords = "WhitePanda, QA services, testing services, quality assurance, software testing, performance testing, Sydney, Australia";
+
+// common header
+include('include/header.php');
+?>
+
 <?php include('include/navbar.php'); ?>
 <!-- Header ended here -->
 <!-- Start Toptech Breadcumb Area -->

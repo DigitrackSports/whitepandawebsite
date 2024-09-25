@@ -1,5 +1,14 @@
 <!-- Header started here -->
-<?php include('include/header.php'); ?>
+<?php
+// Define meta tag values for this specific page
+$metaTitle = "Data Entry Services - WhitePanda | Accurate BPO Solutions in Sydney, Australia";
+$metaDescription = "WhitePanda provides efficient Data Entry services in Sydney, Australia, ensuring accurate data handling, organization, and management for businesses of all sizes.";
+$metaKeywords = "WhitePanda, data entry, data management, BPO, outsourcing, accurate data handling, Sydney, Australia";
+
+// common header
+include('include/header.php');
+?>
+
 <?php include('include/navbar.php'); ?>
 <!-- Header ended here -->
 <!-- Start Toptech Breadcumb Area -->

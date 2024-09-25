@@ -1,5 +1,14 @@
 <!-- Header started here -->
-<?php include('include/header.php'); ?>
+<?php
+// Define meta tag values for this specific page
+$metaTitle = "Custom Theme Development - WhitePanda | Tailored Design Solutions in Sydney, Australia";
+$metaDescription = "WhitePanda specializes in Custom Theme Development in Sydney, Australia, creating unique and visually appealing themes for websites and applications that enhance user experience.";
+$metaKeywords = "WhitePanda, custom theme development, web design, application themes, user experience, tailored solutions, Sydney, Australia";
+
+// common header
+include('include/header.php');
+?>
+
 <?php include('include/navbar.php'); ?>
 <!-- Header ended here -->
 <!-- Start Toptech Breadcumb Area -->

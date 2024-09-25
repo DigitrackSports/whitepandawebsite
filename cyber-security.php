@@ -1,5 +1,14 @@
 <!-- Header started here -->
-<?php include('include/header.php'); ?>
+<?php
+// Define meta tag values for this specific page
+$metaTitle = "Cyber Security Services - WhitePanda | Comprehensive Protection Solutions in Sydney, Australia";
+$metaDescription = "WhitePanda offers a wide range of Cyber Security services in Sydney, Australia, protecting businesses from cyber threats with advanced strategies, tools, and expert guidance.";
+$metaKeywords = "WhitePanda, cyber security, security services, threat protection, risk management, IT security, Sydney, Australia";
+
+// common header
+include('include/header.php');
+?>
+
 <?php include('include/navbar.php'); ?>
 <!-- Header ended here -->
 

@@ -1,5 +1,14 @@
 <!-- Header started here -->
-<?php include('include/header.php'); ?>
+<?php
+// Define meta tag values for this specific page
+$metaTitle = "Cybersecurity Training Services - WhitePanda | Enhance Security Awareness in Sydney, Australia";
+$metaDescription = "WhitePanda offers comprehensive Cybersecurity Training services in Sydney, Australia, equipping employees with the knowledge and skills to identify and mitigate cyber threats.";
+$metaKeywords = "WhitePanda, cybersecurity training, security awareness, employee training, risk management, cyber threats, Sydney, Australia";
+
+// common header
+include('include/header.php');
+?>
+
 <?php include('include/navbar.php'); ?>
 <!-- Header ended here -->
 <!-- Start Toptech Breadcumb Area -->

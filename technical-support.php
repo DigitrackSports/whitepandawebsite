@@ -1,5 +1,14 @@
 <!-- Header started here -->
-<?php include('include/header.php'); ?>
+<?php
+// Define meta tag values for this specific page
+$metaTitle = "Technical Support Services - WhitePanda | Reliable IT Solutions in Sydney, Australia";
+$metaDescription = "WhitePanda provides expert Technical Support services in Sydney, Australia, ensuring seamless IT operations and assistance for businesses to resolve technical issues efficiently.";
+$metaKeywords = "WhitePanda, technical support, IT services, troubleshooting, help desk, reliable solutions, Sydney, Australia";
+
+// common header
+include('include/header.php');
+?>
+
 <?php include('include/navbar.php'); ?>
 <!-- Header ended here -->
 <!-- Start Toptech Breadcumb Area -->

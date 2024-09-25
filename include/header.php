@@ -4,9 +4,10 @@
 <head>
     <meta charset="UTF-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <title>White Panda</title>
-    <meta name="description" content="" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title><?php echo isset($metaTitle) ? $metaTitle : 'WhitePanda - Website Development, App Development, and BPO Services in Sydney, Australia'; ?></title>
+    <meta name="description" content="<?php echo isset($metaDescription) ? $metaDescription : 'WhitePanda offers top-tier website development, app development, and BPO services, empowering businesses across Sydney, Australia with innovative solutions and exceptional support.'; ?>">
+    <meta name="keywords" content="<?php echo isset($metaKeywords) ? $metaKeywords : 'WhitePanda, website development, app development, BPO services, IT solutions, Sydney, Australia, software development, business process outsourcing, tech solutions'; ?>">
+
     <!-- Favicon -->
     <link rel="icon" type="image/png" sizes="56x56" href="assets/images/fav-icon/icon.png" />
     <!-- bootstrap CSS -->

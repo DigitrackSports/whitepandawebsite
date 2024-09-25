@@ -1,5 +1,14 @@
 <!-- Header started here -->
-<?php include('include/header.php'); ?>
+<?php
+// Define meta tag values for this specific page
+$metaTitle = "IT and Managed Services - WhitePanda | Comprehensive Support in Sydney, Australia";
+$metaDescription = "WhitePanda offers IT and Managed Services in Sydney, Australia, providing businesses with expert support, proactive management, and innovative technology solutions to enhance operational efficiency.";
+$metaKeywords = "WhitePanda, IT services, managed services, technology support, proactive management, business solutions, Sydney, Australia";
+
+// common header
+include('include/header.php');
+?>
+
 <?php include('include/navbar.php'); ?>
 <!-- Header ended here -->
 

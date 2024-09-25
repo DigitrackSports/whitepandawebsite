@@ -1,5 +1,14 @@
 <!-- Header started here -->
-<?php include('include/header.php'); ?>
+<?php
+// Define meta tag values for this specific page
+$metaTitle = "Graphics Design Services - WhitePanda | Creative Design Solutions in Sydney, Australia";
+$metaDescription = "WhitePanda offers professional Graphics Design services in Sydney, Australia, delivering innovative visual solutions that effectively communicate your brand message and engage your audience.";
+$metaKeywords = "WhitePanda, graphics design, visual design, branding, creative solutions, graphic arts, Sydney, Australia";
+
+// common header
+include('include/header.php');
+?>
+
 <?php include('include/navbar.php'); ?>
 <!-- Header ended here -->
 <!-- Start Toptech Breadcumb Area -->

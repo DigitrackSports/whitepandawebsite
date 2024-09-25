@@ -1,5 +1,14 @@
 <!-- Header started here -->
-<?php include('include/header.php'); ?>
+<?php
+// Define meta tag values for this specific page
+$metaTitle = "Compliance and Framework Auditing Services - WhitePanda | Ensure Regulatory Adherence in Sydney, Australia";
+$metaDescription = "WhitePanda provides expert Compliance and Framework Auditing services in Sydney, Australia, helping businesses meet regulatory standards and improve operational practices.";
+$metaKeywords = "WhitePanda, compliance auditing, framework auditing, regulatory compliance, risk management, operational excellence, Sydney, Australia";
+
+// common header
+include('include/header.php');
+?>
+
 <?php include('include/navbar.php'); ?>
 <!-- Header ended here -->
 <!-- Start Toptech Breadcumb Area -->

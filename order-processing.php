@@ -1,5 +1,14 @@
 <!-- Header started here -->
-<?php include('include/header.php'); ?>
+
+<?php
+// Define meta tag values for this specific page
+$metaTitle = "Order Processing Services - WhitePanda | Streamlined BPO Solutions in Sydney, Australia";
+$metaDescription = "WhitePanda offers efficient Order Processing services in Sydney, Australia, ensuring seamless handling of orders, inventory management, and customer satisfaction.";
+$metaKeywords = "WhitePanda, order processing, inventory management, order fulfillment, BPO, customer satisfaction, outsourcing, Sydney, Australia";
+// common header
+include('include/header.php');
+?>
+
 <?php include('include/navbar.php'); ?>
 <!-- Header ended here -->
 <!-- Start Toptech Breadcumb Area -->

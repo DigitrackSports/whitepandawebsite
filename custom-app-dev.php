@@ -1,5 +1,14 @@
 <!-- Header started here -->
-<?php include('include/header.php'); ?>
+<?php
+// Define meta tag values for this specific page
+$metaTitle = "Custom App Development Services - WhitePanda | Innovative Solutions in Sydney, Australia";
+$metaDescription = "WhitePanda specializes in Custom App Development services in Sydney, Australia, delivering tailored mobile and web applications to meet your business needs and drive digital growth.";
+$metaKeywords = "WhitePanda, custom app development, mobile apps, web applications, software development, IT solutions, Sydney, Australia";
+
+// common header
+include('include/header.php');
+?>
+
 <?php include('include/navbar.php'); ?>
 <!-- Header ended here -->
 <!-- Start Toptech Breadcumb Area -->

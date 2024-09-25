@@ -1,5 +1,14 @@
 <!-- Header started here -->
-<?php include('include/header.php'); ?>
+<?php
+// Define meta tag values for this specific page
+$metaTitle = "Digital Marketing Services - WhitePanda | Comprehensive Solutions in Sydney, Australia";
+$metaDescription = "WhitePanda provides expert Digital Marketing services in Sydney, Australia, helping businesses enhance their online presence through SEO, social media, content marketing, and more.";
+$metaKeywords = "WhitePanda, digital marketing, SEO, social media marketing, content marketing, online presence, marketing strategies, Sydney, Australia";
+
+// common header
+include('include/header.php');
+?>
+
 <?php include('include/navbar.php'); ?>
 <!-- Header ended here -->
 <!-- Start Toptech Breadcumb Area -->

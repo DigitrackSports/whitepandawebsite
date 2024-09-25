@@ -1,5 +1,15 @@
 <!-- Header started here -->
-<?php include('include/header.php'); ?>
+
+<?php
+// Define meta tag values for this specific page
+$metaTitle = "Account Set-Up Services - WhitePanda | Reliable BPO Solutions in Sydney, Australia";
+$metaDescription = "WhitePanda provides expert Account Set-Up services in Sydney, Australia, offering businesses streamlined processes for setting up and managing accounts efficiently.";
+$metaKeywords = "WhitePanda, account set-up, account management, BPO, business process outsourcing, Sydney, Australia";
+
+// common header
+include('include/header.php');
+?>
+
 <?php include('include/navbar.php'); ?>
 <!-- Header ended here -->
 <!-- Start Toptech Breadcumb Area -->

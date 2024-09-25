@@ -1,5 +1,14 @@
 <!-- Header started here -->
-<?php include('include/header.php'); ?>
+<?php
+// Define meta tag values for this specific page
+$metaTitle = "UI/UX Design Services - WhitePanda | Creative Design Solutions in Sydney, Australia";
+$metaDescription = "WhitePanda offers innovative UI/UX Design services in Sydney, Australia, crafting intuitive and visually appealing user interfaces for web and mobile applications to enhance user experience.";
+$metaKeywords = "WhitePanda, UI/UX design, user interface, user experience, creative design, web design, mobile app design, Sydney, Australia";
+
+// common header
+include('include/header.php');
+?>
+
 <?php include('include/navbar.php'); ?>
 <!-- Header ended here -->
 <!-- Start Toptech Breadcumb Area -->

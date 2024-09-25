@@ -1,5 +1,14 @@
 <!-- Header started here -->
-<?php include('include/header.php'); ?>
+<?php
+// Define meta tag values for this specific page
+$metaTitle = "Application Development Services - WhitePanda | Innovative Solutions in Sydney, Australia";
+$metaDescription = "WhitePanda specializes in Application Development services in Sydney, Australia, delivering customized applications that meet the unique needs of businesses and enhance user experience.";
+$metaKeywords = "WhitePanda, application development, custom applications, software solutions, mobile apps, web apps, Sydney, Australia";
+
+// common header
+include('include/header.php');
+?>
+
 <?php include('include/navbar.php'); ?>
 <!-- Header ended here -->
 

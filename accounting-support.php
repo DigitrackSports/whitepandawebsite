@@ -1,5 +1,14 @@
 <!-- Header started here -->
-<?php include('include/header.php'); ?>
+
+<?php
+// Define meta tag values for this specific page
+$metaTitle = "Accounting Support Services - WhitePanda | Professional BPO Solutions in Sydney, Australia";
+$metaDescription = "WhitePanda provides expert Accounting Support services in Sydney, Australia, offering businesses efficient bookkeeping, financial reporting, and payroll management solutions.";
+$metaKeywords = "WhitePanda, accounting support, bookkeeping, financial reporting, payroll management, BPO, outsourcing, Sydney, Australia";
+// common header
+include('include/header.php');
+?>
+
 <?php include('include/navbar.php'); ?>
 <!-- Header ended here -->
 <!-- Start Toptech Breadcumb Area -->

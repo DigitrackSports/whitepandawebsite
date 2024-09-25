@@ -1,5 +1,14 @@
 <!-- Header started here -->
-<?php include('include/header.php'); ?>
+<?php
+// Define meta tag values for this specific page
+$metaTitle = "About Us - WhitePanda | Your Trusted IT Partner in Sydney, Australia";
+$metaDescription = "Learn more about WhitePanda, a leading provider of IT solutions in Sydney, Australia. Our mission is to empower businesses with innovative technology and exceptional support.";
+$metaKeywords = "WhitePanda, about us, IT partner, technology solutions, Sydney, Australia, business empowerment";
+
+// common header
+include('include/header.php');
+?>
+
 <?php include('include/navbar.php'); ?>
 <!-- Header ended here -->
 
@@ -49,31 +58,9 @@
                             IT Support for Business involves proactive maintenance, monitoring, and troubleshooting of technology systems. It ensures seamless operations, minimizes downtime, enhances security, and provides rapid issue resolution. With efficient management of IT infrastructure, businesses can achieve optimal productivity, improved performance, and focus on core objectives without technology disruptions.
                         </p>
                     </div>
-                    <!-- <div class="about-single-box">
-                        <div class="about-icon">
-                            <img src="assets/images/about-inner/about-icon.png" alt="">
-                        </div>
-                        <div class="about-box-content">
-                            <h4>IT Management</h4>
-                            <p>Proved granular markets dream team more based models clean.</p>
-                        </div>
-                    </div>
-                    <div class="about-single-box">
-                        <div class="about-icon">
-                            <img src="assets/images/about-inner/about-icon.png" alt="">
-                        </div>
-                        <div class="about-box-content">
-                            <h4>IT Management</h4>
-                            <p>Proved granular markets dream team more based models clean.</p>
-                        </div>
-                    </div> -->
+
                 </div>
-                <!-- <div class="about-single-button">
-                    <a href="#">Mission</a>
-                </div>
-                <div class="about-single-button">
-                    <a href="#">Vison</a>
-                </div> -->
+
             </div>
         </div>
     </div>
@@ -92,23 +79,7 @@
                     <p class="section-desc">Choose us for our deep expertise in BPO services, application development, IT managed services, and cybersecurity. Our experienced team is dedicated to delivering top-tier solutions tailored to your unique business needs. We ensure consistent, high-quality results that keep your operations running seamlessly, allowing you to focus on what matters most.</p>
                     <p class="section-desc">Security is at the core of everything we do. We prioritize safeguarding your data and protecting your business from evolving threats. Our commitment to innovation ensures that you benefit from cutting-edge technology solutions designed to enhance efficiency and drive growth. Trust us to be your reliable partner in achieving business excellence.</p>
                 </div>
-                <!-- <div class="wrapper">
-                    <div class="skill">
-                        <p>IT Solutions</p>
-                        <div class="skill-bar skill1 wow slideInLeft animated">
-                            <span class="skill-count1">95%</span>
-                        </div>
-                    </div>
-                    <div class="skill">
-                        <p>Development</p>
-                        <div class="skill-bar skill2 wow slideInLeft animated">
-                            <span class="skill-count2">85%</span>
-                        </div>
-                    </div>
-                    <div class="toptech-button inner-style">
-                        <a href="#">More About<i class="bi bi-arrow-right-short"></i></a>
-                    </div>
-                </div> -->
+
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6">
                 <img src="./assets/images/about-right.jpg" alt="" class="about-right">

@@ -1,5 +1,12 @@
 <!-- Header started here -->
-<?php include('include/header.php'); ?>
+<?php
+// Define meta tag values for this specific page
+$metaTitle = "Virtual Assistant Services - WhitePanda | Efficient BPO Solutions in Sydney, Australia";
+$metaDescription = "WhitePanda's Virtual Assistant services provide businesses in Sydney, Australia with reliable administrative support, task management, and customer service, enhancing efficiency and productivity.";
+$metaKeywords = "WhitePanda, virtual assistant services, BPO, administrative support, task management, customer service, remote assistance, outsourcing, Sydney, Australia";
+// common header
+include('include/header.php');
+?>
 <?php include('include/navbar.php'); ?>
 <!-- Header ended here -->
 <!-- Start Toptech Breadcumb Area -->

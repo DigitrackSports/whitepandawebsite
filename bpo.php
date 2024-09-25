@@ -1,5 +1,14 @@
 <!-- Header started here -->
-<?php include('include/header.php'); ?>
+<?php
+// Define meta tag values for this specific page
+$metaTitle = "BPO Services - WhitePanda | Streamlined Solutions in Sydney, Australia";
+$metaDescription = "WhitePanda provides efficient BPO services in Sydney, Australia, enabling businesses to streamline operations, reduce costs, and focus on core competencies with expert outsourcing solutions.";
+$metaKeywords = "WhitePanda, BPO services, business process outsourcing, operational efficiency, outsourcing solutions, Sydney, Australia";
+
+// common header
+include('include/header.php');
+?>
+
 <?php include('include/navbar.php'); ?>
 <!-- Header ended here -->
 
