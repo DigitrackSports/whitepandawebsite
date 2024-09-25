@@ -38,7 +38,7 @@
     <div class="mobile-menu-area sticky d-sm-block d-md-block d-lg-none">
         <div class="mobile-menu">
 
-            <img src="assets/images/logo-1.png" alt="logo" class="mobile-menu-logo" />
+            <img src="assets/images/logo-1.png" alt="WhitePanda logo" class="mobile-menu-logo" />
 
             <nav class="header-menu">
                 <ul class="nav_scroll">

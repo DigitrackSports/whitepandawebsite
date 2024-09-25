@@ -39,10 +39,10 @@ include('include/header.php');
             <div class="col-lg-6">
                 <div class="about-left">
                     <div class="about-thumb">
-                        <img src="assets/images/about-inner/about-thumb-2.png" alt="">
+                        <img src="assets/images/about-inner/about-thumb-2.png" alt="IT Support for Business">
                     </div>
                     <div class="about-video-box">
-                        <img src="./assets/images/about-video-r.jpg" alt="" class="about-video">
+                        <img src="./assets/images/about-video-r.jpg" alt="about us left " class="about-video">
                         <!-- <a class="video-vemo-icon venobox vbox-item" data-vbtype="youtube" data-autoplay="true" href="https://www.youtube.com/watch?v=e6R6VsgD8yQ&amp;amp;t=179s"><i class="bi bi-play-fill"></i></a> -->
                     </div>
                 </div>
@@ -82,7 +82,7 @@ include('include/header.php');
 
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6">
-                <img src="./assets/images/about-right.jpg" alt="" class="about-right">
+                <img src="./assets/images/about-right.jpg" alt="Why Choose Us" class="about-right">
             </div>
         </div>
     </div>
@@ -96,7 +96,7 @@ include('include/header.php');
         <div class="row">
             <div class="col-lg-6">
                 <div class="mission-thumb">
-                    <img src="assets/images/inner-images/mission-1.png" alt="">
+                    <img src="assets/images/inner-images/mission-1.png" alt="our mission">
                 </div>
             </div>
             <div class="col-lg-6">
@@ -167,14 +167,14 @@ include('include/header.php');
             </div>
             <div class="col-lg-6">
                 <div class="mission-thumb two">
-                    <img src="assets/images/inner-images/mission-2.png" alt="">
+                    <img src="assets/images/inner-images/mission-2.png" alt="our vision">
                 </div>
             </div>
         </div>
         <div class="row">
             <div class="col-lg-6">
                 <div class="mission-thumb" style="height: 100%;">
-                    <img src="./assets/images/about-goal.jpg" alt="" style="height: 100%; object-fit:cover">
+                    <img src="./assets/images/about-goal.jpg" alt="goal" style="height: 100%; object-fit:cover">
                 </div>
             </div>
             <div class="col-lg-6">
@@ -220,7 +220,7 @@ include('include/header.php');
         <div class="row">
             <div class="col-lg-6">
                 <div class="contact-icon">
-                    <img src="assets/images/home-3/contact-icon.png" alt="">
+                    <img src="assets/images/home-3/contact-icon.png" alt="contact">
                 </div>
                 <div class="contact-content">
                     <h6>Need Help? Just Call. Anytime.</h6>
@@ -234,11 +234,8 @@ include('include/header.php');
             <div class="col-lg-6">
                 <div class="contact-right">
                     <div class="contact-thumb">
-                        <img src="assets/images/home-3/contact-thumb.png" alt="">
+                        <img src="assets/images/home-3/contact-thumb.png" alt="contact us">
                     </div>
-                    <!-- <div class="contact-shape">
-                        <img src="assets/images/home-3/contact-shape.png" alt="">
-                    </div> -->
                 </div>
             </div>
         </div>

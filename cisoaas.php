@@ -38,7 +38,7 @@ include('include/header.php');
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="services-details-thumb">
-                            <img src="assets/images/services/CISOaaS.png" alt="">
+                            <img src="assets/images/services/CISOaaS.png" alt="Why Your Business Needs CISOaaS">
                         </div>
                         <div class="services-details-content">
                             <h4 class="services-details-title">Why Your Business Needs CISOaaS</h4>
@@ -107,7 +107,7 @@ include('include/header.php');
 
                         <div class="services-details-text">
                             <div class="service-details-text-icon">
-                                <img src="assets/images/service-inner/services-details-text-icon.png" alt="">
+                                <img src="assets/images/service-inner/services-details-text-icon.png" alt="get start">
                             </div>
                             <div class="service-details-text-content">
                                 <p><b>Get Started Today!</b></p>
@@ -135,37 +135,7 @@ include('include/header.php');
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="widget-sidber">
-                            <div class="widget-sidber-content">
-                                <h4>Categories</h4>
-                            </div>
-                            <div class="widget-category">
-                                <ul>
-                                    <li><a href="bpo"><img src="assets/images/service-inner/category-icon.png" alt="">Business Process Outsourcing<i class="bi bi-arrow-right"></i></a></li>
-                                    <li><a href="application-development"><img src="assets/images/service-inner/category-icon.png" alt="">Application Development<i class="bi bi-arrow-right"></i></a></li>
-                                    <li><a href="it"><img src="assets/images/service-inner/category-icon.png" alt="">IT and Managed Services<i class="bi bi-arrow-right"></i></a></li>
-                                    <li><a href="cyber-security"><img src="assets/images/service-inner/category-icon.png" alt="">Cyber Security<i class="bi bi-arrow-right"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-
-                        <div class="widget-sidber-contact-box">
-                            <div class="widget-sidber-contact">
-                                <img src="assets/images/inner-images/sidber-cont-icon.png" alt="">
-                            </div>
-                            <p class="widget-sidber-contact-text">Call Us Anytime</p>
-                            <h3 class="widget-sidber-contact-number">+61 466 792 994</h3>
-                            <span class="widget-sidber-contact-gmail"><i class="bi bi-envelope-fill"></i> info@whitepanda.com.au</span>
-                            <div class="widget-sidber-contact-btn">
-                                <a href="contact">Contact Us <i class="bi bi-arrow-right"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            <?php include('include/services-sidewidgets.php'); ?>
         </div>
     </div>
 </div>

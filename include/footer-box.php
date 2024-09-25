@@ -10,55 +10,22 @@
                 </div>
             </div>
             <div class="row">
-                <!-- <div class="brand-list-1 owl-carousel ">
-                    <div class="col-lg-12">
-                        <div class="single-brand-box">
-                            <div class="brand-thumb">
-                                <img src="assets/images/clients/chattkore-logo.png" alt="" />
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-12">
-                        <div class="single-brand-box">
-                            <div class="brand-thumb">
-                                <img src="assets/images/clients/empowerment.jpg" alt="" />
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-12">
-                        <div class="single-brand-box">
-                            <div class="brand-thumb">
-                                <img src="assets/images/clients/royal.png" alt="" />
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-12">
-                        <div class="single-brand-box">
-                            <div class="brand-thumb">
-                                <img src="assets/images/clients/safe-learners.jpg" alt="" />
-                            </div>
-                        </div>
-                    </div>
 
-                </div> -->
                 <div class="client-container">
                     <div class="single-brand-box">
-                        <img src="assets/images/clients/chattkore-logo.png" alt="" />
-                    </div>
-                    <!-- <div class="single-brand-box">
-                        <img src="assets/images/clients/empowerment.jpg" alt="" />
-                    </div> -->
-                    <div class="single-brand-box">
-                        <img src="assets/images/clients/royal.png" alt="" />
+                        <img src="assets/images/clients/chattkore-logo.png" alt="Chattkore" />
                     </div>
                     <div class="single-brand-box">
-                        <img src="assets/images/clients/safe-learners.jpg" alt="" />
+                        <img src="assets/images/clients/royal.png" alt="royal indian and pakistani hotel" />
                     </div>
                     <div class="single-brand-box">
-                        <img src="assets/images/clients/tmt-logo.png" alt="" />
+                        <img src="assets/images/clients/safe-learners.jpg" alt="safe learners" />
                     </div>
                     <div class="single-brand-box">
-                        <img src="assets/images/clients/tma-logo.png" alt="" />
+                        <img src="assets/images/clients/tmt-logo.png" alt="track my tournament" />
+                    </div>
+                    <div class="single-brand-box">
+                        <img src="assets/images/clients/tma-logo.png" alt="track my academy" />
                     </div>
                 </div>
             </div>
@@ -72,7 +39,7 @@
             <div class="row">
                 <div class="col-lg-4 col-md-6">
                     <div class="footer-logo">
-                        <a href="index"><img src="assets/images/logo-1.png" alt="" /></a>
+                        <a href="index"><img src="assets/images/logo-1.png" alt="white panda" /></a>
                     </div>
                     <div class="footer-botton-social-icon mt-3">
                         <ul>

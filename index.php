@@ -38,7 +38,7 @@
             <div class="col-lg-3 col-md-6 col-sm-6 col-6 mb-3">
                 <div class="single-feature-box">
                     <div class="feature-icon">
-                        <img src="assets/images/home-3/feature-icon-1.png" alt="" />
+                        <img src="assets/images/home-3/feature-icon-1.png" alt="Business Process Outsourcing" />
                     </div>
                     <div class="feature-content">
                         <h4>Business Process Outsourcing</h4>
@@ -49,7 +49,7 @@
             <div class="col-lg-3 col-md-6 col-sm-6 col-6 mb-3">
                 <div class="single-feature-box">
                     <div class="feature-icon">
-                        <img src="assets/images/home-3/feature-icon-2.png" alt="" />
+                        <img src="assets/images/home-3/feature-icon-2.png" alt="Application Development" />
                     </div>
                     <div class="feature-content">
                         <h4>Application Development</h4>
@@ -60,7 +60,7 @@
             <div class="col-lg-3 col-md-6 col-sm-6 col-6 mb-3">
                 <div class="single-feature-box">
                     <div class="feature-icon">
-                        <img src="assets/images/home-3/feature-icon-3.png" alt="" />
+                        <img src="assets/images/home-3/feature-icon-3.png" alt="IT and Managed Services" />
                     </div>
                     <div class="feature-content">
                         <h4>IT and Managed Services</h4>
@@ -71,7 +71,7 @@
             <div class="col-lg-3 col-md-6 col-sm-6 col-6 mb-3">
                 <div class="single-feature-box">
                     <div class="feature-icon">
-                        <img src="assets/images/home-3/feature-icon-4.png" alt="" />
+                        <img src="assets/images/home-3/feature-icon-4.png" alt="cyber security" />
                     </div>
                     <div class="feature-content">
                         <h4>
@@ -94,11 +94,11 @@
             <div class="col-lg-6">
                 <div class="about-left">
                     <div class="about-thumb">
-                        <img src="assets/images/home-3/about-thumb.png" alt="" />
+                        <img src="assets/images/home-3/about-thumb.png" alt="about thumb" />
                     </div>
 
                     <div class="about-shape">
-                        <img src="assets/images/home-3/about-shape.png" alt="" />
+                        <img src="assets/images/home-3/about-shape.png" alt="about white panda" />
                     </div>
                 </div>
             </div>
@@ -125,7 +125,7 @@
                     </div>
                     <div class="about-phone">
                         <div class="about-phone-icon">
-                            <img src="assets/images/home-3/about-call-icon.png" alt="" />
+                            <img src="assets/images/home-3/about-call-icon.png" alt="call" />
                         </div>
                         <div class="about-phone-content">
                             <h4>+61 466 792 994</h4>
@@ -135,7 +135,7 @@
                         <a href="about">Learn More<i class="bi bi-arrow-right-short"></i></a>
                     </div>
                     <div class="about-shape-two">
-                        <img src="assets/images/home-3/about-shape-2.png" alt="" />
+                        <img src="assets/images/home-3/about-shape-2.png" alt="arrow" />
                     </div>
                 </div>
             </div>
@@ -182,7 +182,7 @@
             <div class="col-lg-3 col-md-6 box tab1 active">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-1.png" alt="" />
+                        <img src="assets/images/home-2/service-1.png" alt="icon" />
                     </div>
                     <div class="service-number">
                         <h1>01</h1>
@@ -200,7 +200,7 @@
             <div class="col-lg-3 col-md-6 box tab1 active">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-1.png" alt="" />
+                        <img src="assets/images/home-2/service-1.png" alt="icon" />
                     </div>
                     <div class="service-number">
                         <h1>02</h1>
@@ -217,7 +217,7 @@
             <div class="col-lg-3 col-md-6 box tab1 active">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-1.png" alt="" />
+                        <img src="assets/images/home-2/service-1.png" alt="icon" />
                     </div>
                     <div class="service-number">
                         <h1>03</h1>
@@ -234,7 +234,7 @@
             <div class="col-lg-3 col-md-6 box tab1 active">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-1.png" alt="" />
+                        <img src="assets/images/home-2/service-1.png" alt="icon" />
                     </div>
                     <div class="service-number">
                         <h1>04</h1>
@@ -251,7 +251,7 @@
             <div class="col-lg-3 col-md-6 box tab1 active">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-1.png" alt="" />
+                        <img src="assets/images/home-2/service-1.png" alt="icon" />
                     </div>
                     <div class="service-number">
                         <h1>05</h1>
@@ -268,7 +268,7 @@
             <div class="col-lg-3 col-md-6 box tab1 active">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-1.png" alt="" />
+                        <img src="assets/images/home-2/service-1.png" alt="icon" />
                     </div>
                     <div class="service-number">
                         <h1>06</h1>
@@ -285,7 +285,7 @@
             <div class="col-lg-3 col-md-6 box tab1 active">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-1.png" alt="" />
+                        <img src="assets/images/home-2/service-1.png" alt="icon" />
                     </div>
                     <div class="service-number">
                         <h1>07</h1>
@@ -302,7 +302,7 @@
             <div class="col-lg-3 col-md-6 box tab1 active">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-1.png" alt="" />
+                        <img src="assets/images/home-2/service-1.png" alt="icon" />
                     </div>
                     <div class="service-number">
                         <h1>08</h1>
@@ -319,7 +319,7 @@
             <div class="col-lg-3 col-md-6 box tab2">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-5.png" alt="" />
+                        <img src="assets/images/home-2/service-5.png" alt="icon" />
                     </div>
                     <div class="service-number">
                         <h1>01</h1>
@@ -337,7 +337,7 @@
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
                         <!-- dummy content -->
-                        <img src="assets/images/home-2/service-5.png" alt="" />
+                        <img src="assets/images/home-2/service-5.png" alt="icon" />
                     </div>
                     <div class="service-number">
                         <h1>02</h1>
@@ -354,7 +354,7 @@
             <div class="col-lg-3 col-md-6 box tab2">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-5.png" alt="" />
+                        <img src="assets/images/home-2/service-5.png" alt="icon" />
                     </div>
                     <div class="service-number">
                         <h1>03</h1>
@@ -371,7 +371,7 @@
             <div class="col-lg-3 col-md-6 box tab2">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-5.png" alt="" />
+                        <img src="assets/images/home-2/service-5.png" alt="icon" />
                     </div>
                     <div class="service-number">
                         <h1>04</h1>
@@ -388,7 +388,7 @@
             <div class="col-lg-3 col-md-6 box tab2">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-5.png" alt="" />
+                        <img src="assets/images/home-2/service-5.png" alt="icon" />
                     </div>
                     <div class="service-number">
                         <h1>05</h1>
@@ -405,7 +405,7 @@
             <div class="col-lg-3 col-md-6 box tab2">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-5.png" alt="" />
+                        <img src="assets/images/home-2/service-5.png" alt="icon" />
                     </div>
                     <div class="service-number">
                         <h1>06</h1>
@@ -422,7 +422,7 @@
             <div class="col-lg-3 col-md-6 box tab2">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-5.png" alt="" />
+                        <img src="assets/images/home-2/service-5.png" alt="icon" />
                     </div>
                     <div class="service-number">
                         <h1>07</h1>
@@ -439,7 +439,7 @@
             <div class="col-lg-3 col-md-6 box tab2">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-5.png" alt="" />
+                        <img src="assets/images/home-2/service-5.png" alt="icon" />
                     </div>
                     <div class="service-number">
                         <h1>08</h1>
@@ -459,7 +459,7 @@
             <div class="col-lg-3 col-md-6 box tab3">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-4.png" alt="" />
+                        <img src="assets/images/home-2/service-4.png" alt="icon" />
                     </div>
                     <div class="service-number">
                         <h1>01</h1>
@@ -476,7 +476,7 @@
             <div class="col-lg-3 col-md-6 box tab3">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-4.png" alt="" />
+                        <img src="assets/images/home-2/service-4.png" alt="icon" />
                     </div>
                     <div class="service-number">
                         <h1>02</h1>
@@ -493,7 +493,7 @@
             <div class="col-lg-3 col-md-6 box tab3">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-4.png" alt="" />
+                        <img src="assets/images/home-2/service-4.png" alt="icon" />
                     </div>
                     <div class="service-number">
                         <h1>03</h1>
@@ -510,7 +510,7 @@
             <div class="col-lg-3 col-md-6 box tab3">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-4.png" alt="" />
+                        <img src="assets/images/home-2/service-4.png" alt="icon" />
                     </div>
                     <div class="service-number">
                         <h1>04</h1>
@@ -528,7 +528,7 @@
             <div class="col-lg-3 col-md-6 box tab3">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-4.png" alt="" />
+                        <img src="assets/images/home-2/service-4.png" alt="icon" />
                     </div>
                     <div class="service-number">
                         <h1>05</h1>
@@ -545,7 +545,7 @@
             <div class="col-lg-3 col-md-6 box tab3">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-4.png" alt="" />
+                        <img src="assets/images/home-2/service-4.png" alt="icon" />
                     </div>
                     <div class="service-number">
                         <h1>06</h1>
@@ -562,7 +562,7 @@
             <div class="col-lg-3 col-md-6 box tab3">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-4.png" alt="" />
+                        <img src="assets/images/home-2/service-4.png" alt="icon" />
                     </div>
                     <div class="service-number">
                         <h1>07</h1>
@@ -579,7 +579,7 @@
             <div class="col-lg-3 col-md-6 box tab3">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-4.png" alt="" />
+                        <img src="assets/images/home-2/service-4.png" alt="icon" />
                     </div>
                     <div class="service-number">
                         <h1>08</h1>
@@ -598,7 +598,7 @@
             <div class="col-lg-3 col-md-6 box tab4">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-1.png" alt="" />
+                        <img src="assets/images/home-2/service-1.png" alt="icon" />
                     </div>
                     <div class="service-number">
                         <h1>01</h1>
@@ -615,7 +615,7 @@
             <div class="col-lg-3 col-md-6 box tab4">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-2.png" alt="" />
+                        <img src="assets/images/home-2/service-2.png" alt="icon" />
                     </div>
                     <div class="service-number">
                         <h1>02</h1>
@@ -632,7 +632,7 @@
             <div class="col-lg-3 col-md-6 box tab4 ">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-3.png" alt="" />
+                        <img src="assets/images/home-2/service-3.png" alt="icon" />
                     </div>
                     <div class="service-number">
                         <h1>03</h1>
@@ -649,7 +649,7 @@
             <div class="col-lg-3 col-md-6 box tab4 ">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-6.png" alt="" />
+                        <img src="assets/images/home-2/service-6.png" alt="icon" />
                     </div>
                     <div class="service-number">
                         <h1>04</h1>
@@ -666,7 +666,7 @@
             <div class="col-lg-3 col-md-6 box tab4 ">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-6.png" alt="" />
+                        <img src="assets/images/home-2/service-6.png" alt="icon" />
                     </div>
                     <div class="service-number">
                         <h1>05</h1>
@@ -683,7 +683,7 @@
             <div class="col-lg-3 col-md-6 box tab4 ">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-6.png" alt="" />
+                        <img src="assets/images/home-2/service-6.png" alt="icon" />
                     </div>
                     <div class="service-number">
                         <h1>06</h1>
@@ -700,7 +700,7 @@
             <div class="col-lg-3 col-md-6 box tab4 ">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-6.png" alt="" />
+                        <img src="assets/images/home-2/service-6.png" alt="icon" />
                     </div>
                     <div class="service-number">
                         <h1>07</h1>
@@ -717,7 +717,7 @@
             <div class="col-lg-3 col-md-6 box tab4 ">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-6.png" alt="" />
+                        <img src="assets/images/home-2/service-6.png" alt="icon" />
                     </div>
                     <div class="service-number">
                         <h1>08</h1>
@@ -751,7 +751,7 @@
             <div class="col-lg-3 col-md-6">
                 <div class="single-process-box before-transprant after-transprant">
                     <div class="process-box-thumb">
-                        <img src="assets/images/home-1/process-icon-1.png" alt="" />
+                        <img src="assets/images/home-1/process-icon-1.png" alt="icon" />
                         <div class="process-number">
                             <span>1</span>
                         </div>
@@ -765,7 +765,7 @@
             <div class="col-lg-3 col-md-6">
                 <div class="single-process-box before-transprant">
                     <div class="process-box-thumb">
-                        <img src="assets/images/home-1/process-icon-2.png" alt="" />
+                        <img src="assets/images/home-1/process-icon-2.png" alt="icon" />
                         <div class="process-number">
                             <span>2</span>
                         </div>
@@ -779,7 +779,7 @@
             <div class="col-lg-3 col-md-6">
                 <div class="single-process-box after-transprant">
                     <div class="process-box-thumb">
-                        <img src="assets/images/home-1/process-icon-3.png" alt="" />
+                        <img src="assets/images/home-1/process-icon-3.png" alt="icon" />
                         <div class="process-number">
                             <span>3</span>
                         </div>
@@ -793,7 +793,7 @@
             <div class="col-lg-3 col-md-6">
                 <div class="single-process-box before-transprant">
                     <div class="process-box-thumb">
-                        <img src="assets/images/home-1/process-icon-4.png" alt="" />
+                        <img src="assets/images/home-1/process-icon-4.png" alt="icon" />
                         <div class="process-number">
                             <span>4</span>
                         </div>
@@ -903,7 +903,7 @@
                 <div class="faqs-container">
                     <div class="faq-singular">
                         <h2 class="faq-question">
-                            <img src="assets/images/home-1/question.png" alt="" />#1 What
+                            <img src="assets/images/home-1/question.png" alt="message icon" />#1 What
                             is Technology service?
                         </h2>
                         <div class="faq-answer">
@@ -916,7 +916,7 @@
                     </div>
                     <div class="faq-singular">
                         <h2 class="faq-question">
-                            <img src="assets/images/home-1/question.png" alt="" />#2 How
+                            <img src="assets/images/home-1/question.png" alt="message icon" />#2 How
                             To Buy A Product?
                         </h2>
                         <div class="faq-answer">
@@ -929,7 +929,7 @@
                     </div>
                     <div class="faq-singular">
                         <h2 class="faq-question">
-                            <img src="assets/images/home-1/question.png" alt="" />#3 How
+                            <img src="assets/images/home-1/question.png" alt="message icon" />#3 How
                             Work The Support Policy?
                         </h2>
                         <div class="faq-answer">
@@ -942,7 +942,7 @@
                     </div>
                     <div class="faq-singular">
                         <h2 class="faq-question">
-                            <img src="assets/images/home-1/question.png" alt="" />#4 How
+                            <img src="assets/images/home-1/question.png" alt="message icon" />#4 How
                             Can Send A Refund Request?
                         </h2>
                         <div class="faq-answer">
@@ -979,7 +979,7 @@
                 <div class="col-lg-12">
                     <div class="single-portfolio-box">
                         <div class="portfolio-thumb">
-                            <img src="assets/images/projects/tmt.png" alt="" />
+                            <img src="assets/images/projects/tmt.png" alt="Track My Tournament" />
                         </div>
                         <div class="portfolio-content">
                             <h4>Web App</h4>
@@ -991,7 +991,7 @@
                 <div class="col-lg-12">
                     <div class="single-portfolio-box">
                         <div class="portfolio-thumb">
-                            <img src="assets/images/projects/tma.png" alt="" />
+                            <img src="assets/images/projects/tma.png" alt="Track My Academy" />
                         </div>
                         <div class="portfolio-content">
                             <h4>Web App</h4>
@@ -1003,7 +1003,7 @@
                 <div class="col-lg-12">
                     <div class="single-portfolio-box">
                         <div class="portfolio-thumb">
-                            <img src="assets/images/projects/chatkore.png" alt="" />
+                            <img src="assets/images/projects/chatkore.png" alt="Chattkore" />
                         </div>
                         <div class="portfolio-content">
                             <h4>Website Development</h4>
@@ -1015,7 +1015,7 @@
                 <div class="col-lg-12">
                     <div class="single-portfolio-box">
                         <div class="portfolio-thumb">
-                            <img src="assets/images/projects/royal.png" alt="" />
+                            <img src="assets/images/projects/royal.png" alt="Royal India & Pakistani" />
                         </div>
                         <div class="portfolio-content">
                             <h4>Website Development</h4>
@@ -1027,7 +1027,7 @@
                 <div class="col-lg-12">
                     <div class="single-portfolio-box">
                         <div class="portfolio-thumb">
-                            <img src="assets/images/projects/snigmay.png" alt="" />
+                            <img src="assets/images/projects/snigmay.png" alt="Snigmay Football Club" />
                         </div>
                         <div class="portfolio-content">
                             <h4>Website Development</h4>
@@ -1039,7 +1039,7 @@
                 <div class="col-lg-12">
                     <div class="single-portfolio-box">
                         <div class="portfolio-thumb">
-                            <img src="assets/images/projects/pune-football.png" alt="pdfa" />
+                            <img src="assets/images/projects/pune-football.png" alt="Pune District Football Association" />
                         </div>
                         <div class="portfolio-content">
                             <h4>Web App Development</h4>
@@ -1051,7 +1051,7 @@
                 <div class="col-lg-12">
                     <div class="single-portfolio-box">
                         <div class="portfolio-thumb">
-                            <img src="assets/images/projects/palghar-football.png" alt="pdfa" />
+                            <img src="assets/images/projects/palghar-football.png" alt="Palghar District Football Association" />
                         </div>
                         <div class="portfolio-content">
                             <h4>Web App Development</h4>
@@ -1082,7 +1082,7 @@
                 <div class="single-testi-box">
                     <div class="testi-content">
                         <div class="testi-quote-icon">
-                            <img src="assets/images/home-3/teasti-quote.png" alt="" />
+                            <img src="assets/images/home-3/teasti-quote.png" alt="quotes" />
                         </div>
                         <div class="testi-desc">
                             <p>
@@ -1106,7 +1106,7 @@
                 <div class="single-testi-box">
                     <div class="testi-content">
                         <div class="testi-quote-icon">
-                            <img src="assets/images/home-3/teasti-quote.png" alt="" />
+                            <img src="assets/images/home-3/teasti-quote.png" alt="quotes" />
                         </div>
                         <div class="testi-desc">
                             <p>
@@ -1130,7 +1130,7 @@
                 <div class="single-testi-box">
                     <div class="testi-content">
                         <div class="testi-quote-icon">
-                            <img src="assets/images/home-3/teasti-quote.png" alt="" />
+                            <img src="assets/images/home-3/teasti-quote.png" alt="quotes" />
                         </div>
                         <div class="testi-desc">
                             <p>

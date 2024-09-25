@@ -41,21 +41,21 @@ include('include/header.php');
                 </div>
                 <div class="services-feature-container">
                     <div class="feature-item">
-                        <img src="./assets/images/services/idea.png" alt="">
+                        <img src="./assets/images/services/idea.png" alt="Custom Tailored Solutions">
                         <h5>Custom Tailored Solutions</h5>
                     </div>
                     <div class="feature-item">
-                        <img src="./assets/images/services/robotic-hand.png" alt="">
+                        <img src="./assets/images/services/robotic-hand.png" alt="Cutting-Edge Technology">
                         <h5>Cutting-Edge Technology</h5>
                     </div>
                     <div class="feature-item">
-                        <img src="./assets/images/services/developer.png" alt="">
+                        <img src="./assets/images/services/developer.png" alt="Comprehensive Development Process">
                         <h5>Comprehensive Development Process</h5>
                     </div>
                 </div>
             </div>
             <div class="col-lg-5">
-                <img src="./assets/images/services/bpo.jpg" alt="" class="bpo-right-side">
+                <img src="./assets/images/services/bpo.jpg" alt="Application Development" class="bpo-right-side">
             </div>
         </div>
     </div>
@@ -76,7 +76,7 @@ include('include/header.php');
             <div class="col-lg-3 col-md-6 box tab2">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-5.png" alt="" />
+                        <img src="assets/images/home-2/service-5.png" alt="app development" />
                     </div>
                     <div class="service-number">
                         <h1>01</h1>
@@ -93,7 +93,7 @@ include('include/header.php');
             <div class="col-lg-3 col-md-6 box tab2">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-5.png" alt="" />
+                        <img src="assets/images/home-2/service-5.png" alt="app development" />
                     </div>
                     <div class="service-number">
                         <h1>02</h1>
@@ -110,7 +110,7 @@ include('include/header.php');
             <div class="col-lg-3 col-md-6 box tab2">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-5.png" alt="" />
+                        <img src="assets/images/home-2/service-5.png" alt="app development" />
                     </div>
                     <div class="service-number">
                         <h1>03</h1>
@@ -127,7 +127,7 @@ include('include/header.php');
             <div class="col-lg-3 col-md-6 box tab2">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-5.png" alt="" />
+                        <img src="assets/images/home-2/service-5.png" alt="app development" />
                     </div>
                     <div class="service-number">
                         <h1>04</h1>
@@ -144,7 +144,7 @@ include('include/header.php');
             <div class="col-lg-3 col-md-6 box tab2">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-5.png" alt="" />
+                        <img src="assets/images/home-2/service-5.png" alt="app development" />
                     </div>
                     <div class="service-number">
                         <h1>05</h1>
@@ -161,7 +161,7 @@ include('include/header.php');
             <div class="col-lg-3 col-md-6 box tab2">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-5.png" alt="" />
+                        <img src="assets/images/home-2/service-5.png" alt="app development" />
                     </div>
                     <div class="service-number">
                         <h1>06</h1>
@@ -178,7 +178,7 @@ include('include/header.php');
             <div class="col-lg-3 col-md-6 box tab2">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-5.png" alt="" />
+                        <img src="assets/images/home-2/service-5.png" alt="app development" />
                     </div>
                     <div class="service-number">
                         <h1>07</h1>
@@ -195,7 +195,7 @@ include('include/header.php');
             <div class="col-lg-3 col-md-6 box tab2">
                 <div class="single-services-box">
                     <div class="service-icon-thumb">
-                        <img src="assets/images/home-2/service-5.png" alt="" />
+                        <img src="assets/images/home-2/service-5.png" alt="app development" />
                     </div>
                     <div class="service-number">
                         <h1>08</h1>
